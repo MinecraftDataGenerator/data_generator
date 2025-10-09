@@ -1,4 +1,4 @@
-// 24w03b	2025-10-09T18:51:11.787507248	vanilla/Tags for minecraft:worldgen/biome
+// 24w04a	2025-10-09T18:51:07.283989192	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -26,8 +26,8 @@ afd9da16b8e57511d3b12c69ccd4555d71ebb29f data/minecraft/tags/worldgen/biome/has_
 92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/more_frequent_drowned_spawns.json
 1d08d3b15c59b4c742161ec69693b66fc2ef75d6 data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_cold.json
 f85bfa0d4b462706e486bac541e720ebc630330c data/minecraft/tags/worldgen/biome/is_jungle.json
-45707864d688ef531d52bd0287366ea1e7736874 data/minecraft/tags/worldgen/biome/has_structure/mineshaft_mesa.json
 4515b902a2803d77400aa33b8a3a7751bcaf389a data/minecraft/tags/worldgen/biome/has_structure/jungle_temple.json
+45707864d688ef531d52bd0287366ea1e7736874 data/minecraft/tags/worldgen/biome/has_structure/mineshaft_mesa.json
 9f1a7b9d7c1f633c2245e7066a7bdc93fafb7ffd data/minecraft/tags/worldgen/biome/is_deep_ocean.json
 6525dda69924a36f16797ed873bffc083e1f4de5 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json
 f435c629c4e64303cb04329925903bda3d917ba9 data/minecraft/tags/worldgen/biome/is_hill.json

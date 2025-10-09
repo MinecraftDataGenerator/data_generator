@@ -1,4 +1,4 @@
-// 24w03b	2025-10-09T18:51:11.787914858	vanilla/Tags for minecraft:block
+// 24w04a	2025-10-09T18:51:07.284363772	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -145,8 +145,8 @@ c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/blocks/snaps_goat_h
 4b024c07991b0127a93c4927165b70cbc739df3f data/minecraft/tags/blocks/stairs.json
 e395b02c1ea8040c23269be0d37b137cbe42f27d data/minecraft/tags/blocks/dead_bush_may_place_on.json
 0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/blocks/wooden_trapdoors.json
-a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/blocks/walls.json
 84150f9be2fa26f9202962b031c722718dd23ca0 data/minecraft/tags/blocks/stone_ore_replaceables.json
+a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/blocks/walls.json
 6434eab593808ccdda380aa89dbf4977e908d7b4 data/minecraft/tags/blocks/mangrove_roots_can_grow_through.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/blocks/frog_prefer_jump_to.json
 da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/blocks/axolotls_spawnable_on.json
