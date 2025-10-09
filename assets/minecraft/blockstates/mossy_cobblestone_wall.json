@@ -13,8 +13,8 @@
         "north": "low"
       },
       "apply": {
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side"
+        "model": "minecraft:block/mossy_cobblestone_wall_side",
+        "uvlock": true
       }
     },
     {
@@ -23,8 +23,8 @@
       },
       "apply": {
         "y": 90,
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side"
+        "model": "minecraft:block/mossy_cobblestone_wall_side",
+        "uvlock": true
       }
     },
     {
@@ -33,8 +33,8 @@
       },
       "apply": {
         "y": 180,
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side"
+        "model": "minecraft:block/mossy_cobblestone_wall_side",
+        "uvlock": true
       }
     },
     {
@@ -43,8 +43,8 @@
       },
       "apply": {
         "y": 270,
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side"
+        "model": "minecraft:block/mossy_cobblestone_wall_side",
+        "uvlock": true
       }
     },
     {
@@ -52,8 +52,8 @@
         "north": "tall"
       },
       "apply": {
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side_tall"
+        "model": "minecraft:block/mossy_cobblestone_wall_side_tall",
+        "uvlock": true
       }
     },
     {
@@ -62,8 +62,8 @@
       },
       "apply": {
         "y": 90,
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side_tall"
+        "model": "minecraft:block/mossy_cobblestone_wall_side_tall",
+        "uvlock": true
       }
     },
     {
@@ -72,8 +72,8 @@
       },
       "apply": {
         "y": 180,
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side_tall"
+        "model": "minecraft:block/mossy_cobblestone_wall_side_tall",
+        "uvlock": true
       }
     },
     {
@@ -82,8 +82,8 @@
       },
       "apply": {
         "y": 270,
-        "uvlock": true,
-        "model": "minecraft:block/mossy_cobblestone_wall_side_tall"
+        "model": "minecraft:block/mossy_cobblestone_wall_side_tall",
+        "uvlock": true
       }
     }
   ]

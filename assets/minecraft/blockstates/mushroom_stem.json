@@ -14,8 +14,8 @@
       },
       "apply": {
         "y": 90,
-        "uvlock": true,
-        "model": "minecraft:block/mushroom_stem"
+        "model": "minecraft:block/mushroom_stem",
+        "uvlock": true
       }
     },
     {
@@ -24,8 +24,8 @@
       },
       "apply": {
         "y": 180,
-        "uvlock": true,
-        "model": "minecraft:block/mushroom_stem"
+        "model": "minecraft:block/mushroom_stem",
+        "uvlock": true
       }
     },
     {
@@ -34,8 +34,8 @@
       },
       "apply": {
         "y": 270,
-        "uvlock": true,
-        "model": "minecraft:block/mushroom_stem"
+        "model": "minecraft:block/mushroom_stem",
+        "uvlock": true
       }
     },
     {
@@ -44,8 +44,8 @@
       },
       "apply": {
         "x": 270,
-        "uvlock": true,
-        "model": "minecraft:block/mushroom_stem"
+        "model": "minecraft:block/mushroom_stem",
+        "uvlock": true
       }
     },
     {
@@ -54,8 +54,8 @@
       },
       "apply": {
         "x": 90,
-        "uvlock": true,
-        "model": "minecraft:block/mushroom_stem"
+        "model": "minecraft:block/mushroom_stem",
+        "uvlock": true
       }
     },
     {
@@ -72,8 +72,8 @@
       },
       "apply": {
         "y": 90,
-        "uvlock": false,
-        "model": "minecraft:block/mushroom_block_inside"
+        "model": "minecraft:block/mushroom_block_inside",
+        "uvlock": false
       }
     },
     {
@@ -82,8 +82,8 @@
       },
       "apply": {
         "y": 180,
-        "uvlock": false,
-        "model": "minecraft:block/mushroom_block_inside"
+        "model": "minecraft:block/mushroom_block_inside",
+        "uvlock": false
       }
     },
     {
@@ -92,8 +92,8 @@
       },
       "apply": {
         "y": 270,
-        "uvlock": false,
-        "model": "minecraft:block/mushroom_block_inside"
+        "model": "minecraft:block/mushroom_block_inside",
+        "uvlock": false
       }
     },
     {
@@ -102,8 +102,8 @@
       },
       "apply": {
         "x": 270,
-        "uvlock": false,
-        "model": "minecraft:block/mushroom_block_inside"
+        "model": "minecraft:block/mushroom_block_inside",
+        "uvlock": false
       }
     },
     {
@@ -112,8 +112,8 @@
       },
       "apply": {
         "x": 90,
-        "uvlock": false,
-        "model": "minecraft:block/mushroom_block_inside"
+        "model": "minecraft:block/mushroom_block_inside",
+        "uvlock": false
       }
     }
   ]

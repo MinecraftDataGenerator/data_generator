@@ -10,8 +10,8 @@
         "north": "true"
       },
       "apply": {
-        "uvlock": true,
-        "model": "minecraft:block/dark_oak_fence_side"
+        "model": "minecraft:block/dark_oak_fence_side",
+        "uvlock": true
       }
     },
     {
@@ -20,8 +20,8 @@
       },
       "apply": {
         "y": 90,
-        "uvlock": true,
-        "model": "minecraft:block/dark_oak_fence_side"
+        "model": "minecraft:block/dark_oak_fence_side",
+        "uvlock": true
       }
     },
     {
@@ -30,8 +30,8 @@
       },
       "apply": {
         "y": 180,
-        "uvlock": true,
-        "model": "minecraft:block/dark_oak_fence_side"
+        "model": "minecraft:block/dark_oak_fence_side",
+        "uvlock": true
       }
     },
     {
@@ -40,8 +40,8 @@
       },
       "apply": {
         "y": 270,
-        "uvlock": true,
-        "model": "minecraft:block/dark_oak_fence_side"
+        "model": "minecraft:block/dark_oak_fence_side",
+        "uvlock": true
       }
     }
   ]
