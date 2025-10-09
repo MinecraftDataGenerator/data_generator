@@ -1,4 +1,4 @@
-// 25w09b	2025-10-09T18:43:14.373316094	vanilla/Tags for minecraft:item
+// 25w10a	2025-10-09T18:43:22.210931817	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -27,6 +27,7 @@ c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.j
 64cced731059717fbae6969a456ba5a8fe08d5ad data/minecraft/tags/item/bookshelf_books.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/item/piglin_loved.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/repairs_diamond_armor.json
+002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/item/flowers.json
 e9d352a7a079a3d6b05caa452924fb03a001cbae data/minecraft/tags/item/wooden_fences.json
 5271e7aa01a851b891fdc27fcc241414309798ee data/minecraft/tags/item/chest_armor.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/item/birch_logs.json
@@ -69,8 +70,8 @@ f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/repairs_gold_a
 c48bbed46970bff31dd0e696398a3e105fa0fa1f data/minecraft/tags/item/stairs.json
 f756762fd97e893f40e05ebeab43638fbffc2bc5 data/minecraft/tags/item/walls.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
-8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
+8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
 da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/item/wooden_slabs.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/dyeable.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
