@@ -1,4 +1,4 @@
-// 1.19.3 Release Candidate 2	2025-10-09T18:57:18.799791062	update_1_20/Tags for minecraft:item
+// 1.19.3 Release Candidate 3	2025-10-09T18:57:09.218610379	update_1_20/Tags for minecraft:item
 b6bbcc7e53f8a8ebbb2562ff4e2891b413de4c1f data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/fence_gates.json
 af2ac5aa6c660abc7f9e705790995467d7883b8a data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_fences.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/buttons.json
@@ -10,8 +10,8 @@ f52c7b6d0554583b1deed3f606b134eca41b64ab data/minecraft/datapacks/update_1_20/da
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/slabs.json
 9a63d88cf08452a9223374f12e377a986e92d707 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/signs.json
 b2ccf8004e5a5514a8ff70429f9566266905f00e data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/non_flammable_wood.json
-bd4db8a5737773ae559a890697d57c6cba74df86 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/planks.json
 78b4241f82e7add7dc06bbc32f5396f5f9cb4405 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_stairs.json
+bd4db8a5737773ae559a890697d57c6cba74df86 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/planks.json
 cf90c563e751e124dd4d698f10e092ea27dc1ee2 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_doors.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/trapdoors.json
 df13adbde216cdfc3e89d9bb5b41a35c1fd44c53 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/hanging_signs.json
