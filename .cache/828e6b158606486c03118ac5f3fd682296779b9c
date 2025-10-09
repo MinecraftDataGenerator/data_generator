@@ -1,4 +1,4 @@
-// 23w03a	2025-10-09T18:57:02.70891005	vanilla/Loot Tables
+// 23w04a	2025-10-09T18:56:55.466625962	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -447,8 +447,8 @@ f1eb700af721c756d68f0165f482b03db8883007 data/minecraft/loot_tables/blocks/oxeye
 cd2523132db1e6b41a637a5f87832ae2f7e769be data/minecraft/loot_tables/blocks/warped_slab.json
 b6dc615d23bf39f4c043f8e1cdb635c0be9cb708 data/minecraft/loot_tables/blocks/dirt.json
 89f3c0b48aa39d1929a7cb746d02f7ec2aca86e7 data/minecraft/loot_tables/blocks/purple_bed.json
-13a7df839a51193668226c554ceb662d20219e34 data/minecraft/loot_tables/blocks/poppy.json
 b6dc615d23bf39f4c043f8e1cdb635c0be9cb708 data/minecraft/loot_tables/blocks/dirt_path.json
+13a7df839a51193668226c554ceb662d20219e34 data/minecraft/loot_tables/blocks/poppy.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/warped_hanging_sign.json
 d0c4b21912e6bc70b44bd77afec56528e76f21e2 data/minecraft/loot_tables/blocks/gilded_blackstone.json
 0a45c5c3ff64e2a1f4fba8b91ff81715e6f4362c data/minecraft/loot_tables/blocks/spruce_leaves.json
