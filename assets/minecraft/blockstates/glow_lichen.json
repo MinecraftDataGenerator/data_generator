@@ -12,7 +12,37 @@
     },
     {
       "when": {
+        "down": "false",
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "up": "false",
+        "south": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/glow_lichen",
+        "x": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
         "east": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/glow_lichen",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "down": "false",
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "up": "false",
+        "south": "false"
       },
       "apply": {
         "model": "minecraft:block/glow_lichen",
@@ -32,7 +62,35 @@
     },
     {
       "when": {
+        "down": "false",
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "up": "false",
+        "south": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/glow_lichen",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
         "north": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/glow_lichen"
+      }
+    },
+    {
+      "when": {
+        "down": "false",
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "up": "false",
+        "south": "false"
       },
       "apply": {
         "model": "minecraft:block/glow_lichen"
@@ -50,7 +108,37 @@
     },
     {
       "when": {
+        "down": "false",
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "up": "false",
+        "south": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/glow_lichen",
+        "x": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
         "south": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/glow_lichen",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "down": "false",
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "up": "false",
+        "south": "false"
       },
       "apply": {
         "model": "minecraft:block/glow_lichen",
