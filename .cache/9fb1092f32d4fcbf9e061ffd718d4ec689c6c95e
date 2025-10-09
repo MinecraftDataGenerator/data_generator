@@ -1,4 +1,4 @@
-// 1.19.1 Pre-release 5	2025-10-09T18:58:52.218402434	Recipes
+// 1.19.1 Pre-release 6	2025-10-09T18:58:42.029686792	Recipes
 1e7c38e5b5df9f9aa4b87a8adcea253a4382f3f9 data/minecraft/advancements/recipes/redstone/oak_pressure_plate.json
 5800c1f05a328e7d3dc1d876d398e373af5419e9 data/minecraft/recipes/end_stone_brick_wall_from_end_stone_stonecutting.json
 bd3cee3ea066881da52fe15d10cdc89fb9a5b8cc data/minecraft/advancements/recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting.json
@@ -1818,8 +1818,8 @@ a0659d07af961eb582132e263a94bade6288b861 data/minecraft/recipes/leather_horse_ar
 3589fc5001c97e9d0e56d4c3f2b96378ee49705e data/minecraft/recipes/mossy_stone_brick_wall.json
 57ea559cc7f9d29b496021ccf91016c0ec8cff05 data/minecraft/advancements/recipes/building_blocks/raw_copper_block.json
 fa892b60b7fbc8eaccf8f791b6ca6721359c02ff data/minecraft/recipes/diorite_wall_from_diorite_stonecutting.json
-03e75bbf6f877352d6085ccdb1ed64fb0ad52e51 data/minecraft/advancements/recipes/building_blocks/mangrove_stairs.json
 df0f97ee5e0dd52454be9c9e3684dbcfd668ef61 data/minecraft/recipes/mangrove_fence.json
+03e75bbf6f877352d6085ccdb1ed64fb0ad52e51 data/minecraft/advancements/recipes/building_blocks/mangrove_stairs.json
 fd2af84b088bef8ad2a74ef458c81eba41e204f3 data/minecraft/advancements/recipes/building_blocks/blue_wool.json
 2bc0a76658a64a29695deaa0ef5e18c37473c710 data/minecraft/advancements/recipes/building_blocks/cobbled_deepslate_stairs.json
 478fe5636091664e8291e80dcb7c56002ee52b0b data/minecraft/recipes/blue_concrete_powder.json
