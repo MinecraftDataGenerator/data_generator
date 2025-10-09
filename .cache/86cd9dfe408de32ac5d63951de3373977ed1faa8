@@ -1,4 +1,4 @@
-// 25w34b	2025-10-09T18:39:36.239431271	vanilla/Tags for minecraft:block
+// 25w35a	2025-10-09T18:39:20.984751774	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -56,7 +56,7 @@ f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_en
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json
 e20a9087558b4404a6e500f050a7d0e926667902 data/minecraft/tags/block/wall_post_override.json
 694728b1aa5cfb38e0e4afd386494b2d4ce9b085 data/minecraft/tags/block/overworld_natural_logs.json
-b9df1acf66f5747b0242085aca9317ef8fc034c3 data/minecraft/tags/block/chains.json
+29c3c032c543c313785b4a38ef26be8c177d2c10 data/minecraft/tags/block/chains.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/triggers_ambient_desert_sand_block_sounds.json
 7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/block/portals.json
 9fa8e169d8e22baeaa4b0c96ba6ab87ab881a4cd data/minecraft/tags/block/wolves_spawnable_on.json
@@ -147,8 +147,8 @@ ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 dd3a77b2229c67cb46f729e311d06ba0f1ed4525 data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
-45bb9869c8765a149d367b37f30de3aa7b649c59 data/minecraft/tags/block/dirt.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
+45bb9869c8765a149d367b37f30de3aa7b649c59 data/minecraft/tags/block/dirt.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.json
 c8409b7c9e49c5f3cb29b632d93a85d8325b3490 data/minecraft/tags/block/happy_ghast_avoids.json
 92861bbfc33718f65a6c66f4468675fa09ac162f data/minecraft/tags/block/animals_spawnable_on.json
@@ -165,8 +165,8 @@ db6195d77bd598771b111d12750ba39f41fe35c7 data/minecraft/tags/block/strider_warm_
 0f12416e29c47a8dd09b45231993f21c8a0215c6 data/minecraft/tags/block/azalea_grows_on.json
 c1b2a217bb3fcb7e1d67f5bc45409796720bd171 data/minecraft/tags/block/camels_spawnable_on.json
 3bbc6e083a8a39ca0ab068988d6cbd4d91911d31 data/minecraft/tags/block/wooden_shelves.json
-4ffaa49e8fe60af1f5992d2fdb73e4b1bc5fcf98 data/minecraft/tags/block/crops.json
 f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/block/fall_damage_resetting.json
+4ffaa49e8fe60af1f5992d2fdb73e4b1bc5fcf98 data/minecraft/tags/block/crops.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/block/trapdoors.json
 da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/block/mineable/shovel.json
 c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertable_to_mud.json

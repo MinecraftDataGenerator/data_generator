@@ -1,4 +1,4 @@
-// 25w34b	2025-10-09T18:39:36.233752272	vanilla/Tags for minecraft:item
+// 25w35a	2025-10-09T18:39:20.979137437	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -47,7 +47,7 @@ f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/gold_tool_mate
 085238f24aca214ce9eb3f57ab02370467990f33 data/minecraft/tags/item/copper.json
 f7a8c659163fbac23438e07049cc42e0aa39eb9a data/minecraft/tags/item/netherite_tool_materials.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/item/warped_stems.json
-b9df1acf66f5747b0242085aca9317ef8fc034c3 data/minecraft/tags/item/chains.json
+29c3c032c543c313785b4a38ef26be8c177d2c10 data/minecraft/tags/item/chains.json
 7bdc4e8a848d74506654066162a98604bc481d64 data/minecraft/tags/item/swords.json
 75df44deafb1f627b674575d499833e104a43f2b data/minecraft/tags/item/piglin_food.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/item/freeze_immune_wearables.json
@@ -55,8 +55,8 @@ f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/item/pale_oak_logs.
 d9902302dcd6c7d67acfc5bb641cbae30cf3d03c data/minecraft/tags/item/enchantable/weapon.json
 0d7a4c11ebf0aae0af19bacbd70cea4cdca1a342 data/minecraft/tags/item/enchantable/bow.json
 7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/item/sand.json
-43dad06c318b3bf718e0b3d167976e74d46c9f8a data/minecraft/tags/item/wooden_doors.json
 d11104fa740f8cba15f2b53b2528bec1cfc67db1 data/minecraft/tags/item/wooden_pressure_plates.json
+43dad06c318b3bf718e0b3d167976e74d46c9f8a data/minecraft/tags/item/wooden_doors.json
 e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 5d407768566931624382de0b64078a58503568c0 data/minecraft/tags/item/pickaxes.json
@@ -78,8 +78,8 @@ c48bbed46970bff31dd0e696398a3e105fa0fa1f data/minecraft/tags/item/stairs.json
 f756762fd97e893f40e05ebeab43638fbffc2bc5 data/minecraft/tags/item/walls.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
 da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/item/wooden_slabs.json
-84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
+84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/dyeable.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
