@@ -1,4 +1,4 @@
-// 1.20 Pre-release 5	2025-10-09T18:54:36.125225307	vanilla/Tags for minecraft:block
+// 1.20 Pre-release 6	2025-10-09T18:54:35.478949315	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -30,8 +30,8 @@ d772e288e7520c6974ec3238c6aa3ecd2b8e686b data/minecraft/tags/blocks/trail_ruins_
 837bf053d44a820743fe76f981febdde02bc78a2 data/minecraft/tags/blocks/underwater_bonemeals.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/blocks/copper_ores.json
 aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/blocks/guarded_by_piglins.json
-5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/blocks/deepslate_ore_replaceables.json
 ed346d15e3bcb5e92e5045b4c6da0d19ad0243b0 data/minecraft/tags/blocks/inside_step_sound_blocks.json
+5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/blocks/deepslate_ore_replaceables.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/blocks/cherry_logs.json
 632e3c9b57c812cfb93f65d1ec8cb7afe2b4e733 data/minecraft/tags/blocks/geode_invalid_blocks.json
 24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/blocks/wooden_slabs.json
