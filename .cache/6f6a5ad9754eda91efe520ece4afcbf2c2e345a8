@@ -1,4 +1,4 @@
-// 1.20.5	2025-10-09T18:48:54.155545631	update_1_21/Tags for minecraft:entity_type
+// 1.20.6 Release Candidate 1	2025-10-09T18:48:54.34226053	update_1_21/Tags for minecraft:entity_type
 3d326fcaa0c2cd8632b1aa1c759a67f81b22b46e data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/skeletons.json
 938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/immune_to_infested.json
 5e2d6dbd339cdc162f1bd13fa83d0ece1b6014d8 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/immune_to_oozing.json
