@@ -1,9 +1,14 @@
-// 24w14potato	2025-10-09T18:49:52.185410699	update_1_21/Tags for minecraft:item
-894534871bdc1917481c684dc1ec0dc9c065560f data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/trim_templates.json
-76540fce3dd0270e850ff04054055c73c8ba462c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/decorated_pot_sherds.json
-5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/stairs.json
+// 24w14a	2025-10-09T18:49:40.830482342	update_1_21/Tags for minecraft:item
 eead159568467477b62e9f2314af15d122a3f48f data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/doors.json
-76540fce3dd0270e850ff04054055c73c8ba462c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/decorated_pot_ingredients.json
-e4e0677676c88b770fb2f198c8904b8e4899ab59 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/slabs.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/enchantable/vanishing.json
 759fae2e6c137458e65ac556666a27231832447e data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/trapdoors.json
 4566532194d000f068193f3b594b6cf17b268601 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/walls.json
+894534871bdc1917481c684dc1ec0dc9c065560f data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/trim_templates.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/enchantable/durability.json
+76540fce3dd0270e850ff04054055c73c8ba462c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/decorated_pot_sherds.json
+5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/stairs.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/enchantable/mace.json
+76540fce3dd0270e850ff04054055c73c8ba462c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/decorated_pot_ingredients.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/enchantable/weapon.json
+e4e0677676c88b770fb2f198c8904b8e4899ab59 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/slabs.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/enchantable/fire_aspect.json

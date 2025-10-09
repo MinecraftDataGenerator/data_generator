@@ -1,4 +1,4 @@
-// 24w14potato	2025-10-09T18:49:52.184158988	update_1_21/Tags for minecraft:damage_type
+// 24w14a	2025-10-09T18:49:40.829508562	update_1_21/Tags for minecraft:damage_type
 bb60f484beb4987b151845a8c5ab1e00c4b5afda data/minecraft/datapacks/update_1_21/data/minecraft/tags/damage_type/is_projectile.json
 130013ecb882e97f36e80534f179ebe5fa27b7a9 data/minecraft/datapacks/update_1_21/data/minecraft/tags/damage_type/breeze_immune_to.json
 bb60f484beb4987b151845a8c5ab1e00c4b5afda data/minecraft/datapacks/update_1_21/data/minecraft/tags/damage_type/always_kills_armor_stands.json
