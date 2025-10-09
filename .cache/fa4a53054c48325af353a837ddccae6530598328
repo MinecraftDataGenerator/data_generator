@@ -1,4 +1,4 @@
-// 1.20.3 Pre-Release 3	2025-10-09T18:52:00.184975789	vanilla/Tags for minecraft:item
+// 1.20.3 Pre-Release 4	2025-10-09T18:51:54.934109713	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
@@ -12,8 +12,8 @@ cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/items/boats.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/items/rails.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
-31bf5be4d9eb1f3bc41d3724eb215f232d5e2b7a data/minecraft/tags/items/trimmable_armor.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
+31bf5be4d9eb1f3bc41d3724eb215f232d5e2b7a data/minecraft/tags/items/trimmable_armor.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/items/cherry_logs.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/smelts_to_glass.json
 45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/items/sand.json
@@ -26,8 +26,8 @@ f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/items/decorated_pot
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/items/oak_logs.json
 e2118d61d92c8e80f455e051b38d4195e051758d data/minecraft/tags/items/music_discs.json
 002a1f0e0b109cd883572ac23180e47312fdd8bb data/minecraft/tags/items/tall_flowers.json
-24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/items/wooden_slabs.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
+24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/items/wooden_slabs.json
 96ec35440ec938d4e8c994da68ec327de7e4cf85 data/minecraft/tags/items/non_flammable_wood.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/items/logs.json
 b7d959a4eef7bbd9e6ce12e26764c3931088f42c data/minecraft/tags/items/wooden_buttons.json
