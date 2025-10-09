@@ -1,4 +1,4 @@
-// 1.19.2	2025-10-09T18:58:07.663195352	Tags for minecraft:item
+// 22w42a	2025-10-09T18:58:08.733984428	Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
@@ -43,7 +43,7 @@ c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/items/wooden_slabs.
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/items/birch_logs.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/items/piglin_loved.json
-88dbd252e813d6dcfac6f78445f442057079e749 data/minecraft/tags/items/non_flammable_wood.json
+96ec35440ec938d4e8c994da68ec327de7e4cf85 data/minecraft/tags/items/non_flammable_wood.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/items/logs.json
 4d7b608c91d55324829c11f1861e797a47f33cb1 data/minecraft/tags/items/doors.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/items/dampens_vibrations.json
@@ -52,6 +52,7 @@ b4fcc5ce4ff21acedf76892feba249956ff5c20b data/minecraft/tags/items/wooden_button
 b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/items/axolotl_tempt_items.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/items/ignored_by_piglin_babies.json
 5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/items/beds.json
+8e1f9955213a1b744d739c105d900570d6529fa4 data/minecraft/tags/items/stripped_logs.json
 a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/items/walls.json
 8f9d98e8e906913bd9389fccb47fef34320f78cc data/minecraft/tags/items/cluster_max_harvestables.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/items/redstone_ores.json

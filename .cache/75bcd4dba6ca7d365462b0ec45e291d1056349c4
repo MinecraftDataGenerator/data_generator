@@ -1,4 +1,4 @@
-// 1.19.2	2025-10-09T18:58:07.663714112	Tags for minecraft:block
+// 22w42a	2025-10-09T18:58:08.751657695	Tags for minecraft:block
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -117,6 +117,7 @@ f46daef72cebb7ee09a3d1e4971b314ffd7f0352 data/minecraft/tags/blocks/dragon_trans
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/blocks/spruce_logs.json
 ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/blocks/mushroom_grow_block.json
 cba49c35a530041b3da1cb5d68a0a7ebcc1361cb data/minecraft/tags/blocks/mineable/hoe.json
+8e1f9955213a1b744d739c105d900570d6529fa4 data/minecraft/tags/blocks/stripped_logs.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/blocks/stone_bricks.json
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/blocks/foxes_spawnable_on.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/blocks/gold_ores.json
@@ -143,6 +144,7 @@ b4fcc5ce4ff21acedf76892feba249956ff5c20b data/minecraft/tags/blocks/wooden_butto
 486861a8a01410d404ee129446a439a712b98156 data/minecraft/tags/blocks/fire.json
 fe877e8ce6716f505c15d20e6ee5caf885d4ae99 data/minecraft/tags/blocks/mineable/pickaxe.json
 f70b5535522ee5d34a48303062041db7eb2fa4f1 data/minecraft/tags/blocks/features_cannot_replace.json
+f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/blocks/invalid_spawn_inside.json
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/blocks/infiniburn_nether.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/blocks/emerald_ores.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/blocks/valid_spawn.json
