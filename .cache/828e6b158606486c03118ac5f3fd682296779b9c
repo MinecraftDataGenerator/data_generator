@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 1	2025-10-09T18:56:32.194144532	vanilla/Loot Tables
+// 1.19.4 Pre-release 2	2025-10-09T18:56:38.715515515	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -1040,8 +1040,8 @@ b373ed16c0f61012ae06ee5c36a994c5de56aef3 data/minecraft/loot_tables/blocks/waxed
 8826946f90e88b7672c332609ce55cf9bed8590b data/minecraft/loot_tables/blocks/cave_vines_plant.json
 9c66e62473d752b4e87dbad597bfc470403bdb8f data/minecraft/loot_tables/blocks/waxed_oxidized_cut_copper.json
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/silverfish.json
-473200450f67400a94c0f3a613cfed48259b2a55 data/minecraft/loot_tables/blocks/mangrove_sign.json
 79e1a00886916edf4d9716ac325987f25a88503a data/minecraft/loot_tables/blocks/light_gray_carpet.json
+473200450f67400a94c0f3a613cfed48259b2a55 data/minecraft/loot_tables/blocks/mangrove_sign.json
 60673daf927d4a00af2412de8e32961ec203bfc3 data/minecraft/loot_tables/blocks/white_terracotta.json
 4f22b05a85c8105452675c49f90a4261b9517363 data/minecraft/loot_tables/blocks/purple_concrete_powder.json
 557eb00a8b4356e0e42c207ec66e47f62795d084 data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json

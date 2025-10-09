@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 1	2025-10-09T18:56:32.197215002	vanilla/Tags for minecraft:worldgen/biome
+// 1.19.4 Pre-release 2	2025-10-09T18:56:38.718130886	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -63,7 +63,7 @@ bedc0e33282a8fb53f5a5a3285d91db0b9ac5ff1 data/minecraft/tags/worldgen/biome/has_
 45e2314b6fbf2e847bd70c163e678e0e756a1640 data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json
 becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
 d8269ffe956b3bf8819c11c41e405d3331434e8e data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json
-e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/without_zombie_sieges.json
 cf692980e7b8c83321d8489ae0d76db7effbaa4a data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json
+e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/without_zombie_sieges.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/spawns_gold_rabbits.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json
