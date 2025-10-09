@@ -1,4 +1,4 @@
-// 1.21.5 Pre-Release 3	2025-10-09T18:42:53.148100653	vanilla/Vanilla Recipes
+// 1.21.5 Release Candidate 1	2025-10-09T18:42:52.992472237	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ab191fdde225331704efc69ad0cde47b421cff84 data/minecraft/recipe/dye_magenta_bed.json
@@ -992,8 +992,8 @@ d0289909ab257e9182e61dafd52e7835564e1b1d data/minecraft/advancement/recipes/misc
 509502e0d7c74049f1c14f2cf341838fac26d6a7 data/minecraft/advancement/recipes/misc/raw_copper.json
 c980ccf588a939bf4b3a5bf1df152cf9c5f1119d data/minecraft/recipe/gray_dye_from_closed_eyeblossom.json
 4fb70f3161c4494760a6904ad99e452b1a9a3de3 data/minecraft/recipe/mud_brick_slab.json
-5442d354c9aa398f906aff07a5a780eb87a8db9d data/minecraft/recipe/green_bundle.json
 3a39412fcebecd7bbbd11a08c64895f20e54704d data/minecraft/recipe/mace.json
+5442d354c9aa398f906aff07a5a780eb87a8db9d data/minecraft/recipe/green_bundle.json
 ec7f047c0bdbcee0d112fbda6ccd3015124ec99e data/minecraft/recipe/mossy_cobblestone_stairs.json
 fab81d5c3964ebd3e2e384a57475bf8fe0e491fb data/minecraft/advancement/recipes/building_blocks/mangrove_planks.json
 1559a6c739984b401e759445b80db79f23f9531b data/minecraft/advancement/recipes/misc/yellow_dye_from_dandelion.json
