@@ -1,6 +1,6 @@
-// 1.21.4 Pre-Release 3	2025-10-09T18:44:32.226379043	vanilla/Tags for minecraft:entity_type
-bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
+// 1.21.4 Release Candidate 1	2025-10-09T18:44:35.287634089	vanilla/Tags for minecraft:entity_type
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
+bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 3b9491f8c3d5a66d5ce8a9dd1582fce60060ded3 data/minecraft/tags/entity_type/undead.json
 5decf1729450d88915af4860ad75ac73b3e07f06 data/minecraft/tags/entity_type/freeze_immune_entity_types.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
@@ -12,8 +12,8 @@ fd03792012d037b2783775c9b14e51362fd43a4f data/minecraft/tags/entity_type/sensiti
 5e2d6dbd339cdc162f1bd13fa83d0ece1b6014d8 data/minecraft/tags/entity_type/immune_to_oozing.json
 a8c7becc7c5d6e4b65492a5736c8fd7e72f795d3 data/minecraft/tags/entity_type/zombies.json
 596128c63e932267b7e2f2b44ebe115e9fe45b5f data/minecraft/tags/entity_type/fall_damage_immune.json
-56d54516808d04961d3ab7b99cdf89920c7a1be0 data/minecraft/tags/entity_type/no_anger_from_wind_charge.json
 e1f5049789bea1f0a8097f1e43c87fded291f85d data/minecraft/tags/entity_type/impact_projectiles.json
+56d54516808d04961d3ab7b99cdf89920c7a1be0 data/minecraft/tags/entity_type/no_anger_from_wind_charge.json
 9aa54cd5ec37fff24dfc4f679df3862f04ce6340 data/minecraft/tags/entity_type/axolotl_hunt_targets.json
 ad9d5d4178d8cda67ed5dc6acef970fffe2a9cf1 data/minecraft/tags/entity_type/can_breathe_under_water.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverted_healing_and_harm.json
