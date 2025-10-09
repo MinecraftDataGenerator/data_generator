@@ -22,8 +22,8 @@
         "east": "low"
       },
       "apply": {
-        "uvlock": true,
         "y": 90,
+        "uvlock": true,
         "model": "minecraft:block/brick_wall_side"
       }
     },
@@ -32,8 +32,8 @@
         "south": "low"
       },
       "apply": {
-        "uvlock": true,
         "y": 180,
+        "uvlock": true,
         "model": "minecraft:block/brick_wall_side"
       }
     },
@@ -42,8 +42,8 @@
         "west": "low"
       },
       "apply": {
-        "uvlock": true,
         "y": 270,
+        "uvlock": true,
         "model": "minecraft:block/brick_wall_side"
       }
     },
@@ -61,8 +61,8 @@
         "east": "tall"
       },
       "apply": {
-        "uvlock": true,
         "y": 90,
+        "uvlock": true,
         "model": "minecraft:block/brick_wall_side_tall"
       }
     },
@@ -71,8 +71,8 @@
         "south": "tall"
       },
       "apply": {
-        "uvlock": true,
         "y": 180,
+        "uvlock": true,
         "model": "minecraft:block/brick_wall_side_tall"
       }
     },
@@ -81,8 +81,8 @@
         "west": "tall"
       },
       "apply": {
-        "uvlock": true,
         "y": 270,
+        "uvlock": true,
         "model": "minecraft:block/brick_wall_side_tall"
       }
     }

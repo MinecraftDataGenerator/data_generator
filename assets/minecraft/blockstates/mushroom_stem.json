@@ -13,8 +13,8 @@
         "east": "true"
       },
       "apply": {
-        "uvlock": true,
         "y": 90,
+        "uvlock": true,
         "model": "minecraft:block/mushroom_stem"
       }
     },
@@ -23,8 +23,8 @@
         "south": "true"
       },
       "apply": {
-        "uvlock": true,
         "y": 180,
+        "uvlock": true,
         "model": "minecraft:block/mushroom_stem"
       }
     },
@@ -33,8 +33,8 @@
         "west": "true"
       },
       "apply": {
-        "uvlock": true,
         "y": 270,
+        "uvlock": true,
         "model": "minecraft:block/mushroom_stem"
       }
     },
@@ -71,8 +71,8 @@
         "east": "false"
       },
       "apply": {
-        "uvlock": false,
         "y": 90,
+        "uvlock": false,
         "model": "minecraft:block/mushroom_block_inside"
       }
     },
@@ -81,8 +81,8 @@
         "south": "false"
       },
       "apply": {
-        "uvlock": false,
         "y": 180,
+        "uvlock": false,
         "model": "minecraft:block/mushroom_block_inside"
       }
     },
@@ -91,8 +91,8 @@
         "west": "false"
       },
       "apply": {
-        "uvlock": false,
         "y": 270,
+        "uvlock": false,
         "model": "minecraft:block/mushroom_block_inside"
       }
     },

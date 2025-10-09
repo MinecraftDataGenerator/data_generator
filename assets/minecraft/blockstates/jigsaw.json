@@ -1,30 +1,57 @@
 {
   "variants": {
-    "facing=down": {
-      "x": 180,
-      "model": "minecraft:block/jigsaw"
-    },
-    "facing=east": {
+    "orientation=down_east": {
       "x": 90,
-      "y": 90,
-      "model": "minecraft:block/jigsaw"
+      "model": "minecraft:block/jigsaw",
+      "y": 90
     },
-    "facing=north": {
+    "orientation=down_north": {
       "x": 90,
       "model": "minecraft:block/jigsaw"
     },
-    "facing=south": {
+    "orientation=down_south": {
       "x": 90,
-      "y": 180,
+      "model": "minecraft:block/jigsaw",
+      "y": 180
+    },
+    "orientation=down_west": {
+      "x": 90,
+      "model": "minecraft:block/jigsaw",
+      "y": 270
+    },
+    "orientation=east_up": {
+      "model": "minecraft:block/jigsaw",
+      "y": 90
+    },
+    "orientation=north_up": {
       "model": "minecraft:block/jigsaw"
     },
-    "facing=up": {
+    "orientation=south_up": {
+      "model": "minecraft:block/jigsaw",
+      "y": 180
+    },
+    "orientation=up_east": {
+      "x": 270,
+      "model": "minecraft:block/jigsaw",
+      "y": 270
+    },
+    "orientation=up_north": {
+      "x": 270,
+      "model": "minecraft:block/jigsaw",
+      "y": 180
+    },
+    "orientation=up_south": {
+      "x": 270,
       "model": "minecraft:block/jigsaw"
     },
-    "facing=west": {
-      "x": 90,
-      "y": 270,
-      "model": "minecraft:block/jigsaw"
+    "orientation=up_west": {
+      "x": 270,
+      "model": "minecraft:block/jigsaw",
+      "y": 90
+    },
+    "orientation=west_up": {
+      "model": "minecraft:block/jigsaw",
+      "y": 270
     }
   }
 }
