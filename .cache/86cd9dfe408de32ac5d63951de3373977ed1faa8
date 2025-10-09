@@ -1,4 +1,4 @@
-// 25w04a	2025-10-09T18:43:52.53896665	vanilla/Tags for minecraft:block
+// 25w05a	2025-10-09T18:43:42.537754237	vanilla/Tags for minecraft:block
 e27f03c80c3b8d458dfbfe3f95098fed922404b0 data/minecraft/tags/block/bee_attractive.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 e58f5fa3c4fe3090b27304fa8f3c92e23594f085 data/minecraft/tags/block/flower_pots.json
@@ -53,6 +53,7 @@ e395b02c1ea8040c23269be0d37b137cbe42f27d data/minecraft/tags/block/dead_bush_may
 fe67f656c64c8654f29be025478ff7af10c3cfac data/minecraft/tags/block/rabbits_spawnable_on.json
 f46daef72cebb7ee09a3d1e4971b314ffd7f0352 data/minecraft/tags/block/dragon_transparent.json
 da8880b27b664f60523120a7fade87922c9848cc data/minecraft/tags/block/wooden_stairs.json
+d8549ed0a6b120b24ad5de272abf8e9a39554f26 data/minecraft/tags/block/plays_ambient_desert_block_sounds.json
 472e4d60481cc5e8f1b5401cf66de38b4e721567 data/minecraft/tags/block/overworld_carver_replaceables.json
 6685174532a27724f89c1480727a4ad880f6c586 data/minecraft/tags/block/stone_buttons.json
 cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_step_sound_blocks.json
@@ -136,10 +137,10 @@ cdedde9c9e3a4d85da4757f1618798a994b8f5d7 data/minecraft/tags/block/mineable/axe.
 f6d2baa21576277e20daeb8665d3985c31b70579 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-5cc29d0b3485d239269ca7a4513854336f461b35 data/minecraft/tags/block/needs_stone_tool.json
 905d197e0e44399b1d3bcd17fe2baef0f93abb8c data/minecraft/tags/block/mineable/pickaxe.json
-f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/block/pale_oak_logs.json
+5cc29d0b3485d239269ca7a4513854336f461b35 data/minecraft/tags/block/needs_stone_tool.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
+f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/block/pale_oak_logs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 158a4877fad0ee79d00e8c9f641ad661e822cdb5 data/minecraft/tags/block/sniffer_egg_hatch_boost.json
 52601cc0888aa51f164cf44aa8c088293bb40ce6 data/minecraft/tags/block/armadillo_spawnable_on.json
