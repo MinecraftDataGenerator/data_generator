@@ -1,4 +1,4 @@
-// 1.20.1 Release Candidate 1	2025-10-09T18:56:02.238377344	vanilla/Tags for minecraft:item
+// 1.20.1	2025-10-09T18:54:05.727129434	vanilla/Tags for minecraft:item
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
@@ -24,8 +24,8 @@ f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/items/decorated_pot
 47be456ad97366b91300f74739cd8cac544f698d data/minecraft/tags/items/creeper_igniters.json
 29bd5ab148d15d405e857a8e2cb900ae069b0655 data/minecraft/tags/items/axes.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/items/oak_logs.json
-e2118d61d92c8e80f455e051b38d4195e051758d data/minecraft/tags/items/music_discs.json
 002a1f0e0b109cd883572ac23180e47312fdd8bb data/minecraft/tags/items/tall_flowers.json
+e2118d61d92c8e80f455e051b38d4195e051758d data/minecraft/tags/items/music_discs.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/items/wooden_slabs.json
 96ec35440ec938d4e8c994da68ec327de7e4cf85 data/minecraft/tags/items/non_flammable_wood.json
