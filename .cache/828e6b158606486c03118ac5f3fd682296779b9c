@@ -1,4 +1,4 @@
-// 1.20.5 Release Candidate 2	2025-10-09T18:49:01.627609671	vanilla/Loot Tables
+// 1.20.5 Release Candidate 3	2025-10-09T18:48:49.911081689	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -181,8 +181,8 @@ e43ec113966a4d246d2a9597da9c666f1ae24d77 data/minecraft/loot_tables/blocks/fire_
 0752ed38cd687a8e572d248d5190200f0204a2c9 data/minecraft/loot_tables/blocks/lantern.json
 5ac575a0b56c06441bd53932934d53cfa992a529 data/minecraft/loot_tables/chests/trial_chambers/reward.json
 dd6236907de0f90eaf8dbd0b2a796bb49b67f912 data/minecraft/loot_tables/blocks/nether_brick_wall.json
-61592d755f68b3a5ae3f7ad9aee731f604bf7916 data/minecraft/loot_tables/blocks/tuff.json
 7d5830b9369bd7bac823089b4ea4fd9de5dc88af data/minecraft/loot_tables/blocks/snow_block.json
+61592d755f68b3a5ae3f7ad9aee731f604bf7916 data/minecraft/loot_tables/blocks/tuff.json
 8828b4711c4579c46fdc9d9d1c10fc5b76039d29 data/minecraft/loot_tables/blocks/smooth_red_sandstone_stairs.json
 1d97055c6b93bf1036536106dd2e5fdd12b50594 data/minecraft/loot_tables/blocks/detector_rail.json
 8877b7b2e191da93c57f6e1740ee170bf1d04bb3 data/minecraft/loot_tables/blocks/red_sandstone_wall.json
@@ -717,8 +717,8 @@ e5725764044e1c0ae2f3a81603543bd8b39f1e6a data/minecraft/loot_tables/blocks/vine.
 29e520b6c773eb0441e3283d1e578e8e415ee61d data/minecraft/loot_tables/blocks/brain_coral_block.json
 2a0670a0f9d88a471067c9e09071c441d544e6e8 data/minecraft/loot_tables/blocks/orange_tulip.json
 3dbf23ac76ebde97afdd11035d3f74625a22b51d data/minecraft/loot_tables/blocks/budding_amethyst.json
-31a43a46c0a4e72e393afdf0553f6b519bcd9a4c data/minecraft/loot_tables/blocks/potted_dark_oak_sapling.json
 55604c478516ce96d537ad438798439c0663e5e6 data/minecraft/loot_tables/blocks/podzol.json
+31a43a46c0a4e72e393afdf0553f6b519bcd9a4c data/minecraft/loot_tables/blocks/potted_dark_oak_sapling.json
 6b1312a68c9f8be085333cbff06c8c0d7481dfd2 data/minecraft/loot_tables/blocks/crimson_hanging_sign.json
 7f1c2770ed3a505a7771509502008ef44e5d7ffa data/minecraft/loot_tables/blocks/tinted_glass.json
 ebe386356cdaa7d4590afb4e5d7bd365bda6f614 data/minecraft/loot_tables/blocks/stone_stairs.json
@@ -1152,8 +1152,8 @@ e422741aa56386a61cab23b9a41b4f8842b1025e data/minecraft/loot_tables/blocks/obser
 8aa9226b5a721e55129caa88dbad1b70de7d8b88 data/minecraft/loot_tables/blocks/yellow_shulker_box.json
 78182b7e4c2e75c3131a14225c7638075f80e234 data/minecraft/loot_tables/blocks/smooth_quartz.json
 704d139f9f7191cffda02dc34c133abb1639f37b data/minecraft/loot_tables/blocks/oxidized_copper_door.json
-aa430d5d29eddeaaca5d4bc6699b06886c8792b2 data/minecraft/loot_tables/blocks/weeping_vines.json
 794e8fa45f58b85dcdd3896c83027d5206bd1d58 data/minecraft/loot_tables/blocks/orange_concrete.json
+aa430d5d29eddeaaca5d4bc6699b06886c8792b2 data/minecraft/loot_tables/blocks/weeping_vines.json
 c88a549d73777c0a5facb18981a014432e739943 data/minecraft/loot_tables/chests/ancient_city_ice_box.json
 5949a0e5c14bfb77a70a4e0d4ae3a97c48d9d7d5 data/minecraft/loot_tables/blocks/mangrove_stairs.json
 febed2f137956c075d2ea0f72e7825a002cbb430 data/minecraft/loot_tables/blocks/acacia_fence.json

@@ -1,4 +1,4 @@
-// 1.20.5 Release Candidate 2	2025-10-09T18:49:01.631286162	update_1_21/Loot Tables
+// 1.20.5 Release Candidate 3	2025-10-09T18:48:49.91812126	update_1_21/Loot Tables
 53f871c6c8ca4081ae149472a78499146707f386 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_chiseled_copper.json
 b39330b4d8b2c4bb9b42c0607e46d748f496a8a6 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/exposed_copper_trapdoor.json
 2d5ad448add21f53ad08b31cb86efe160673cf88 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/heavy_core.json
@@ -37,9 +37,9 @@ ef0fb777e6720407935bd59c0f1aa774000a07ad data/minecraft/datapacks/update_1_21/da
 51a45bf91567b84e6bccf7fac7f49d2e9f76b129 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_oxidized_copper_grate.json
 4349492ef3d21a2c35c99f682cbae5b95013d150 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/tuff_wall.json
 f25a8dd137d1a77ef5596c106ac9e63ad61613f7 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/spawners/trial_chamber/items_to_drop_when_ominous.json
-5bfd6e1bfbdc68f7156c0d15fdd51012821ab767 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_weathered_chiseled_copper.json
 5490d9c16bae5b4f5956c9b7e00356053b42f3f4 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/equipment/trial_chamber.json
 7ab64b1d609bfcdec06a9da747c6c40895c752f8 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_oxidized_chiseled_copper.json
+5bfd6e1bfbdc68f7156c0d15fdd51012821ab767 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_weathered_chiseled_copper.json
 b0e2b655f576991dee637ef4a4b14187d01d24f4 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/polished_tuff_wall.json
 0815470901c942d1c6daa4f64f0bec3eb370270c data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_copper_grate.json
 9c0d88e9a2b440587dcab2549f67fd231809435e data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/tuff_bricks.json

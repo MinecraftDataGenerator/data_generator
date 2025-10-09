@@ -1,4 +1,4 @@
-// 1.20.5 Release Candidate 2	2025-10-09T18:49:01.630096252	vanilla/Tags for minecraft:worldgen/biome
+// 1.20.5 Release Candidate 3	2025-10-09T18:48:49.91599069	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
