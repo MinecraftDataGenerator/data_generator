@@ -1,0 +1,13 @@
+// 22w15a	2025-10-09T19:00:54.691419186	Tags for minecraft:worldgen/structure
+3b9166551396db91e9621cd3d4b041d51e98813c data/minecraft/tags/worldgen/structure/eye_of_ender_located.json
+30d1ad45426999541c53682e03c1d058f7925d8a data/minecraft/tags/worldgen/structure/shipwreck.json
+cb5dd89391c2d07d330aec872e8421c46a9a51a5 data/minecraft/tags/worldgen/structure/cats_spawn_as_black.json
+e04bcf961867be6dd3af1f19fe42d553ffb31277 data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json
+5439cedf6f14123b0283e5aa194ae161e5b20e69 data/minecraft/tags/worldgen/structure/on_ocean_explorer_maps.json
+3214c92d875e3524f9052195e9d5ddfb878d05d1 data/minecraft/tags/worldgen/structure/mineshaft.json
+8a793fdf241f7df3e1734fe8c1d596c71bcdc500 data/minecraft/tags/worldgen/structure/on_treasure_maps.json
+cb5dd89391c2d07d330aec872e8421c46a9a51a5 data/minecraft/tags/worldgen/structure/cats_spawn_in.json
+4d40c23b0900061e623aa175dfa5c8f09b2b8c5c data/minecraft/tags/worldgen/structure/ocean_ruin.json
+85833df36fba28298046d22ad9835f7fdcd92e9b data/minecraft/tags/worldgen/structure/ruined_portal.json
+4707bd1d32429e66ba9fea4fdb4ea4d243b88fbc data/minecraft/tags/worldgen/structure/dolphin_located.json
+2a7f914a5b21aef8e028de6e6b11986a4c176f52 data/minecraft/tags/worldgen/structure/village.json

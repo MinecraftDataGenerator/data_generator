@@ -1,0 +1,6 @@
+// 22w15a	2025-10-09T19:00:54.689359395	Tags for minecraft:game_event
+bb80d3692e02f01a26df25fa6b2ca3c0a2472552 data/minecraft/tags/game_events/shrieker_can_listen.json
+6e7e2c11b8b357867c1e74b80c585abed0b568a0 data/minecraft/tags/game_events/dampenable_vibrations.json
+9213ea1681c520a0d54ec59dd4884f82c6e30011 data/minecraft/tags/game_events/vibrations.json
+49bde619136aefa36007a6cacf69ad595da9f8c2 data/minecraft/tags/game_events/warden_can_listen.json
+e11a47c51a3ec3fd4074f369f1b68b2feb01a2e3 data/minecraft/tags/game_events/ignore_vibrations_sneaking.json
