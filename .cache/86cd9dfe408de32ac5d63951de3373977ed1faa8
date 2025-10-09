@@ -1,4 +1,4 @@
-// 24w33a	2025-10-09T18:47:03.506050629	vanilla/Tags for minecraft:block
+// 24w34a	2025-10-09T18:46:41.405408962	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -144,8 +144,8 @@ d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/block/anvil.json
 54ce76b81f7f86116493bdcb069428c6fd16ef11 data/minecraft/tags/block/air.json
 c2b28c0ec59c7268d451b0fb6e852b3d8db182a6 data/minecraft/tags/block/snow.json
-f90b8e6674252583fae1583255b371b3c95c36d5 data/minecraft/tags/block/mooshrooms_spawnable_on.json
 17bf02f1662de477e421a897a9b1a092da3fd1b4 data/minecraft/tags/block/candle_cakes.json
+f90b8e6674252583fae1583255b371b3c95c36d5 data/minecraft/tags/block/mooshrooms_spawnable_on.json
 e1aa1c0a968ded1719ec54dfd3d540a19ab16f67 data/minecraft/tags/block/coral_plants.json
 a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/block/doors.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/block/gold_ores.json
@@ -161,8 +161,8 @@ de497bdbd607638702d22bef902ced0dabe1d293 data/minecraft/tags/block/stairs.json
 e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/block/snow_layer_can_survive_on.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/soul_speed_blocks.json
 864b82c0176addd3a0a560b4bfb7cfd232de8a9e data/minecraft/tags/block/hoglin_repellents.json
-01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/block/needs_diamond_tool.json
 5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/block/deepslate_ore_replaceables.json
+01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/block/needs_diamond_tool.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/block/birch_logs.json
 0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/block/wooden_trapdoors.json
 47430d117fba512dfb622420bab8681888a6f36b data/minecraft/tags/block/sniffer_diggable_block.json
