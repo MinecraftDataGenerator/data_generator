@@ -1,8 +1,8 @@
-// 1.21.2 Pre-Release 2	2025-10-09T18:45:54.47811124	winter_drop/Tags for minecraft:item
+// 1.21.2 Pre-Release 3	2025-10-09T18:45:39.941926912	winter_drop/Tags for minecraft:item
 72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/leaves.json
 30930a712e53731126a1c8bf5363ef2587c0f8ae data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/saplings.json
-049902a929705bb5d76db9f70cf0ed8b371b8129 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_stairs.json
 c15ffea74d321bea9ef958ba6efda98d1b37d7bf data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/logs_that_burn.json
+049902a929705bb5d76db9f70cf0ed8b371b8129 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_stairs.json
 2883184ed7a0cdcdc79f402e53609d0bc600b144 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/chest_boats.json
 6c6c43c608d278726783c89d1eac02f8abf6a027 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_buttons.json
 dcb6581728d4869d9aa64e5da726d498e9581c69 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_doors.json

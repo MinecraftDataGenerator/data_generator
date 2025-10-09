@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 2	2025-10-09T18:45:54.477940991	vanilla/Tags for minecraft:worldgen/biome
+// 1.21.2 Pre-Release 3	2025-10-09T18:45:39.941707302	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -15,8 +15,8 @@ c3d4e55bd4ed5d178abb10df76626eccdab7c209 data/minecraft/tags/worldgen/biome/has_
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/produces_corals_from_bonemeal.json
 a053eff4bd26b67c251ccf59a66ab8a98bbe5f6b data/minecraft/tags/worldgen/biome/is_badlands.json
 70978571ac75b9d8954293882c95413c8505d39f data/minecraft/tags/worldgen/biome/spawns_snow_foxes.json
-92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/reduce_water_ambient_spawns.json
 eac36e45c24e9f2ff3c1f50ad2ea4fc921892916 data/minecraft/tags/worldgen/biome/has_structure/village_taiga.json
+92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/reduce_water_ambient_spawns.json
 ff13fafcc6c847d2ce8a4262842bf1316dc580ea data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json
 c06b5e8bd8ff65b18bb22032fe23b338919aa311 data/minecraft/tags/worldgen/biome/is_overworld.json
 afd9da16b8e57511d3b12c69ccd4555d71ebb29f data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_ocean.json
@@ -44,9 +44,9 @@ e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/with
 e986c1b86e1b4d4abe4912ecfcabc31d8d7d576e data/minecraft/tags/worldgen/biome/is_nether.json
 a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_structure/swamp_hut.json
 a24545b58f3f91c6c033586e2b2ae12f1e8131b1 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json
-09eef8a5b31b2b922a1bf5e092e897bf6949121c data/minecraft/tags/worldgen/biome/is_end.json
-562853abe345ceeddc3931331c8cdb3aa0fbe085 data/minecraft/tags/worldgen/biome/is_savanna.json
 3437f146e7780b8779e1617366226f1892d8a533 data/minecraft/tags/worldgen/biome/is_river.json
+562853abe345ceeddc3931331c8cdb3aa0fbe085 data/minecraft/tags/worldgen/biome/is_savanna.json
+09eef8a5b31b2b922a1bf5e092e897bf6949121c data/minecraft/tags/worldgen/biome/is_end.json
 91b0eb2c9a1bca9eaa7aeb065cf6566cc9ef4ef6 data/minecraft/tags/worldgen/biome/has_structure/end_city.json
 de5384c32afb2e47687069231890d76a1c6681c4 data/minecraft/tags/worldgen/biome/stronghold_biased_to.json
 3fa322f81d21600f5bd69c9cc2d314568a07b192 data/minecraft/tags/worldgen/biome/spawns_warm_variant_frogs.json

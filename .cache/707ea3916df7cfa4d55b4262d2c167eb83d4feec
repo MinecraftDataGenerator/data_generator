@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 2	2025-10-09T18:45:54.47883914	winter_drop/Winter Drop Recipes
+// 1.21.2 Pre-Release 3	2025-10-09T18:45:39.942859953	winter_drop/Winter Drop Recipes
 70949f51012b9f9a17eebd7bb55d9c7e6c275110 data/minecraft/datapacks/winter_drop/data/minecraft/recipe/pale_oak_sign.json
 36f57fe9e56681abe3b82a710ea890e48a14a5ac data/minecraft/datapacks/winter_drop/data/minecraft/recipe/pale_oak_fence_gate.json
 64399723ec2f8c03b97702befa37951105a607e5 data/minecraft/datapacks/winter_drop/data/minecraft/recipe/stripped_pale_oak_wood.json
@@ -29,5 +29,5 @@ ef8306e9d4c276febc25981d7499ff785b24e3b3 data/minecraft/datapacks/winter_drop/da
 c49980f3a594b780b695beee8f0d9e4db552fde0 data/minecraft/datapacks/winter_drop/data/minecraft/advancement/recipes/transportation/pale_oak_boat.json
 f177fbd28208cf079d04bcf9d674d8e1957c742c data/minecraft/datapacks/winter_drop/data/minecraft/advancement/recipes/decorations/pale_moss_carpet.json
 bd8580ec31620ae1905d8bb7738b2e4c6289b32a data/minecraft/datapacks/winter_drop/data/minecraft/advancement/recipes/redstone/pale_oak_button.json
-2bb9bfaba25875b11f37d536021722bd22099855 data/minecraft/datapacks/winter_drop/data/minecraft/advancement/recipes/decorations/pale_oak_sign.json
 d4aacd985b12e0eb090bb4d80f89bfec5e59cafd data/minecraft/datapacks/winter_drop/data/minecraft/advancement/recipes/decorations/pale_oak_fence.json
+2bb9bfaba25875b11f37d536021722bd22099855 data/minecraft/datapacks/winter_drop/data/minecraft/advancement/recipes/decorations/pale_oak_sign.json
