@@ -25,17 +25,17 @@
         "effects": {
           "minecraft:fire_resistance": {},
           "minecraft:jump_boost": {},
-          "minecraft:slow_falling": {},
-          "minecraft:slowness": {},
-          "minecraft:resistance": {},
-          "minecraft:water_breathing": {},
-          "minecraft:weakness": {},
-          "minecraft:regeneration": {},
           "minecraft:poison": {},
-          "minecraft:night_vision": {},
-          "minecraft:strength": {},
+          "minecraft:water_breathing": {},
+          "minecraft:slow_falling": {},
           "minecraft:invisibility": {},
-          "minecraft:speed": {}
+          "minecraft:weakness": {},
+          "minecraft:resistance": {},
+          "minecraft:regeneration": {},
+          "minecraft:night_vision": {},
+          "minecraft:speed": {},
+          "minecraft:strength": {},
+          "minecraft:slowness": {}
         }
       }
     }
