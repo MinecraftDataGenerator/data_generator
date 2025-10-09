@@ -1,4 +1,4 @@
-// 1.20.2	2025-10-09T18:53:00.80440702	vanilla/Tags for minecraft:block
+// 23w40a	2025-10-09T18:53:03.023563338	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -17,8 +17,8 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/blocks/redstone_ore
 55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/blocks/impermeable.json
 d89ad094b9c42adca9e4e2addfcde9c9e6b76c08 data/minecraft/tags/blocks/bamboo_plantable_on.json
 2e39009883eda5b51c79d998168c46eee59d92c1 data/minecraft/tags/blocks/signs.json
-9a761594fa3b7ad3870a162292e2d1e628ae033e data/minecraft/tags/blocks/wall_hanging_signs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/blocks/soul_speed_blocks.json
+9a761594fa3b7ad3870a162292e2d1e628ae033e data/minecraft/tags/blocks/wall_hanging_signs.json
 4ffaa49e8fe60af1f5992d2fdb73e4b1bc5fcf98 data/minecraft/tags/blocks/crops.json
 3358796e1ddbb79ccb13467bfc720a95b4a19352 data/minecraft/tags/blocks/enchantment_power_provider.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/blocks/pressure_plates.json
@@ -45,8 +45,8 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/blocks/dirt.json
 4bee09ae134c8c7e450e996a5b9a9bcc4d7e7420 data/minecraft/tags/blocks/moss_replaceable.json
 d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/blocks/cave_vines.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/blocks/piglin_repellents.json
-01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/blocks/needs_diamond_tool.json
 aed8b700fe72fa0af5894e299b41da331f1cf0c9 data/minecraft/tags/blocks/sword_efficient.json
+01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/blocks/needs_diamond_tool.json
 88dcd99364a64f164a26461c5d5b9da0cb960b10 data/minecraft/tags/blocks/trapdoors.json
 0f12416e29c47a8dd09b45231993f21c8a0215c6 data/minecraft/tags/blocks/azalea_grows_on.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/blocks/unstable_bottom_center.json
@@ -159,8 +159,8 @@ e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/blocks/shulker_boxe
 b7d959a4eef7bbd9e6ce12e26764c3931088f42c data/minecraft/tags/blocks/wooden_buttons.json
 486861a8a01410d404ee129446a439a712b98156 data/minecraft/tags/blocks/fire.json
 a07a167420e56e46bebdbfdefc864f20a69a3190 data/minecraft/tags/blocks/mineable/pickaxe.json
-f70b5535522ee5d34a48303062041db7eb2fa4f1 data/minecraft/tags/blocks/features_cannot_replace.json
 f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/blocks/invalid_spawn_inside.json
+f70b5535522ee5d34a48303062041db7eb2fa4f1 data/minecraft/tags/blocks/features_cannot_replace.json
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/blocks/infiniburn_nether.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/blocks/emerald_ores.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/blocks/valid_spawn.json
