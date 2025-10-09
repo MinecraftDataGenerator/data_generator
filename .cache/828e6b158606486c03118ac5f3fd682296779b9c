@@ -1,4 +1,4 @@
-// 23w31a	2025-10-09T18:54:00.485196135	vanilla/Loot Tables
+// 23w32a	2025-10-09T18:53:52.901801448	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -43,7 +43,7 @@ bacb5e03bc396902253523168408a9d144ecaca9 data/minecraft/loot_tables/blocks/magen
 c9d95f31457f3221259eaf2c0e1b31a8625e4ba7 data/minecraft/loot_tables/blocks/target.json
 14966e293d2311bcc9aa67382875799230fbb7b8 data/minecraft/loot_tables/entities/cat.json
 8a1ea183e3552f98420e7949754169ffea7f360a data/minecraft/loot_tables/blocks/lever.json
-56b1aea51dff4492abcdbdee5202c9b3afb7958a data/minecraft/loot_tables/blocks/chorus_flower.json
+733ba271d48706a72923adabf3215004a99bf40e data/minecraft/loot_tables/blocks/chorus_flower.json
 4035cb319697ee3050940d4026108f3c8fd510db data/minecraft/loot_tables/entities/sheep/green.json
 e0ffb475937749c9bd47246767b1ca663b391a37 data/minecraft/loot_tables/blocks/bee_nest.json
 69b72eefebf8aba12bd4bdb0e757a81eb0b50e1d data/minecraft/loot_tables/blocks/potted_brown_mushroom.json
@@ -127,7 +127,7 @@ e59150ef8a6032e847f85c90dc158869fadfd9e5 data/minecraft/loot_tables/blocks/potte
 9b428b7be19ecdea6d986251ad134cd0c69f01a4 data/minecraft/loot_tables/blocks/emerald_ore.json
 11cdf972254f98bd185aec1c8ada64de32e5e3bb data/minecraft/loot_tables/blocks/warped_fungus.json
 14c39436db908c0e39015515723bb05d2bae48eb data/minecraft/loot_tables/blocks/smooth_sandstone_slab.json
-9ac303dd63a20dab54662f7c1dcc56d0993395b1 data/minecraft/loot_tables/blocks/snow.json
+6c37c625dc413b1e9308a4d90a100d6d0959aad1 data/minecraft/loot_tables/blocks/snow.json
 d34178d8768214f933cda32d5760ece4ab022262 data/minecraft/loot_tables/blocks/acacia_planks.json
 0f7848bca1eb6edb5102696a6855e5ce3c0dd29e data/minecraft/loot_tables/blocks/quartz_stairs.json
 050af2c9f1594aae4f7841f16ae6af4ec51efcae data/minecraft/loot_tables/blocks/pink_stained_glass.json
@@ -538,8 +538,8 @@ a579abe6bfb2131f2559f3b3c9e9311529e7e5c3 data/minecraft/loot_tables/blocks/infes
 5bfc8ba25b8bc446980c763444208c16240360c2 data/minecraft/loot_tables/blocks/hanging_roots.json
 661d9c962c418d0d818598c5a01ded48164f64ec data/minecraft/loot_tables/blocks/cracked_polished_blackstone_bricks.json
 7e6ba7952f9adf5476b82bc147b4390b81c4187c data/minecraft/loot_tables/blocks/cyan_carpet.json
-9dc71538e0a72ba2f3b914d34b1f762bffcd3693 data/minecraft/loot_tables/chests/ancient_city.json
 e41953a068314e4bbeb0597480467e8a1a3735d3 data/minecraft/loot_tables/blocks/cobbled_deepslate.json
+9dc71538e0a72ba2f3b914d34b1f762bffcd3693 data/minecraft/loot_tables/chests/ancient_city.json
 335389bb6fb6e0a7a84b59a42b634f05cda93b0d data/minecraft/loot_tables/blocks/brown_wool.json
 56322dc92f65dce211e48105f96d33a6b3f45440 data/minecraft/loot_tables/blocks/blue_orchid.json
 d0ff329ec5f535bbcae2507122bdd3760a5eb3af data/minecraft/loot_tables/blocks/light_blue_stained_glass_pane.json
@@ -919,8 +919,8 @@ dd1552eefd990f860aef37cacf531d4f581b8fbc data/minecraft/loot_tables/blocks/fire.
 d328a65612bb8b7e9d8e06a185e2fa939fe52501 data/minecraft/loot_tables/blocks/infested_deepslate.json
 67366971b205369a145a5ff7425e34e4d11703ad data/minecraft/loot_tables/blocks/cut_copper.json
 6183a0083b5d553316fd7858c8f5ef7687703a86 data/minecraft/loot_tables/blocks/magma_block.json
-c2aa7f78f9cb0f047835704ba07e8b29a64d0df3 data/minecraft/loot_tables/blocks/pink_concrete.json
 db33a6718e20467bf0649e3a89e12fb5c253f5d6 data/minecraft/loot_tables/blocks/deepslate_tile_slab.json
+c2aa7f78f9cb0f047835704ba07e8b29a64d0df3 data/minecraft/loot_tables/blocks/pink_concrete.json
 ea09f8b9741125e6dbd0a6a70d2d936973990f1c data/minecraft/loot_tables/blocks/bamboo_block.json
 4dc68479d14d6650da5454555b0f576d68d6f185 data/minecraft/loot_tables/blocks/mangrove_fence_gate.json
 780a4c719ea76f70a155509b3f76833abf5efbf2 data/minecraft/loot_tables/blocks/dead_bubble_coral_block.json
