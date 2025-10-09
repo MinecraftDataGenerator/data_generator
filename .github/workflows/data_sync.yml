@@ -129,15 +129,6 @@ jobs:
                 pushd "$TEMP_FOLDER" > /dev/null
                 java -DbundlerMainClass=net.minecraft.data.Main -jar ./minecraft_server.jar --all
                 popd > /dev/null
-                
-                # --- DEBUGGING START ---
-                echo "DEBUG: Inhalt von $TEMP_FOLDER nach Java-Ausführung:"
-                ls -l "$TEMP_FOLDER"
-                echo "DEBUG: Inhalt von $GENERATED_PATH vor Kopieren:"
-                # Verwende || true, um sicherzustellen, dass das Skript nicht abbricht, falls der Ordner nicht existiert.
-                ls -l "$GENERATED_PATH" || true
-                # --- DEBUGGING END ---
-
             else
                 echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
             fi
@@ -155,12 +146,9 @@ jobs:
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
             
-            # FIX: shopt -s nullglob, um "cp: cannot stat '*'" Fehler zu vermeiden, 
-            # wenn das Globbing fehlschlägt, obwohl der Ordner existiert.
-            shopt -s nullglob
-            # Fügt alle Dateien und Unterordner (data, reports) in das Root-Verzeichnis ein.
-            cp -r "$GENERATED_PATH/"* "$REPO_DIR"
-            shopt -u nullglob
+            # FIX: Kopiert den gesamten Inhalt (einschließlich versteckter Dateien/Ordner) des 
+            # generierten Ordners in das aktuelle Verzeichnis, ohne den cp-Globbing-Fehler auszulösen.
+            cp -r "$GENERATED_PATH/." "$REPO_DIR"
             
             # D. Commit und Push
             git add -A
