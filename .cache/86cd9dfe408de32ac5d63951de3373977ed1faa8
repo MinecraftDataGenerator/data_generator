@@ -1,4 +1,4 @@
-// 25w07a	2025-10-09T18:43:38.248815935	vanilla/Tags for minecraft:block
+// 25w08a	2025-10-09T18:43:30.086485224	vanilla/Tags for minecraft:block
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/block/bee_attractive.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 e58f5fa3c4fe3090b27304fa8f3c92e23594f085 data/minecraft/tags/block/flower_pots.json
@@ -160,7 +160,7 @@ c48bbed46970bff31dd0e696398a3e105fa0fa1f data/minecraft/tags/block/stairs.json
 9eaa40cdc7d24db027be3eac878536ce597e2b3a data/minecraft/tags/block/badlands_terracotta.json
 21826e6d8baefa69712a8a9b5ccdd0ca304ab3d7 data/minecraft/tags/block/sculk_replaceable.json
 1d06a2ee122e3edcd98600fe98e131c26392d4bf data/minecraft/tags/block/coral_blocks.json
-1014e4d4e20e0874281a6028282c8b9a236f95c5 data/minecraft/tags/block/edible_for_sheep.json
+5dd31802db86a7a667ea7c511e002fe34f572850 data/minecraft/tags/block/edible_for_sheep.json
 19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/block/mangrove_logs.json
 e395b02c1ea8040c23269be0d37b137cbe42f27d data/minecraft/tags/block/dry_vegetation_may_place_on.json
 274c899ecd90e93185a6b2d7bf84123a67af63db data/minecraft/tags/block/enderman_holdable.json
