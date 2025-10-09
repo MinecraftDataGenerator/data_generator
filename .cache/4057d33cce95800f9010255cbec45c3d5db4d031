@@ -1,4 +1,4 @@
-// 1.21.2	2025-10-09T18:45:12.840175382	winter_drop/Tags for minecraft:block
+// 1.21.3	2025-10-09T18:45:11.214017566	winter_drop/Tags for minecraft:block
 6c6c43c608d278726783c89d1eac02f8abf6a027 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_buttons.json
 41e95593e7b44195f30d4ef37e6c8f76ee7ea50d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/combination_step_sound_blocks.json
 30930a712e53731126a1c8bf5363ef2587c0f8ae data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/saplings.json
@@ -17,8 +17,8 @@ d4df969f1ed533102974b86b0510cbfadb946bea data/minecraft/datapacks/winter_drop/da
 c7d3df133859a350e98cf23cd3a4fd543e52d89d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_slabs.json
 9006a4d6edcccb3cd258872594d992d1c1d1fca6 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wall_signs.json
 69942eb6952c17d213b160c7c4b2e2ca2daffd0d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/overworld_natural_logs.json
-c6dee40f618f0d1cda2682b4ab0d567579cee9cd data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/fence_gates.json
 f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/pale_oak_logs.json
+c6dee40f618f0d1cda2682b4ab0d567579cee9cd data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/fence_gates.json
 02c0f4714cd74219a025937cdb943567e8209207 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/standing_signs.json
 fdeafdbb02ab927d0c156451f32914f610ad4451 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/flower_pots.json
 72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/leaves.json

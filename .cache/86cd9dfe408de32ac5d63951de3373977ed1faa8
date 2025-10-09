@@ -1,4 +1,4 @@
-// 1.21.2	2025-10-09T18:45:12.852893322	vanilla/Tags for minecraft:block
+// 1.21.3	2025-10-09T18:45:11.232653657	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -90,8 +90,8 @@ ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 0cc76a2a135e15e63ba435b9ae22e215cc9637fb data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
-90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
 af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/block/dirt.json
+90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/block/completes_find_tree_tutorial.json
 92861bbfc33718f65a6c66f4468675fa09ac162f data/minecraft/tags/block/animals_spawnable_on.json
@@ -134,8 +134,8 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 4161727d1e5d26faf957fabebe6b6c8cc6e884f2 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
+b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 158a4877fad0ee79d00e8c9f641ad661e822cdb5 data/minecraft/tags/block/sniffer_egg_hatch_boost.json
@@ -179,8 +179,8 @@ aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/block/guarded_by_pi
 d772e288e7520c6974ec3238c6aa3ecd2b8e686b data/minecraft/tags/block/trail_ruins_replaceable.json
 ed346d15e3bcb5e92e5045b4c6da0d19ad0243b0 data/minecraft/tags/block/inside_step_sound_blocks.json
 6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/block/campfires.json
-166b1b2932705a5eb271b0c3794389ec79c1ff4e data/minecraft/tags/block/replaceable_by_trees.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/block/dampens_vibrations.json
+166b1b2932705a5eb271b0c3794389ec79c1ff4e data/minecraft/tags/block/replaceable_by_trees.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/dripstone_replaceable_blocks.json
 64b66f0912167ef1fa6a5673e31b46d65e27c9af data/minecraft/tags/block/dragon_immune.json
 c95c455fe4e6a7c8c1a280e27f6957acdeb9e2f3 data/minecraft/tags/block/occludes_vibration_signals.json
