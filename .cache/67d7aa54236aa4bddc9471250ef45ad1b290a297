@@ -1,4 +1,4 @@
-// 1.21.6 Release Candidate 1	2025-10-09T18:40:33.726948638	vanilla/Tags for minecraft:damage_type
+// 1.21.6	2025-10-09T18:40:29.630302724	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -25,8 +25,8 @@ eb21f6254358f8c9a1c7f12e527baabc4b8af426 data/minecraft/tags/damage_type/is_fall
 5b4bea9cf71bdea9db4f9ed2fc3221bdc2137bfa data/minecraft/tags/damage_type/always_hurts_ender_dragons.json
 624159080da2a0c36e3ffe8b5fa8308e4b3dae06 data/minecraft/tags/damage_type/is_projectile.json
 ee96bf77a69cb45c51e21f96302d79917ccbe7e6 data/minecraft/tags/damage_type/bypasses_shield.json
-bb0b377e5176781815073123ed7c65af53295d70 data/minecraft/tags/damage_type/can_break_armor_stand.json
 b9db1487dd4ab90332c05a2e0602ff3f6a3b6c39 data/minecraft/tags/damage_type/is_explosion.json
+bb0b377e5176781815073123ed7c65af53295d70 data/minecraft/tags/damage_type/can_break_armor_stand.json
 59e4d9b48c36b871448acba6a38fa7797b9371ad data/minecraft/tags/damage_type/witch_resistant_to.json
 8a1aa1a5f9a04a27056becf2e86a4cd87d774eef data/minecraft/tags/damage_type/burn_from_stepping.json
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
