@@ -1,4 +1,4 @@
-// 24w03a	2025-10-09T18:51:12.217286422	vanilla/Tags for minecraft:item
+// 24w03b	2025-10-09T18:51:11.780542636	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/items/enchantable/leg_armor.json
@@ -7,14 +7,14 @@ a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.j
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/items/crimson_stems.json
 c998cf5cbc50fe6ebff96350e415e3db67a94c6b data/minecraft/tags/items/wooden_pressure_plates.json
 af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/items/dirt.json
-30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/items/stone_crafting_materials.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/items/enchantable/crossbow.json
+30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/items/stone_crafting_materials.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/items/wart_blocks.json
 cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/items/boats.json
 8a43b6a8e479edbb422584cf21be637710ab1e49 data/minecraft/tags/items/swords.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/items/rails.json
-3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
+3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 4ab2fe5a762b59023e074a73499c0195dc4fb1c4 data/minecraft/tags/items/trimmable_armor.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/items/cherry_logs.json
