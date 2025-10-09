@@ -1,4 +1,4 @@
-// 23w51a	2025-10-09T18:51:24.694231671	vanilla/Loot Tables
+// 23w51b	2025-10-09T18:51:34.014825609	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -177,8 +177,8 @@ a1e5cf52ba8ad115582a4e60aa87485fc5edd802 data/minecraft/loot_tables/blocks/potte
 87ad2ec44291d0ffdb86bd9381a3295196a212fe data/minecraft/loot_tables/archaeology/ocean_ruin_cold.json
 48299172a2ebdac957991873903dbb26e8c50bfb data/minecraft/loot_tables/blocks/fire_coral_fan.json
 0752ed38cd687a8e572d248d5190200f0204a2c9 data/minecraft/loot_tables/blocks/lantern.json
-5ac575a0b56c06441bd53932934d53cfa992a529 data/minecraft/loot_tables/chests/trial_chambers/reward.json
 dd6236907de0f90eaf8dbd0b2a796bb49b67f912 data/minecraft/loot_tables/blocks/nether_brick_wall.json
+5ac575a0b56c06441bd53932934d53cfa992a529 data/minecraft/loot_tables/chests/trial_chambers/reward.json
 61592d755f68b3a5ae3f7ad9aee731f604bf7916 data/minecraft/loot_tables/blocks/tuff.json
 1d97055c6b93bf1036536106dd2e5fdd12b50594 data/minecraft/loot_tables/blocks/detector_rail.json
 8828b4711c4579c46fdc9d9d1c10fc5b76039d29 data/minecraft/loot_tables/blocks/smooth_red_sandstone_stairs.json
@@ -1134,8 +1134,8 @@ e422741aa56386a61cab23b9a41b4f8842b1025e data/minecraft/loot_tables/blocks/obser
 5ea0013a656a3202d0741b2e9cabe771be41a358 data/minecraft/loot_tables/blocks/yellow_shulker_box.json
 78182b7e4c2e75c3131a14225c7638075f80e234 data/minecraft/loot_tables/blocks/smooth_quartz.json
 704d139f9f7191cffda02dc34c133abb1639f37b data/minecraft/loot_tables/blocks/oxidized_copper_door.json
-794e8fa45f58b85dcdd3896c83027d5206bd1d58 data/minecraft/loot_tables/blocks/orange_concrete.json
 db48f9d60b46b9bbcf7b1fc24f5c390a63d561e4 data/minecraft/loot_tables/blocks/weeping_vines.json
+794e8fa45f58b85dcdd3896c83027d5206bd1d58 data/minecraft/loot_tables/blocks/orange_concrete.json
 c88a549d73777c0a5facb18981a014432e739943 data/minecraft/loot_tables/chests/ancient_city_ice_box.json
 5949a0e5c14bfb77a70a4e0d4ae3a97c48d9d7d5 data/minecraft/loot_tables/blocks/mangrove_stairs.json
 febed2f137956c075d2ea0f72e7825a002cbb430 data/minecraft/loot_tables/blocks/acacia_fence.json
