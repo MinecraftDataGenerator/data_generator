@@ -1,4 +1,4 @@
-// 25w10a	2025-10-09T18:43:22.210931817	vanilla/Tags for minecraft:item
+// 1.21.5 Pre-Release 1	2025-10-09T18:43:01.485868698	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -70,8 +70,8 @@ f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/repairs_gold_a
 c48bbed46970bff31dd0e696398a3e105fa0fa1f data/minecraft/tags/item/stairs.json
 f756762fd97e893f40e05ebeab43638fbffc2bc5 data/minecraft/tags/item/walls.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
-84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
+84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/item/wooden_slabs.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/dyeable.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
@@ -87,13 +87,13 @@ e4d0998ecbbe327f788fea7237dc739a9f6d128d data/minecraft/tags/item/repairs_wolf_a
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/map_invisibility_equipment.json
 7c50968c8a1ea719ed4d876acecae84e9151fd3d data/minecraft/tags/item/book_cloning_target.json
 bdb1ff9fc8b24f737e3d121d711574e8d779a3ff data/minecraft/tags/item/beacon_payment_items.json
-1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/item/coal_ores.json
 68f246f71ae9f6e70afc3b182652d81a9baf370a data/minecraft/tags/item/armadillo_food.json
+1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/item/coal_ores.json
 f8fefc25b1df4fbf75b2f1db5237ce04d2d50cc1 data/minecraft/tags/item/parrot_food.json
 b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/item/axolotl_food.json
 6f62a3e03de3843da6fc2f7b46bfdd5d1f4fd02d data/minecraft/tags/item/compasses.json
-2b09272e8b33eaefd3353e728cc5a8d1fcad6e39 data/minecraft/tags/item/logs_that_burn.json
 5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/item/beds.json
+2b09272e8b33eaefd3353e728cc5a8d1fcad6e39 data/minecraft/tags/item/logs_that_burn.json
 997b1d508044891015c0a77a7ac4584feabdb4bf data/minecraft/tags/item/villager_picks_up.json
 578dd629e6c69bf5641983afdf5f54ca2d3b5882 data/minecraft/tags/item/panda_food.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/item/candles.json
