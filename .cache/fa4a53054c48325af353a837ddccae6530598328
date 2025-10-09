@@ -1,4 +1,4 @@
-// 1.20.5 Pre-Release 4	2025-10-09T18:50:47.109295954	vanilla/Tags for minecraft:item
+// 1.20.5 Release Candidate 1	2025-10-09T18:49:30.517346738	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/items/dyeable.json
@@ -22,9 +22,9 @@ cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/items/boats.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
 4ab2fe5a762b59023e074a73499c0195dc4fb1c4 data/minecraft/tags/items/trimmable_armor.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
-042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/items/cherry_logs.json
 45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/items/sand.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/smelts_to_glass.json
+042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/items/cherry_logs.json
 3b84566bb28aa982abda5bf5c27806edbc350c63 data/minecraft/tags/items/hoglin_food.json
 f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/items/decorated_pot_ingredients.json
 4b024c07991b0127a93c4927165b70cbc739df3f data/minecraft/tags/items/stairs.json
@@ -45,8 +45,8 @@ d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.jso
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/items/logs.json
 6b369f3e01c478f5ecb879b9b5d66757d78e5a8f data/minecraft/tags/items/enchantable/head_armor.json
 b7d959a4eef7bbd9e6ce12e26764c3931088f42c data/minecraft/tags/items/wooden_buttons.json
-346d148ecd7ee4de6292cd18efdaf6fdf1a7b522 data/minecraft/tags/items/skulls.json
 42391f34e30718f153c7725335e30a59aae6c473 data/minecraft/tags/items/leg_armor.json
+346d148ecd7ee4de6292cd18efdaf6fdf1a7b522 data/minecraft/tags/items/skulls.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/items/bamboo_blocks.json
 a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/items/walls.json
 8f9d98e8e906913bd9389fccb47fef34320f78cc data/minecraft/tags/items/cluster_max_harvestables.json

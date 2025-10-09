@@ -1,4 +1,4 @@
-// 1.20.5 Pre-Release 4	2025-10-09T18:50:47.118728587	vanilla/Recipes
+// 1.20.5 Release Candidate 1	2025-10-09T18:49:30.5243633	vanilla/Recipes
 bf44bf97f86797127bf054599a79d48cbf0e58d0 data/minecraft/advancements/recipes/redstone/oak_pressure_plate.json
 d7319d58fda26ebe7b19db0781a6a83c2b8c863b data/minecraft/recipes/end_stone_brick_wall_from_end_stone_stonecutting.json
 588dd6f10b5613c826908e4be503cf65bb15c98f data/minecraft/advancements/recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting.json
@@ -2098,8 +2098,8 @@ b559b5b56c417f1226c9d9220f6d0c902d7e386a data/minecraft/advancements/recipes/bui
 4e445a51d7356b8897914f8eb2d75f48bbdbbe37 data/minecraft/advancements/recipes/misc/sugar_from_honey_bottle.json
 7058c3ff931ce9c6d134a4410cd9a84a85a6bf3b data/minecraft/recipes/leather.json
 ac4c76aca7b93cb267d18e417eec147384eb221f data/minecraft/recipes/sandstone_wall.json
-56333606277f716e9522d6392d9e16b10398389e data/minecraft/recipes/warped_trapdoor.json
 25588191c3a13532ad24e3ab8a1bb898238a380b data/minecraft/advancements/recipes/redstone/warped_button.json
+56333606277f716e9522d6392d9e16b10398389e data/minecraft/recipes/warped_trapdoor.json
 38b950938e9cfaa1a377c97d0d8e1a2e97b15177 data/minecraft/recipes/redstone_torch.json
 4e339bcb4fa18712ede3ef52b1e294b7e39bfa10 data/minecraft/advancements/recipes/decorations/snow.json
 297e3b644d9fa2db7e738c591c852b466bf0a844 data/minecraft/recipes/red_sandstone_stairs.json
