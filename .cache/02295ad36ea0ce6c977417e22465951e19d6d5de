@@ -1,4 +1,4 @@
-// 23w05a	2025-10-09T18:56:53.798724463	update_1_20/Loot Tables
+// 23w06a	2025-10-09T18:56:49.881808328	update_1_20/Loot Tables
 78cc54d66a5bfa5b561d4760a341e23d4b4ab7d4 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 68cf7846c91ee17d2922f2111359d61a991b00fc data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/bastion_bridge.json
 0596f3d2e92d0fe12a14cbb8fc5a034f6a06de85 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/acacia_hanging_sign.json
@@ -17,8 +17,8 @@ d6d3bd63cdbf10c7635fa87167cb80ded413a532 data/minecraft/datapacks/update_1_20/da
 785dc0902747d69c94c790f8136951adafbda9aa data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_mosaic_stairs.json
 9220f3bfb6fa04381a1e2891538510b3294974db data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_mosaic.json
 4a52221db39f1407ce8ea0f9d5336bf7d6c6351d data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/bastion_other.json
-71fdacd84abc1d8213385272ebed5ecb22e41745 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json
 e5c8a707ad5e1b93a7b04ff5f9bae44e46ac549c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/crimson_hanging_sign.json
+71fdacd84abc1d8213385272ebed5ecb22e41745 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json
 84748d5eb747bf972185eb5faf928b985c1c5541 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_fence.json
 3af15e91e4d30fa80e4657f3e388fe2c629dc644 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/entities/elder_guardian.json
 2976df3d549b96009fb2e3b0f6aba2042e4f0d99 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_hanging_sign.json
@@ -30,7 +30,7 @@ ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/datapacks/update_1_20/da
 f722962fb28be14cb8f91c2e1d50859d579b7d51 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/stronghold_library.json
 f72aeec113177fbc03186b42e793247c8df694a1 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/nether_bridge.json
 5befb1f9becab338ae55ac6ae872634350c7e027 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/ancient_city.json
-68cf7846c91ee17d2922f2111359d61a991b00fc data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/bastion_hoglin_stable.json
+264f9e982bfcae6d5a1036e123c9c1eac0a70fb3 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/bastion_hoglin_stable.json
 b7f57034fe4e3e08a740daeb805ba8ae07fb515f data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/pillager_outpost.json
 4ce31fd6720ae69b8a761b1f0e6ff907625c3734 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_slab.json
 8a255b3c9f95582f14b82e0fc0f2dad908be348f data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_stairs.json

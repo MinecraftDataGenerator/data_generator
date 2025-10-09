@@ -1,4 +1,4 @@
-// 23w05a	2025-10-09T18:56:53.780162607	update_1_20/Recipes
+// 23w06a	2025-10-09T18:56:49.867135082	update_1_20/Recipes
 f0cce472bf7c39c8a88601aa9dc4cb86e44ef02d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/jungle_hanging_sign.json
 8236f0a409fee31a8aae54bb48c73bfb7372018d data/minecraft/datapacks/update_1_20/data/minecraft/recipes/wild_armor_trim_smithing_template.json
 84bd614a51867eeb7ed06c9f1b78253fa5e78daa data/minecraft/datapacks/update_1_20/data/minecraft/recipes/eye_armor_trim_smithing_template.json
@@ -51,8 +51,8 @@ b6355b2421a0f340bf11864d6add49686ab3800f data/minecraft/datapacks/update_1_20/da
 8d9074dc29b66c7f9d8876c434159ef03eaa6497 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/warped_hanging_sign.json
 c1efd129267cb83a142f050f592ac98159324f77 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/misc/wild_armor_trim_smithing_template_smithing_trim.json
 de7db3721ba09155a5d6d2ececad92bbd2dfbac8 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_stairs.json
-43cf28f18de61645aced6dd8697e4e96939b4f97 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_trapdoor.json
 ae159babeb0e13ae8f393d5f6f88401be42ba567 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/warped_hanging_sign.json
+43cf28f18de61645aced6dd8697e4e96939b4f97 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_trapdoor.json
 96c7eb7553c38cc418f1a108221bbeae02a1c00d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/combat/netherite_sword_smithing.json
 79fc4c3c3fe2bc475bc1c6831dbc9f837bd679ae data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/redstone/bamboo_fence_gate.json
 7d90746cbacf633b1746d0a616629611f2071dcb data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/misc/coast_armor_trim_smithing_template_smithing_trim.json

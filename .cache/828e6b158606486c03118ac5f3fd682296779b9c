@@ -1,4 +1,4 @@
-// 23w05a	2025-10-09T18:56:53.794078742	vanilla/Loot Tables
+// 23w06a	2025-10-09T18:56:49.878511426	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -245,7 +245,7 @@ e563d5a049160085b4ee33683b00f3e5a14d9632 data/minecraft/loot_tables/blocks/lime_
 3760a96b5b91a44ad3b8e2c88a0d1405c5ecb5dc data/minecraft/loot_tables/blocks/birch_wood.json
 0e5469e9630572d200dde3477e38bd04068f829b data/minecraft/loot_tables/blocks/sculk_vein.json
 e69a53926230456efcb8419a8a41aeab0ab8266f data/minecraft/loot_tables/blocks/acacia_slab.json
-480fd304e4769ab442ab062f22cd714ab85de63a data/minecraft/loot_tables/entities/turtle.json
+009300d3f9b402b654574c8f4ef6f2f2c8aea810 data/minecraft/loot_tables/entities/turtle.json
 a8133ecbd33757ea3f24cf15182958c98b62006c data/minecraft/loot_tables/blocks/green_shulker_box.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/bamboo_sign.json
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/giant.json
@@ -720,11 +720,11 @@ c97b727b9423f9fdcd928388119e78dcad0bff6b data/minecraft/loot_tables/blocks/prism
 1f9227e0915a726b8e3e2131b4a456bee023e700 data/minecraft/loot_tables/blocks/redstone_block.json
 42298e4180e97186428fbfc9332d6f63d7c4adad data/minecraft/loot_tables/blocks/smooth_red_sandstone_slab.json
 ebd9ca7c4b932f0612ed4b3bb9b535ddd6e1a7f7 data/minecraft/loot_tables/blocks/prismarine_bricks.json
-7bb57dc9c26ca384fb06216d311dad48e0ab4f56 data/minecraft/loot_tables/blocks/birch_trapdoor.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
+7bb57dc9c26ca384fb06216d311dad48e0ab4f56 data/minecraft/loot_tables/blocks/birch_trapdoor.json
 8b60dd1403ddb9001d5fc67aeb0e8aae4c1c717a data/minecraft/loot_tables/blocks/potted_pink_tulip.json
-97b637295b7440d9e24bc3c3620501d6e19a74a8 data/minecraft/loot_tables/blocks/spruce_fence_gate.json
 d660a5669396a025ad812b28ec9d7e31cbbc171b data/minecraft/loot_tables/blocks/light_blue_bed.json
+97b637295b7440d9e24bc3c3620501d6e19a74a8 data/minecraft/loot_tables/blocks/spruce_fence_gate.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/bamboo_pressure_plate.json
 cbb136afe79907280d148ba15acee9f2b83a2e14 data/minecraft/loot_tables/blocks/oak_pressure_plate.json
 1cd2682959af954d5ef268aee2bd8fd2848fc91a data/minecraft/loot_tables/blocks/green_stained_glass.json
