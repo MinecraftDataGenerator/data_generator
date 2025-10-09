@@ -1,6 +1,6 @@
-// 24w05b	2025-10-09T18:50:55.273587585	update_1_21/Tags for minecraft:entity_type
+// 24w06a	2025-10-09T18:50:36.771362461	update_1_21/Tags for minecraft:entity_type
 a2b8b57038de64cfa2627faf526b3381cdfe6a4a data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/no_anger_from_wind_charge.json
-bb60f484beb4987b151845a8c5ab1e00c4b5afda data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/impact_projectiles.json
+b1f7edc1c254061283cb87c4d5fc57d4b0e83bbf data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/impact_projectiles.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/fall_damage_immune.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/deflects_projectiles.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/can_turn_in_boats.json
