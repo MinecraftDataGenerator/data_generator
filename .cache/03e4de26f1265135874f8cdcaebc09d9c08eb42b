@@ -1,4 +1,4 @@
-// 22w16b	2025-10-09T19:00:29.45746031	Tags for minecraft:item
+// 22w17a	2025-10-09T19:00:25.843543008	Tags for minecraft:item
 2e8b25763b6c4383bb6a6a84bc19e2f12d8a8d47 data/minecraft/tags/items/slabs.json
 f26ca94468ebfc40099f3f2387a1a986403ffb36 data/minecraft/tags/items/jungle_logs.json
 f1b4b227216d478cbd5f340dd76b44aab269fa4d data/minecraft/tags/items/signs.json
@@ -58,6 +58,7 @@ a16e0d89828196dd8278fad4f76f2df079c5d6c1 data/minecraft/tags/items/cluster_max_h
 40f36f7be3235734d506119fb91009d336fe9de0 data/minecraft/tags/items/wooden_doors.json
 605faac7a6ffc34bed3d43e32a4e4e5d98fe97b5 data/minecraft/tags/items/lectern_books.json
 6d9d3308fa859516e349df3eb65fbace667a84d0 data/minecraft/tags/items/arrows.json
+c48e8cbdec3143924c65c2c76e3ab0826a59ef39 data/minecraft/tags/items/overworld_natural_logs.json
 8cb955bd510196c1a1106891ba79fcb3adf91fe8 data/minecraft/tags/items/piglin_repellents.json
 331374fcc23ad23fe964854acef30097211d234e data/minecraft/tags/items/buttons.json
 a001daece482133a84c990aa1eb55279f2fe2cab data/minecraft/tags/items/logs_that_burn.json

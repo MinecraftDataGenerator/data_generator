@@ -18,11 +18,7 @@
       "bounding_box": "full",
       "spawns": []
     },
-    "water_creature": {
-      "bounding_box": "full",
-      "spawns": []
-    },
-    "misc": {
+    "underground_water_creature": {
       "bounding_box": "full",
       "spawns": []
     },
@@ -34,7 +30,11 @@
       "bounding_box": "full",
       "spawns": []
     },
-    "underground_water_creature": {
+    "water_creature": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "misc": {
       "bounding_box": "full",
       "spawns": []
     }

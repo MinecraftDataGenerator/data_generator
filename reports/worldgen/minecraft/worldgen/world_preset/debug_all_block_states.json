@@ -1,5 +1,11 @@
 {
   "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "type": "minecraft:debug"
+      }
+    },
     "minecraft:the_end": {
       "type": "minecraft:the_end",
       "generator": {
@@ -8,12 +14,6 @@
         },
         "settings": "minecraft:end",
         "type": "minecraft:noise"
-      }
-    },
-    "minecraft:overworld": {
-      "type": "minecraft:overworld",
-      "generator": {
-        "type": "minecraft:debug"
       }
     },
     "minecraft:the_nether": {
