@@ -125,14 +125,18 @@ jobs:
                 curl -s -L "$SERVER_JAR_URL" -o "$JAR_PATH"
 
                 echo "Führe Data Generator aus..."
-                # FIX: Wechselt in den TEMP_FOLDER, damit 'generated' dort erstellt wird.
+                # Wechselt in den TEMP_FOLDER, damit 'generated' dort erstellt wird.
                 pushd "$TEMP_FOLDER" > /dev/null
                 java -DbundlerMainClass=net.minecraft.data.Main -jar ./minecraft_server.jar --all
                 popd > /dev/null
             else
                 echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
             fi
-
+            
+            # NEUER FIX: Absoluten Pfad zum Generator-Ergebnis speichern, 
+            # bevor der Git-Checkout das relative CWD verwirrt.
+            ABSOLUTE_GENERATED_PATH="$(pwd)/$GENERATED_PATH"
+            
             # --- 5. Git-Operationen (Branch erstellen, Kopieren, Commit) ---
             
             # Neuen Branch erstellen und darauf wechseln
@@ -141,15 +145,19 @@ jobs:
             
             # B. Verzeichnis säubern (alles außer .git und .github)
             echo "Bereinige Arbeitsverzeichnis..."
-            find "$REPO_DIR" -maxdepth 1 -not -path "$REPO_DIR" -not -name ".git" -not -name ".github" -exec rm -rf {} +
+            # Nur data/ und reports/ löschen, um das Repository für neue Daten vorzubereiten
+            rm -rf "$REPO_DIR/data" "$REPO_DIR/reports"
 
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
-            echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
+            echo "Kopiere Daten von $ABSOLUTE_GENERATED_PATH nach $REPO_DIR"
             
-            # FIX: Kopiert explizit die bekannten Unterordner, um Fehler beim Pfad-Globbing 
-            # zu vermeiden, da wir wissen, dass der Generator 'data' und 'reports' erstellt.
-            cp -r "$GENERATED_PATH/data" "$GENERATED_PATH/reports" "$REPO_DIR"
-            
+            # DEBUG: Aktiviere Shell-Tracing, um die genaue Ausführung des cp-Befehls zu sehen.
+            set -x
+            # Kopiert explizit die bekannten Unterordner unter Verwendung des absoluten Pfades.
+            cp -r "$ABSOLUTE_GENERATED_PATH/data" "$ABSOLUTE_GENERATED_PATH/reports" "$REPO_DIR"
+            # DEBUG: Deaktiviere Shell-Tracing
+            set +x
+
             # D. Commit und Push
             git add -A
             COMMIT_MSG="Update to $VERSION_ID"
