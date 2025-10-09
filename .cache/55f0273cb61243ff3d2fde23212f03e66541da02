@@ -1,4 +1,4 @@
-// 1.19.1 Pre-release 1	2025-10-09T18:59:24.331172998	Tags for minecraft:worldgen/biome
+// 1.19.1 Release Candidate 1	2025-10-09T18:59:12.459695226	Tags for minecraft:worldgen/biome
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
 afd9da16b8e57511d3b12c69ccd4555d71ebb29f data/minecraft/tags/worldgen/biome/has_structure/shipwreck.json

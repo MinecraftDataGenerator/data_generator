@@ -1,4 +1,4 @@
-// 1.19.1 Pre-release 1	2025-10-09T18:59:24.33557968	LootTables
+// 1.19.1 Release Candidate 1	2025-10-09T18:59:12.460995727	LootTables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
