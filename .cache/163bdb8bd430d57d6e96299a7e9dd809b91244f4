@@ -1,4 +1,4 @@
-// 25w18a	2025-10-09T18:42:10.295595155	vanilla/Tags for minecraft:entity_type
+// 25w19a	2025-10-09T18:41:52.53121344	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
