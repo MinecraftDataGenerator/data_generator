@@ -1,4 +1,4 @@
-// 1.21.4 Pre-Release 2	2025-10-09T18:44:37.440880932	vanilla/Tags for minecraft:block
+// 1.21.4 Pre-Release 3	2025-10-09T18:44:32.224857434	vanilla/Tags for minecraft:block
 5c92e6e6d0a21918a0d7f6652b7b230a122e2fd5 data/minecraft/tags/block/bee_attractive.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 e58f5fa3c4fe3090b27304fa8f3c92e23594f085 data/minecraft/tags/block/flower_pots.json
@@ -16,8 +16,8 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_gla
 6d8c49aebfc6e8906a021084112fa9efdc950177 data/minecraft/tags/block/azalea_root_replaceable.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/block/stone_bricks.json
 09908e684acdab9f0e492f79a24a4421bf2c7d0a data/minecraft/tags/block/planks.json
-632e3c9b57c812cfb93f65d1ec8cb7afe2b4e733 data/minecraft/tags/block/geode_invalid_blocks.json
 2d763e05a229e6a7dd61a548583f193804395954 data/minecraft/tags/block/parrots_spawnable_on.json
+632e3c9b57c812cfb93f65d1ec8cb7afe2b4e733 data/minecraft/tags/block/geode_invalid_blocks.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/block/acacia_logs.json
 456b7e0327f1c0582d9d4d6aba733b810b8a8eea data/minecraft/tags/block/wooden_buttons.json
 f756762fd97e893f40e05ebeab43638fbffc2bc5 data/minecraft/tags/block/walls.json
@@ -80,8 +80,8 @@ b73e2e921b30b8fdd8e7ef278ca3cb68410ec6f3 data/minecraft/tags/block/slabs.json
 e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/block/candles.json
 2ead4126c04b62333f1e9b48091bcb2ac8b278b2 data/minecraft/tags/block/ceiling_hanging_signs.json
-1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/block/valid_spawn.json
+1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 80ca0014239f0046a5e01ce25e5f173990cdb610 data/minecraft/tags/block/sculk_replaceable_world_gen.json
 882f7161808179f92ed953b9200fdaf74eec6c36 data/minecraft/tags/block/infiniburn_overworld.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
