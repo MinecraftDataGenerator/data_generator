@@ -1,9 +1,9 @@
-// 24w12a	2025-10-09T18:50:20.267759161	vanilla/Advancements
+// 24w13a	2025-10-09T18:50:01.520438763	vanilla/Advancements
 e7d28bc5ad0e4fd1787921489208c3bd069f2ca2 data/minecraft/advancements/story/form_obsidian.json
 d4979b351ff1e46b83ac01502441c88221d7384b data/minecraft/advancements/nether/fast_travel.json
 e1c3157792e6015bee9801b5573ba4150fa5406b data/minecraft/advancements/story/enter_the_nether.json
 a9ab16516fee9a21ef2779b51545f29a18552da2 data/minecraft/advancements/nether/obtain_crying_obsidian.json
-e3e5056ae7af8df10d93d3239d4d5ad46425043b data/minecraft/advancements/adventure/voluntary_exile.json
+e21bd7f38f318e36198e16bebca7a6de7de724fd data/minecraft/advancements/adventure/voluntary_exile.json
 58439fc75615e5797c91e32e26fe48035da42829 data/minecraft/advancements/story/enchant_item.json
 3f21c2fa78cb7b6b98b12aabf22d5c242d27f26e data/minecraft/advancements/story/root.json
 3b32b63d978fd0985cf306c8bd1834f89d25c8ee data/minecraft/advancements/husbandry/allay_deliver_item_to_player.json
@@ -80,7 +80,7 @@ c5dd0dc0eaaf9eea466905df33207f6974dd74ae data/minecraft/advancements/story/lava_
 886ab864800ec270c41754e5c3971ba470e0e86b data/minecraft/advancements/adventure/bullseye.json
 f195c9af8fd2707b25169c4d9b4e688c2d383489 data/minecraft/advancements/husbandry/tactical_fishing.json
 ccfb91bf9b2f4b0959bf0f81eed420eef24e4173 data/minecraft/advancements/end/dragon_egg.json
-c531203351aaeeca4d4228f2753a3d1bdaa3218e data/minecraft/advancements/adventure/hero_of_the_village.json
+7908af4de9fbf05235145238b498b163c7ac6a99 data/minecraft/advancements/adventure/hero_of_the_village.json
 668d419697c545a54407873b841d283509978973 data/minecraft/advancements/nether/root.json
 714263d657f64ab351a0c2c638ef56f90f0b868a data/minecraft/advancements/husbandry/wax_off.json
 a13cd32f6bcdcad0204145ec3c507af188c19518 data/minecraft/advancements/story/cure_zombie_villager.json
