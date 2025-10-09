@@ -1,7 +1,9 @@
-// 23w45a	2025-10-09T18:52:26.274347699	update_1_21/Tags for minecraft:block
+// 23w46a	2025-10-09T18:52:22.631723199	update_1_21/Tags for minecraft:block
+2fe818ac91485a50af1f46d5833b7dee0a70d022 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/features_cannot_replace.json
 ea9d46bb6479a501b8043068fe295626b0c42c69 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/needs_stone_tool.json
 c3645a2be81b2373fef719e10170a9ca560eea9f data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/mineable/pickaxe.json
 4566532194d000f068193f3b594b6cf17b268601 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/walls.json
 e4e0677676c88b770fb2f198c8904b8e4899ab59 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/slabs.json
-5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/stairs.json
 eead159568467477b62e9f2314af15d122a3f48f data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/wooden_doors.json
+5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/stairs.json
+1c252ac78305a8d2b3a15e76969fcd3864e159cb data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/lava_pool_stone_cannot_replace.json

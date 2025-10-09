@@ -1,4 +1,4 @@
-// 23w45a	2025-10-09T18:52:26.275283059	update_1_21/Loot Tables
+// 23w46a	2025-10-09T18:52:22.63402966	update_1_21/Loot Tables
 53f871c6c8ca4081ae149472a78499146707f386 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_chiseled_copper.json
 b39330b4d8b2c4bb9b42c0607e46d748f496a8a6 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/exposed_copper_trapdoor.json
 8999cb5ca0996fa79065deab0509926ce1e456a2 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_copper_door.json
@@ -26,11 +26,11 @@ ae7a9a2845e2f977b8be5e23b54d8daf766fe517 data/minecraft/datapacks/update_1_21/da
 34d0c2ff5437e5300eecd616f8709f81a2bef479 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_copper_trapdoor.json
 4d5b6625ebb5e8e1569ca0ecef56e34624eebd58 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/copper_grate.json
 7aeeadf72b46a99f3c16f582b72516daa5d0a3ef data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/tuff_brick_wall.json
+6e79ced25ff71afd4888f6cd6ee4db908bb59369 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/pots/trial_chambers/corridor.json
 4349492ef3d21a2c35c99f682cbae5b95013d150 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/tuff_wall.json
 51a45bf91567b84e6bccf7fac7f49d2e9f76b129 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_oxidized_copper_grate.json
-6e79ced25ff71afd4888f6cd6ee4db908bb59369 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/pots/trial_chambers/corridor.json
-b0e2b655f576991dee637ef4a4b14187d01d24f4 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/polished_tuff_wall.json
 7ab64b1d609bfcdec06a9da747c6c40895c752f8 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_oxidized_chiseled_copper.json
+b0e2b655f576991dee637ef4a4b14187d01d24f4 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/polished_tuff_wall.json
 5bfd6e1bfbdc68f7156c0d15fdd51012821ab767 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_weathered_chiseled_copper.json
 0815470901c942d1c6daa4f64f0bec3eb370270c data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_copper_grate.json
 9c0d88e9a2b440587dcab2549f67fd231809435e data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/tuff_bricks.json
