@@ -19,7 +19,7 @@
     "experience": 50
   },
   "criteria": {
-    "minecraft:calico": {
+    "minecraft:red": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
         "entity": [
@@ -27,75 +27,7 @@
             "condition": "minecraft:entity_properties",
             "predicate": {
               "type_specific": {
-                "variant": "minecraft:calico",
-                "type": "cat"
-              }
-            },
-            "entity": "this"
-          }
-        ]
-      }
-    },
-    "minecraft:black": {
-      "trigger": "minecraft:tame_animal",
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "predicate": {
-              "type_specific": {
-                "variant": "minecraft:black",
-                "type": "cat"
-              }
-            },
-            "entity": "this"
-          }
-        ]
-      }
-    },
-    "minecraft:jellie": {
-      "trigger": "minecraft:tame_animal",
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "predicate": {
-              "type_specific": {
-                "variant": "minecraft:jellie",
-                "type": "cat"
-              }
-            },
-            "entity": "this"
-          }
-        ]
-      }
-    },
-    "minecraft:british": {
-      "trigger": "minecraft:tame_animal",
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "predicate": {
-              "type_specific": {
-                "variant": "minecraft:british",
-                "type": "cat"
-              }
-            },
-            "entity": "this"
-          }
-        ]
-      }
-    },
-    "minecraft:all_black": {
-      "trigger": "minecraft:tame_animal",
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "predicate": {
-              "type_specific": {
-                "variant": "minecraft:all_black",
+                "variant": "minecraft:red",
                 "type": "cat"
               }
             },
@@ -189,7 +121,7 @@
         ]
       }
     },
-    "minecraft:red": {
+    "minecraft:calico": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
         "entity": [
@@ -197,7 +129,75 @@
             "condition": "minecraft:entity_properties",
             "predicate": {
               "type_specific": {
-                "variant": "minecraft:red",
+                "variant": "minecraft:calico",
+                "type": "cat"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:british": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type_specific": {
+                "variant": "minecraft:british",
+                "type": "cat"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:all_black": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type_specific": {
+                "variant": "minecraft:all_black",
+                "type": "cat"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:jellie": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type_specific": {
+                "variant": "minecraft:jellie",
+                "type": "cat"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:black": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type_specific": {
+                "variant": "minecraft:black",
                 "type": "cat"
               }
             },
@@ -209,19 +209,7 @@
   },
   "requirements": [
     [
-      "minecraft:calico"
-    ],
-    [
-      "minecraft:black"
-    ],
-    [
-      "minecraft:jellie"
-    ],
-    [
-      "minecraft:british"
-    ],
-    [
-      "minecraft:all_black"
+      "minecraft:red"
     ],
     [
       "minecraft:ragdoll"
@@ -239,7 +227,19 @@
       "minecraft:tabby"
     ],
     [
-      "minecraft:red"
+      "minecraft:calico"
+    ],
+    [
+      "minecraft:british"
+    ],
+    [
+      "minecraft:all_black"
+    ],
+    [
+      "minecraft:jellie"
+    ],
+    [
+      "minecraft:black"
     ]
   ]
 }
