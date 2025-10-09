@@ -1,0 +1,155 @@
+name: 'Minecraft Data Generator & Git Sync'
+
+on:
+  # Führe den Job täglich um 03:00 Uhr UTC aus, um neue Versionen zu erkennen
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate_and_sync:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+
+    steps:
+      - name: 1. Setup Java 17 (Nötig für den Minecraft Data Generator)
+        # Die Minecraft JAR ist ein Java-Programm, wir müssen Java nur zur Ausführung bereitstellen.
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: 2. Klonen des Repositorys (mit PAT für Push-Zugriff)
+        # Wir verwenden den PAT-Token aus den Secrets direkt für den Authentifizierungs-URL
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Kompletten Verlauf holen, um die Existenz alter Branches prüfen zu können
+          token: ${{ secrets.GH_PAT }}
+
+      - name: 3. Generator Logik (Bash)
+        id: run_sync
+        env:
+          START_VERSION: "18w01a"
+          MANIFEST_URL: "https://launchermeta.mojang.com/mc/game/version_manifest.json"
+          GH_TOKEN: ${{ secrets.GH_PAT }} # Der Token zum Pushen neuer Branches
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+
+        run: |
+          # --- KONSTANTEN SETUP ---
+          REPO_DIR="."
+          OUTPUT_DIR="minecraft_versions"
+          
+          # Der PAT-Token muss in die URL eingebettet werden, um Branches pushen zu können.
+          AUTH_REPO_URL=$(echo "${REPO_URL}" | sed "s|https://|https://${GH_TOKEN}@|")
+
+          echo "Lade Version Manifest..."
+          MANIFEST=$(curl -s $MANIFEST_URL)
+          
+          # --- 1. Versionen filtern und umkehren (vom ältesten zum neuesten) ---
+          
+          # jq findet alle Versionen, die nach der Start-Version im Manifest kommen
+          # und erzeugt ein Array von Objekten.
+          # Wir speichern das in einer Variable und lassen die Bash-Logik laufen.
+          VERSIONS_JSON=$(echo "$MANIFEST" | jq -c --arg start "$START_VERSION" '
+            .versions 
+            | reverse 
+            | map(select(.id >= $start)) 
+            | .[]
+          ')
+
+          if [ -z "$VERSIONS_JSON" ]; then
+            echo "Keine neuen Versionen ab $START_VERSION gefunden."
+            exit 0
+          fi
+          
+          # Wir arbeiten mit dem globalen Git-Repository, daher keine separate Klon-Aktion
+          
+          echo "Verarbeite Versionen ab $START_VERSION..."
+          PROCESSED_COUNT=0
+
+          for VERSION_OBJECT in $VERSIONS_JSON; do
+            VERSION_ID=$(echo "$VERSION_OBJECT" | jq -r '.id')
+            VERSION_TYPE=$(echo "$VERSION_OBJECT" | jq -r '.type')
+            VERSION_URL=$(echo "$VERSION_OBJECT" | jq -r '.url')
+            
+            # --- 2. Namen bereinigen und Branch-Namen erstellen ---
+            
+            # ✅ KORREKTUR: Ersetze Leerzeichen und Slashes durch Bindestriche, um gültige Git-Namen zu erhalten.
+            CLEAN_ID=$(echo "$VERSION_ID" | sed 's/[ /]/-/g')
+            BRANCH_NAME="${VERSION_TYPE:0:1}-${CLEAN_ID}" # s- oder r- Präfix
+
+            # Ordnername behält die Original-ID, um existierende Ordner wiederzuverwenden
+            FOLDER_NAME="${VERSION_TYPE:0:1}-${VERSION_ID}"
+            TEMP_FOLDER="$OUTPUT_DIR/$FOLDER_NAME"
+            GENERATED_PATH="$TEMP_FOLDER/generated"
+
+            echo -e "\n--- Prüfe Version: $VERSION_ID (Branch: $BRANCH_NAME) ---"
+            
+            # --- 3. Prüfen, ob Branch existiert ---
+            # git ls-remote beendet sich mit Code 0, wenn der Branch existiert.
+            if git ls-remote --exit-code origin "$BRANCH_NAME" > /dev/null 2>&1; then
+              echo "Branch $BRANCH_NAME existiert bereits remote. Überspringe Generierung."
+              continue
+            fi
+            
+            # --- 4. Download und Generierung der Daten ---
+            
+            if [ ! -d "$GENERATED_PATH" ]; then
+                echo "Fehlende Daten. Lade Manifest $VERSION_ID herunter..."
+                
+                # Manifest der spezifischen Version laden
+                VERSION_JSON=$(curl -s "$VERSION_URL")
+                
+                SERVER_JAR_URL=$(echo "$VERSION_JSON" | jq -r '.downloads.server.url')
+                
+                if [ "$SERVER_JAR_URL" == "null" ] || [ -z "$SERVER_JAR_URL" ]; then
+                    echo "Keine Server-Version für $VERSION_ID gefunden. Überspringe."
+                    continue
+                fi
+                
+                mkdir -p "$TEMP_FOLDER"
+                JAR_PATH="$TEMP_FOLDER/minecraft_server.jar"
+
+                echo "Lade Server JAR: $SERVER_JAR_URL"
+                curl -s -L "$SERVER_JAR_URL" -o "$JAR_PATH"
+
+                echo "Führe Data Generator aus..."
+                # Führe den Generator mit der heruntergeladenen JAR aus
+                java -classpath "$JAR_PATH" net.minecraft.data.Main --all
+            else
+                echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
+            fi
+
+            # --- 5. Git-Operationen (Branch erstellen, Kopieren, Commit) ---
+            
+            # Neuen Branch erstellen und darauf wechseln
+            git branch "$BRANCH_NAME"
+            git checkout "$BRANCH_NAME"
+            
+            # B. Verzeichnis säubern (alles außer .git und .github)
+            echo "Bereinige Arbeitsverzeichnis..."
+            find "$REPO_DIR" -maxdepth 1 -not -path "$REPO_DIR" -not -name ".git" -not -name ".github" -exec rm -rf {} +
+
+            # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
+            echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
+            cp -r "$GENERATED_PATH/"* "$REPO_DIR"
+            
+            # D. Commit und Push
+            git add -A
+            COMMIT_MSG="Update to $VERSION_ID"
+            
+            if git commit -m "$COMMIT_MSG"; then
+              # Commit erfolgreich (Exit Code 0)
+              echo "Pushe Branch $BRANCH_NAME zu Remote..."
+              git push "$AUTH_REPO_URL" "$BRANCH_NAME"
+              PROCESSED_COUNT=$((PROCESSED_COUNT + 1))
+            else
+              # Commit fehlgeschlagen (Exit Code 1, meist "Nothing to commit")
+              echo "Keine Änderungen für $VERSION_ID gefunden (kein Commit/Push)."
+            fi
+
+          done # Ende der Versionsschleife
+          
+          echo -e "\n*** Synchonisation abgeschlossen. ${PROCESSED_COUNT} neue Branches gepusht. ***"
