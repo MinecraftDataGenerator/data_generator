@@ -1,0 +1,16 @@
+// 22w43a	2025-10-09T18:58:23.213321465	update_1_20/Tags for minecraft:block
+cf90c563e751e124dd4d698f10e092ea27dc1ee2 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_doors.json
+b6bbcc7e53f8a8ebbb2562ff4e2891b413de4c1f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/fence_gates.json
+3a170fc1696209df93bc53020b327adfeeffc8fb data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/axe.json
+9a63d88cf08452a9223374f12e377a986e92d707 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/standing_signs.json
+d9557abbdb6ed90d75b54845ae2d2b230f4285eb data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_stairs.json
+af2ac5aa6c660abc7f9e705790995467d7883b8a data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_fences.json
+fcb10c0ada7640fe990f50b0aec6021f49aced74 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wall_signs.json
+7d1351b32f1bb2f621598e4a26a32a85c86f4d5f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_pressure_plates.json
+bd4db8a5737773ae559a890697d57c6cba74df86 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/planks.json
+3d837c46340b320b8d0d76fdf5382864fb7a10ce data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_buttons.json
+5de14c2e880e54897a9521c0913a43e033113abb data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wall_hanging_signs.json
+df13adbde216cdfc3e89d9bb5b41a35c1fd44c53 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/ceiling_hanging_signs.json
+db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/all_hanging_signs.json
+bacee98e1593db1f15875ca8fd17a16384610e90 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_slabs.json
+f52c7b6d0554583b1deed3f606b134eca41b64ab data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_trapdoors.json
