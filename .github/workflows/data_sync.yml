@@ -1,61 +1,66 @@
 name: 'Minecraft Data Generator & Git Sync'
 
 on:
-  # Führe den Job täglich um 03:00 Uhr UTC aus, um neue Versionen zu erkennen
+  # Schedule the job to run daily at 03:00 UTC to check for new versions
   schedule:
     - cron: '0 3 * * *'
+  # Allow manual execution via the GitHub Actions interface
   workflow_dispatch:
 
 jobs:
   generate_and_sync:
     runs-on: ubuntu-latest
     
+    # Permissions are needed for the actions/checkout step and later for pushing
     permissions:
       contents: write 
 
     steps:
-      - name: 1. Setup Java 17 (Nötig für den Minecraft Data Generator)
-        # Die Minecraft JAR ist ein Java-Programm, wir müssen Java nur zur Ausführung bereitstellen.
+      - name: 1. Setup Java 17 (Required for the Minecraft Data Generator JAR)
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: 2. Klonen des Repositorys (mit PAT für Push-Zugriff)
-        # Wir verwenden den PAT-Token aus den Secrets direkt für den Authentifizierungs-URL
+      - name: 2. Checkout Repository (using PAT for push access)
+        # Use the PAT token from secrets for authentication on future pushes.
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Kompletten Verlauf holen, um die Existenz alter Branches prüfen zu können
+          fetch-depth: 0 # Fetch full history to check for existing remote branches
           token: ${{ secrets.GH_PAT }}
 
-      - name: 3. Generator Logik (Bash)
+      - name: 3. Generator Logic (Bash Script)
         id: run_sync
         env:
-          START_VERSION: "18w01a"
+          # Start processing from this version onwards (inclusive).
+          START_VERSION: "1.21.10"
           MANIFEST_URL: "https://launchermeta.mojang.com/mc/game/version_manifest.json"
-          GH_TOKEN: ${{ secrets.GH_PAT }} # Der Token zum Pushen neuer Branches
+          GH_TOKEN: ${{ secrets.GH_PAT }} # Token for pushing new branches
           REPO_URL: ${{ github.server_url }}/${{ github.repository }}
 
         run: |
-          # --- KONSTANTEN SETUP ---
+          # --- CONSTANT SETUP ---
           REPO_DIR="."
           OUTPUT_DIR="minecraft_versions"
           
-          # Der PAT-Token muss in die URL eingebettet werden, um Branches pushen zu können.
+          # Embed the PAT into the Git URL for pushing new branches.
           AUTH_REPO_URL=$(echo "${REPO_URL}" | sed "s|https://|https://${GH_TOKEN}@|")
 
           echo "Lade Version Manifest..."
           MANIFEST=$(curl -s $MANIFEST_URL)
           
-          # --- 1. Versionen filtern und umkehren (vom ältesten zum neuesten) ---
+          # --- 1. Versionen filtern und in die korrekte Reihenfolge bringen (Alt -> Neu) ---
           
-          # jq findet alle Versionen, die nach der Start-Version im Manifest kommen
-          # und erzeugt ein Array von Objekten.
-          # Wir speichern das in einer Variable und lassen die Bash-Logik laufen.
+          echo "Filtere Versionen, die neuer oder gleich $START_VERSION sind und kehre die Reihenfolge um (Alt -> Neu)..."
+
+          # Korrigierte jq-Logik:
+          # 1. Filtern: Behalte nur Versionen, deren ID >= START_VERSION ist.
+          # 2. Umkehren: Die Liste wird von Neu nach Alt zu Alt nach Neu.
+          # 3. .[] : Erzeugt ein einzelnes JSON-Objekt pro Zeile für die Bash-Schleife.
           VERSIONS_JSON=$(echo "$MANIFEST" | jq -c --arg start "$START_VERSION" '
             .versions 
-            | reverse 
-            | map(select(.id >= $start)) 
+            | map(select(.id >= $start))
+            | reverse
             | .[]
           ')
 
@@ -64,9 +69,7 @@ jobs:
             exit 0
           fi
           
-          # Wir arbeiten mit dem globalen Git-Repository, daher keine separate Klon-Aktion
-          
-          echo "Verarbeite Versionen ab $START_VERSION..."
+          echo "Verarbeite Versionen ab $START_VERSION, von der ältesten zur neuesten..."
           PROCESSED_COUNT=0
 
           for VERSION_OBJECT in $VERSIONS_JSON; do
@@ -76,11 +79,11 @@ jobs:
             
             # --- 2. Namen bereinigen und Branch-Namen erstellen ---
             
-            # ✅ KORREKTUR: Ersetze Leerzeichen und Slashes durch Bindestriche, um gültige Git-Namen zu erhalten.
+            # Ersetze Leerzeichen und Slashes durch Bindestriche für gültige Git-Namen.
             CLEAN_ID=$(echo "$VERSION_ID" | sed 's/[ /]/-/g')
             BRANCH_NAME="${VERSION_TYPE:0:1}-${CLEAN_ID}" # s- oder r- Präfix
 
-            # Ordnername behält die Original-ID, um existierende Ordner wiederzuverwenden
+            # Ordnername behält die Original-ID (mit Leerzeichen/Punkten)
             FOLDER_NAME="${VERSION_TYPE:0:1}-${VERSION_ID}"
             TEMP_FOLDER="$OUTPUT_DIR/$FOLDER_NAME"
             GENERATED_PATH="$TEMP_FOLDER/generated"
@@ -88,7 +91,6 @@ jobs:
             echo -e "\n--- Prüfe Version: $VERSION_ID (Branch: $BRANCH_NAME) ---"
             
             # --- 3. Prüfen, ob Branch existiert ---
-            # git ls-remote beendet sich mit Code 0, wenn der Branch existiert.
             if git ls-remote --exit-code origin "$BRANCH_NAME" > /dev/null 2>&1; then
               echo "Branch $BRANCH_NAME existiert bereits remote. Überspringe Generierung."
               continue
@@ -99,9 +101,7 @@ jobs:
             if [ ! -d "$GENERATED_PATH" ]; then
                 echo "Fehlende Daten. Lade Manifest $VERSION_ID herunter..."
                 
-                # Manifest der spezifischen Version laden
                 VERSION_JSON=$(curl -s "$VERSION_URL")
-                
                 SERVER_JAR_URL=$(echo "$VERSION_JSON" | jq -r '.downloads.server.url')
                 
                 if [ "$SERVER_JAR_URL" == "null" ] || [ -z "$SERVER_JAR_URL" ]; then
@@ -116,8 +116,9 @@ jobs:
                 curl -s -L "$SERVER_JAR_URL" -o "$JAR_PATH"
 
                 echo "Führe Data Generator aus..."
-                # Führe den Generator mit der heruntergeladenen JAR aus
+                # ✅ KORRIGIERTER AUFRUF: Verwende die -jar + -DbundlerMainClass Methode für moderne JARs.
                 java -DbundlerMainClass=net.minecraft.data.Main -jar "$JAR_PATH" --all
+
             else
                 echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
             fi
@@ -125,7 +126,7 @@ jobs:
             # --- 5. Git-Operationen (Branch erstellen, Kopieren, Commit) ---
             
             # Neuen Branch erstellen und darauf wechseln
-            git branch "$BRANCH_NAME"
+            git branch "$BRANCH_NAME" || true
             git checkout "$BRANCH_NAME"
             
             # B. Verzeichnis säubern (alles außer .git und .github)
@@ -134,6 +135,7 @@ jobs:
 
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
+            # Fügt auch versteckte Dateien/Ordner hinzu, falls vorhanden
             cp -r "$GENERATED_PATH/"* "$REPO_DIR"
             
             # D. Commit und Push
@@ -141,14 +143,15 @@ jobs:
             COMMIT_MSG="Update to $VERSION_ID"
             
             if git commit -m "$COMMIT_MSG"; then
-              # Commit erfolgreich (Exit Code 0)
               echo "Pushe Branch $BRANCH_NAME zu Remote..."
               git push "$AUTH_REPO_URL" "$BRANCH_NAME"
               PROCESSED_COUNT=$((PROCESSED_COUNT + 1))
             else
-              # Commit fehlgeschlagen (Exit Code 1, meist "Nothing to commit")
               echo "Keine Änderungen für $VERSION_ID gefunden (kein Commit/Push)."
             fi
+            
+            # WICHTIG: Zurückwechseln zum main-Branch für den nächsten Schleifendurchlauf
+            git checkout main || git checkout master || echo "Could not switch back to main/master branch."
 
           done # Ende der Versionsschleife
           
