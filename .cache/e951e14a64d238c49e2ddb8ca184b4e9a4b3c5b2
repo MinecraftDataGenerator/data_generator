@@ -1,4 +1,4 @@
-// 24w45a	2025-10-09T18:45:07.648506372	vanilla/Advancements
+// 24w46a	2025-10-09T18:44:49.032563556	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 0962940c1ca516bdf9c98dc2bf5e80c3e044a662 data/minecraft/advancement/end/root.json
@@ -45,7 +45,7 @@ da492037e8b46ae48e4b46be75bdb6125e83c654 data/minecraft/advancement/nether/all_e
 e0af3321c710930f556eb50d38d2e2122323a0c8 data/minecraft/advancement/nether/find_fortress.json
 c5eb130562cd45c40bf7bdb816a8dfed299529ac data/minecraft/advancement/end/respawn_dragon.json
 ec69a92522054c082242696b803a0419a3c35daf data/minecraft/advancement/adventure/trade_at_world_height.json
-28d1380e0f77b0b0e0243baacc709ab2246105fb data/minecraft/advancement/adventure/kill_all_mobs.json
+67a512bf66c91e339667b63447bd5ef42fd5ac76 data/minecraft/advancement/adventure/kill_all_mobs.json
 7cbc6771c1a8474285b6e0296f2bea1340d24cbd data/minecraft/advancement/adventure/two_birds_one_arrow.json
 08bb40b0bb5face40dc1384bc0d315aa1b1fa4db data/minecraft/advancement/nether/create_full_beacon.json
 9615220500bb57ead431c62037591349f5d9b962 data/minecraft/advancement/adventure/who_needs_rockets.json
@@ -83,7 +83,7 @@ d0ab0381d38485433a35f3e14542528f47238b7c data/minecraft/advancement/story/mine_d
 10075cbff45f493040a3587718ccc104d1369018 data/minecraft/advancement/end/levitate.json
 d4979b351ff1e46b83ac01502441c88221d7384b data/minecraft/advancement/nether/fast_travel.json
 e1c3157792e6015bee9801b5573ba4150fa5406b data/minecraft/advancement/story/enter_the_nether.json
-28a87c6853caf70e3243f775e85c2c1697a59a3b data/minecraft/advancement/adventure/kill_a_mob.json
+0c8cb1307a596de8ccfb2988d2141b970707d205 data/minecraft/advancement/adventure/kill_a_mob.json
 912baf91e6197fb3d8a900f3cc0fcfa6aa2ff83a data/minecraft/advancement/husbandry/complete_catalogue.json
 d81ace37ae22c2c296eb478cca14020b86eb4830 data/minecraft/advancement/adventure/spyglass_at_ghast.json
 c5dd0dc0eaaf9eea466905df33207f6974dd74ae data/minecraft/advancement/story/lava_bucket.json
