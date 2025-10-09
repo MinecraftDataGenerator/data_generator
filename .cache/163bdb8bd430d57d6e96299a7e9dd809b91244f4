@@ -1,4 +1,4 @@
-// 1.21.7 Release Candidate 2	2025-10-09T18:40:32.964620155	vanilla/Tags for minecraft:entity_type
+// 1.21.7	2025-10-09T18:40:10.573615915	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -21,8 +21,8 @@ e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverte
 0bbeb07059ee1e779eb6e762c565e34ac6915032 data/minecraft/tags/entity_type/arrows.json
 d9f581f9300c295abe6532cdb207b07a005b6f23 data/minecraft/tags/entity_type/dismounts_underwater.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/frog_food.json
-9eecfbba6b4ef0184b1dd7345f88872f294b8bd3 data/minecraft/tags/entity_type/redirectable_projectile.json
 f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_type/raiders.json
+9eecfbba6b4ef0184b1dd7345f88872f294b8bd3 data/minecraft/tags/entity_type/redirectable_projectile.json
 efb8543801555f1eaabd69b80205ea45d64cb29d data/minecraft/tags/entity_type/boat.json
 966d6c3a0c97a5ee98ddbb27e5e17002d9b87480 data/minecraft/tags/entity_type/skeletons.json
 40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
