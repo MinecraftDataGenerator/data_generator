@@ -1,4 +1,4 @@
-// 1.20.5 Pre-Release 3	2025-10-09T18:49:25.742794732	update_1_21/Registries
+// 1.20.5 Pre-Release 4	2025-10-09T18:50:47.110090804	update_1_21/Registries
 18aa7902e032a076d19bf452fed62779b4999226 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/small_melee/baby_zombie.json
 8ac7cd31460c375951763b3a621e70e8feabd5a1 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/contents/breeze.json
 f28577f75995052a2d175a2a4cdc9cf790c83e60 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/corridors/addon/middle_upper.json
@@ -12,14 +12,16 @@ c5a980757365e4893325497680e30d7ecee29459 data/minecraft/datapacks/update_1_21/da
 bc39c6d7ade4f50d0da5c032a67b38100fb85cbf data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chamber/eruption.json
 3254ec9f7474b0f66091692f6a8273421905d7b6 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/corridor/slices.json
 70fec5fd8c4f827526c805d214af32e02054ed79 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chests/supply.json
-a52b7a7f2172df76de825cd704b6156df1b2f6ab data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/atrium.json
+b8266f2c50c4fb51f7d6f406c0cf7eaf8d540fdd data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/biome/swamp.json
 f46bfe9a20e28a8f962b217b1cfc3066fb6d68ef data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/decor.json
+a52b7a7f2172df76de825cd704b6156df1b2f6ab data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/atrium.json
 34898b1f5a135659f25629af08847b249d7e45a8 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/melee/husk.json
 be27a59d33de838cee38f29397b531011744ca91 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/ranged.json
 ae7a2618299574f56a4020dce7a1b6de509444c7 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/reward/contents/default.json
 ae7a2618299574f56a4020dce7a1b6de509444c7 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/reward/all.json
 a56717e48f6c8121a8f8f4cdf4ee44b0f1d1c887 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/small_melee/silverfish.json
 7c0035992c576bec137ed4567e41044ab8d2d18b data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chamber/end.json
+1954161d581905690307ed220396953e92ecb599 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/biome/mangrove_swamp.json
 239e5db097849301ac11ce24c7ab358ec2b33b87 data/minecraft/datapacks/update_1_21/data/minecraft/banner_pattern/flow.json
 267f155d3e86a6444aa517c94b8e7da0d7653e7b data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chests/contents/supply.json
 3d95ef04d1858449588dd404255fdf0a5d60284e data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/decor_chamber.json
@@ -32,8 +34,8 @@ a56717e48f6c8121a8f8f4cdf4ee44b0f1d1c887 data/minecraft/datapacks/update_1_21/da
 758b6e35a309277144623d2a007f9d16ecb5d06e data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chamber/slanted.json
 b9c101871d7ac89169d57910d43c52703e49f27e data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/small_melee.json
 1f2c7483c547b6890e022bbfbba67521a1026330 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chamber/addon.json
-b00c06b81cc8d0ed6dccb7edbf0883bbc1b40e98 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/melee/zombie.json
 41dc1f7e4c17394b46dcb8a52e91119f0bef764c data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chamber/entrance_cap.json
+b00c06b81cc8d0ed6dccb7edbf0883bbc1b40e98 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/melee/zombie.json
 da3893c4833a2c4b238d8a26c574b19b9a25e755 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/chamber/assembly.json
 c270a382893becf056026bfd39b46b53ebb3a2a0 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/spawner/small_melee/cave_spider.json
 f5a5dd0ac4e116f5d6fd960d49544337f315bbc7 data/minecraft/datapacks/update_1_21/data/minecraft/worldgen/template_pool/trial_chambers/hallway/fallback.json

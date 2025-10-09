@@ -1,9 +1,9 @@
-// 1.20.5 Pre-Release 3	2025-10-09T18:49:25.741933672	vanilla/Tags for minecraft:item
+// 1.20.5 Pre-Release 4	2025-10-09T18:50:47.109295954	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
-53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
-8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/items/enchantable/leg_armor.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/items/dyeable.json
+8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/items/enchantable/leg_armor.json
+53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
 237ae0010a21b6661acf9b44a30d8c6ff981d328 data/minecraft/tags/items/enchantable/chest_armor.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/items/crimson_stems.json
 c998cf5cbc50fe6ebff96350e415e3db67a94c6b data/minecraft/tags/items/wooden_pressure_plates.json
