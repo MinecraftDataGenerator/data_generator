@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          java-version: '17'
+          java-version: '21'
 
       - name: 2. Checkout Repository (using PAT for push access)
         # Use the PAT token from secrets for authentication on future pushes.
