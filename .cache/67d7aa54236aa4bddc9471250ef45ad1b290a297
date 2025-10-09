@@ -1,4 +1,4 @@
-// 23w13a_or_b	2025-10-09T18:55:41.717168098	vanilla/Tags for minecraft:damage_type
+// 23w14a	2025-10-09T18:55:39.66335954	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -15,11 +15,11 @@ bc5340194c7d1616600fe468b01e6014a1508e97 data/minecraft/tags/damage_type/is_ligh
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/wither_immune_to.json
 ed55ab9d4f19e20aebacbdb89ee5e7c2984921d4 data/minecraft/tags/damage_type/avoids_guardian_thorns.json
 30fe47513222085b4b02b7acf6efb697bba32e59 data/minecraft/tags/damage_type/no_anger.json
-9d3222a5a7a7f9cb1f718f7c36773b344ff02516 data/minecraft/tags/damage_type/is_fall.json
 5b4bea9cf71bdea9db4f9ed2fc3221bdc2137bfa data/minecraft/tags/damage_type/always_hurts_ender_dragons.json
+9d3222a5a7a7f9cb1f718f7c36773b344ff02516 data/minecraft/tags/damage_type/is_fall.json
 1324e0ed36e77ca3f072b86758c3325135b5c611 data/minecraft/tags/damage_type/is_projectile.json
 a4e6008470392ad067974af0347e8f452ec7e8e6 data/minecraft/tags/damage_type/bypasses_shield.json
 b9db1487dd4ab90332c05a2e0602ff3f6a3b6c39 data/minecraft/tags/damage_type/is_explosion.json
 59e4d9b48c36b871448acba6a38fa7797b9371ad data/minecraft/tags/damage_type/witch_resistant_to.json
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
-f1e78065a39c2414db0222e63292aacae92ed01a data/minecraft/tags/damage_type/bypasses_armor.json
+8d558c979e3073b56f43a46199f1fedae301faa8 data/minecraft/tags/damage_type/bypasses_armor.json
