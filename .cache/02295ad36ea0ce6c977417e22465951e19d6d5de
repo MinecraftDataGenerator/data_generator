@@ -1,6 +1,7 @@
-// 22w44a	2025-10-09T18:57:49.662940631	update_1_20/Loot Tables
+// 22w45a	2025-10-09T18:57:47.752905478	update_1_20/Loot Tables
 78cc54d66a5bfa5b561d4760a341e23d4b4ab7d4 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 0596f3d2e92d0fe12a14cbb8fc5a034f6a06de85 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/acacia_hanging_sign.json
+0c0469c56f3ffbe7710a267284fa0a0091fcb8f6 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_block.json
 25fea7ca8f083f86e8a41690179000bb33408566 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/birch_hanging_sign.json
 4911635c40886e29edc3482c241bb4822b68988b data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_mosaic_slab.json
 37c704f9602a8e0b96aa5f28ebeaf9158e41547e data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_sign.json
@@ -20,6 +21,7 @@ b1cdd2023b6c85af18e20b53e81bf22476897d55 data/minecraft/datapacks/update_1_20/da
 370918018ad70b6e89bd38d53aae95656db30fba data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_door.json
 4ce31fd6720ae69b8a761b1f0e6ff907625c3734 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_slab.json
 8a255b3c9f95582f14b82e0fc0f2dad908be348f data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_stairs.json
+5b4ecabea737defb8b5dadc078555adb422cc1be data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/stripped_bamboo_block.json
 159f7d41355b2406e17032a0032db5ae2a19c08c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_trapdoor.json
 65bc31e69ba6d9969f7499065109cc61849c4e09 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/jungle_hanging_sign.json
 f85377ac9f3ad43e4a234ff43de087c1925c70b6 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/warped_hanging_sign.json

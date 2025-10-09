@@ -1,4 +1,4 @@
-// 22w44a	2025-10-09T18:57:49.664005572	update_1_20/Tags for minecraft:item
+// 22w45a	2025-10-09T18:57:47.753699528	update_1_20/Tags for minecraft:item
 b6bbcc7e53f8a8ebbb2562ff4e2891b413de4c1f data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/fence_gates.json
 af2ac5aa6c660abc7f9e705790995467d7883b8a data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_fences.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/buttons.json
@@ -16,7 +16,8 @@ cf90c563e751e124dd4d698f10e092ea27dc1ee2 data/minecraft/datapacks/update_1_20/da
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/trapdoors.json
 df13adbde216cdfc3e89d9bb5b41a35c1fd44c53 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/hanging_signs.json
 bce8ca2b1cb1bd556dc463205f9f60accb855047 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/bookshelf_books.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/stairs.json
 37edf5c6e18067f67b1581075f8f1441577f51da data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_slabs.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/stairs.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/fences.json
+b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/bamboo_blocks.json
 41ca4d58e3f1a6652f764d7831372024f346f352 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/chest_boats.json

@@ -1,4 +1,4 @@
-// 22w44a	2025-10-09T18:57:49.662152061	vanilla/Tags for minecraft:block
+// 22w45a	2025-10-09T18:57:47.752218758	vanilla/Tags for minecraft:block
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -116,8 +116,8 @@ f46daef72cebb7ee09a3d1e4971b314ffd7f0352 data/minecraft/tags/blocks/dragon_trans
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/blocks/spruce_logs.json
 ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/blocks/mushroom_grow_block.json
 cba49c35a530041b3da1cb5d68a0a7ebcc1361cb data/minecraft/tags/blocks/mineable/hoe.json
-8e1f9955213a1b744d739c105d900570d6529fa4 data/minecraft/tags/blocks/stripped_logs.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/blocks/stone_bricks.json
+8e1f9955213a1b744d739c105d900570d6529fa4 data/minecraft/tags/blocks/stripped_logs.json
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/blocks/foxes_spawnable_on.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/blocks/gold_ores.json
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/blocks/snaps_goat_horn.json

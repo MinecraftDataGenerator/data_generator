@@ -1,4 +1,4 @@
-// 22w44a	2025-10-09T18:57:49.65907074	vanilla/Tags for minecraft:item
+// 22w45a	2025-10-09T18:57:47.749262567	vanilla/Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
@@ -37,8 +37,8 @@ e81f8b8dbba774b8eb3ff4252140a7cce46870f8 data/minecraft/tags/items/small_flowers
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/items/fences.json
 7f07892c2d48d32709c36a0538e4bbf9adf96123 data/minecraft/tags/items/tall_flowers.json
 4f49148d36d536b952bb03d660de61d68f361e1b data/minecraft/tags/items/music_discs.json
-c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/items/wooden_slabs.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.json
+c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/items/wooden_slabs.json
 33e8ec7190dcb72c437ead7d37ebc6cc7e986f1d data/minecraft/tags/items/saplings.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/items/birch_logs.json
@@ -59,7 +59,6 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/items/redstone_ores
 7c28f85f87f39201d2d4b362cadb5fc432d2a888 data/minecraft/tags/items/wooden_doors.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/items/lectern_books.json
 3b950c80bace8299126b5b156ecf34a265bf4df2 data/minecraft/tags/items/arrows.json
-dd988a7b40cd35305d665d421d4696962b709eed data/minecraft/tags/items/overworld_natural_logs.json
 1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/items/piglin_repellents.json
 6ede28640bdf067c0ec2d1f9c2d26f166cb3a6c8 data/minecraft/tags/items/buttons.json
 7162b78abf0ec379d4bcccee08db0f237b37117e data/minecraft/tags/items/logs_that_burn.json
