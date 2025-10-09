@@ -105,14 +105,14 @@
                   }
                 },
                 {
-                  "type": "minecraft:speed",
+                  "type": "minecraft:saturation",
                   "duration": {
                     "min": 7.0,
                     "max": 10.0
                   }
                 },
                 {
-                  "type": "minecraft:saturation",
+                  "type": "minecraft:night_vision",
                   "duration": {
                     "min": 7.0,
                     "max": 10.0
