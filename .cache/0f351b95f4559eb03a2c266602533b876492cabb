@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 2	2025-10-09T18:56:38.715330405	update_1_20/Tags for minecraft:block
+// 1.19.4 Pre-release 3	2025-10-09T18:56:22.479263212	update_1_20/Tags for minecraft:block
 3518927132422cba83e4a7a855a11323fbab302d data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/axe.json
 eee0da0f4d390aeb43c92710793e67c57956776e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/hoe.json
 ebaf74aa861968ef9c407fc0446d5bc8d443cf81 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/small_flowers.json
@@ -7,7 +7,7 @@ eaf4c5a80a7ef00d056e5cf6788bddb13ce255cb data/minecraft/datapacks/update_1_20/da
 ae609bcb9c126b96a8b9254bf8ea5733c6e38ba3 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wall_signs.json
 ee03b23ed0cc5aab63222d46f23c94ead6450e8c data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/overworld_natural_logs.json
 426cdb653360a8bcdf2a519a0cdeab260743b864 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_pressure_plates.json
-bdee0219075ad79fbcba6be2b7e34e7b9549406b data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/flower_pots.json
+8645b6d308b43221b72435bad9c6fd5aa256af91 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/flower_pots.json
 9a761594fa3b7ad3870a162292e2d1e628ae033e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wall_hanging_signs.json
 35fe618c61441f3d81e2e483e2ab88847ac90a63 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/ceiling_hanging_signs.json
 eec37846ab2c083341057273cdf03ad47909fad7 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/logs_that_burn.json

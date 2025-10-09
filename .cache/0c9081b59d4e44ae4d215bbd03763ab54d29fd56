@@ -1,9 +1,9 @@
-// 1.19.4 Pre-release 2	2025-10-09T18:56:38.705098593	update_1_20/Registries
+// 1.19.4 Pre-release 3	2025-10-09T18:56:22.468255409	update_1_20/Registries
 24ae47afe4ac9ed9ef01738349e68a4965f27084 data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/lapis.json
 5dbb6b5e688ab60ab6d3ae8fd9bfd255fe371671 data/minecraft/datapacks/update_1_20/data/minecraft/trim_pattern/wild.json
 039874d7e779e32046d76da43dffdef322da636a data/minecraft/datapacks/update_1_20/data/minecraft/worldgen/biome/cherry_grove.json
-e56b054036ec55b7b317937598ff6264d8c28726 data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/copper.json
 38814211404661cad4d14642f2d832672d47b8f8 data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/emerald.json
+e56b054036ec55b7b317937598ff6264d8c28726 data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/copper.json
 887e1f5ab39e327d705161a77501970fcddf7617 data/minecraft/datapacks/update_1_20/data/minecraft/trim_pattern/sentry.json
 6e7e43839ba5a3147468e1ce801be49e21f753ee data/minecraft/datapacks/update_1_20/data/minecraft/trim_pattern/coast.json
 848a3c49669f7e3996c929db2d935e6ae0fab00c data/minecraft/datapacks/update_1_20/data/minecraft/trim_pattern/spire.json
@@ -20,5 +20,5 @@ f706fa51ff65876ce30334a7b405af63751c3608 data/minecraft/datapacks/update_1_20/da
 a1977d9f0b69083efb56b85d8f7d4b35a6b384be data/minecraft/datapacks/update_1_20/data/minecraft/trim_pattern/dune.json
 e649c820183053a6f58c2a3d000e9fc16aefe26f data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/amethyst.json
 8e439cfa85d3fb3545384080322b4d9372f0055f data/minecraft/datapacks/update_1_20/data/minecraft/trim_pattern/rib.json
-716d13de6acf1a3bfc6aa70841c34b999eb25afa data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/gold.json
 09f351f68e4c5cef6e2eb739c79602c9a4ab058b data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/netherite.json
+716d13de6acf1a3bfc6aa70841c34b999eb25afa data/minecraft/datapacks/update_1_20/data/minecraft/trim_material/gold.json
