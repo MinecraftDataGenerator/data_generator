@@ -1,4 +1,4 @@
-// 23w46a	2025-10-09T18:52:22.602257391	vanilla/Advancements
+// 1.20.3 Pre-Release 1	2025-10-09T18:52:18.761597938	vanilla/Advancements
 c9c251a48758d49199e40559a478c9fe2c5ae541 data/minecraft/advancements/story/form_obsidian.json
 b1d6768ce099930a7eb7db51639562b5e03b6396 data/minecraft/advancements/nether/fast_travel.json
 4accca6b160e11a074f800177a9c9066183cce6c data/minecraft/advancements/story/enter_the_nether.json
@@ -35,7 +35,7 @@ af29e86fac11591d7133767c414969f123ae29d6 data/minecraft/advancements/nether/ride
 b374a4d8914d648cb8a05efbed305358e17d0091 data/minecraft/advancements/adventure/root.json
 27c2c88ea66d0187de7a611b60b77d519ad62613 data/minecraft/advancements/adventure/trim_with_any_armor_pattern.json
 959b044f56b3789c3a7d1d1c094e8a91f6bf2d0d data/minecraft/advancements/husbandry/complete_catalogue.json
-37bb62b6e22680568c9c2485836c403dc667a671 data/minecraft/advancements/adventure/kill_all_mobs.json
+224af5324d4d0760a1c144940e60c1120377d696 data/minecraft/advancements/adventure/kill_all_mobs.json
 7dc206cb3c7bf67031dc7119efed7376fb5031e2 data/minecraft/advancements/husbandry/plant_seed.json
 3c7b5f892fc7cec9354dea7e75d0d21cc144cf59 data/minecraft/advancements/husbandry/obtain_sniffer_egg.json
 1bc73934968f9fe16638de419eabacb3f184a7e6 data/minecraft/advancements/adventure/fall_from_world_height.json
@@ -60,7 +60,7 @@ a7f74c690ac0fe5b03c4b21aa420464ba772187e data/minecraft/advancements/adventure/l
 94243793a06932f033e5b2a7e1baa92acf72193d data/minecraft/advancements/adventure/salvage_sherd.json
 2cabd0adde25fa1d9018f7a37783b2c164c47f39 data/minecraft/advancements/husbandry/safely_harvest_honey.json
 9ed10e9839aa7e342846c0de0acc37fc05694086 data/minecraft/advancements/nether/brew_potion.json
-b404564d522224c656988c1aee786d3d74b59ace data/minecraft/advancements/adventure/kill_a_mob.json
+34ee77ebd9e2ac6b48928e53db08b5fc12da754d data/minecraft/advancements/adventure/kill_a_mob.json
 aa96ddab27b1a3593f2b951ffd7fbccc58ed15b2 data/minecraft/advancements/end/enter_end_gateway.json
 2f61f996aa727046b07041a5d20817e5371ef917 data/minecraft/advancements/nether/get_wither_skull.json
 c79c687f921d6ca7224d7aeac045d4b3ecf0a230 data/minecraft/advancements/story/shiny_gear.json
