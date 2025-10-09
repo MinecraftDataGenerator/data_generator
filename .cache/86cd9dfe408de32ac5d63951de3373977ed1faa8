@@ -1,4 +1,4 @@
-// 24w40a	2025-10-09T18:47:42.339027926	vanilla/Tags for minecraft:block
+// 1.21.2 Pre-Release 1	2025-10-09T18:46:02.293721488	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -61,8 +61,8 @@ c998cf5cbc50fe6ebff96350e415e3db67a94c6b data/minecraft/tags/block/wooden_pressu
 db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/tags/block/all_hanging_signs.json
 a7909c7163d85f8e0b928c566fc0f89cc89e9b04 data/minecraft/tags/block/prevent_mob_spawning_inside.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
-0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/block/foxes_spawnable_on.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
+0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/block/foxes_spawnable_on.json
 84ec8be9cdb0097dbc6e35113fbd00d2157a310c data/minecraft/tags/block/mangrove_logs_can_grow_through.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 8764a27533bd7e677a24f1061965a780b6b3e274 data/minecraft/tags/block/lava_pool_stone_cannot_replace.json
@@ -84,8 +84,8 @@ e6ec9c5c82db2c7ca6c3a9f643df2dac9f4967db data/minecraft/tags/block/slabs.json
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 80ca0014239f0046a5e01ce25e5f173990cdb610 data/minecraft/tags/block/sculk_replaceable_world_gen.json
 882f7161808179f92ed953b9200fdaf74eec6c36 data/minecraft/tags/block/infiniburn_overworld.json
-ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
+ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/block/beacon_base_blocks.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 0cc76a2a135e15e63ba435b9ae22e215cc9637fb data/minecraft/tags/block/replaceable.json
@@ -125,8 +125,8 @@ c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertable_t
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/block/spruce_logs.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powder.json
 da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spawnable_on.json
-3358796e1ddbb79ccb13467bfc720a95b4a19352 data/minecraft/tags/block/enchantment_power_provider.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_netherite_tool.json
+3358796e1ddbb79ccb13467bfc720a95b4a19352 data/minecraft/tags/block/enchantment_power_provider.json
 4aa5ae0247090aefba258a0a60d9a9189a9d378e data/minecraft/tags/block/mineable/axe.json
 51ce2bcc8e2afb893169c1f8562e87206632ea5a data/minecraft/tags/block/sword_efficient.json
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/block/buttons.json
@@ -159,8 +159,8 @@ de497bdbd607638702d22bef902ced0dabe1d293 data/minecraft/tags/block/stairs.json
 19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/block/mangrove_logs.json
 274c899ecd90e93185a6b2d7bf84123a67af63db data/minecraft/tags/block/enderman_holdable.json
 e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/block/snow_layer_can_survive_on.json
-864b82c0176addd3a0a560b4bfb7cfd232de8a9e data/minecraft/tags/block/hoglin_repellents.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/soul_speed_blocks.json
+864b82c0176addd3a0a560b4bfb7cfd232de8a9e data/minecraft/tags/block/hoglin_repellents.json
 5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/block/deepslate_ore_replaceables.json
 01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/block/needs_diamond_tool.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/block/birch_logs.json

@@ -1,11 +1,11 @@
-// 24w40a	2025-10-09T18:47:42.341609517	winter_drop/Loot Tables
+// 1.21.2 Pre-Release 1	2025-10-09T18:46:02.295828999	winter_drop/Loot Tables
 2311f0b6af0dd0522adec1cf56c0f9a8461becdd data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_leaves.json
 b2e3e319a37bdbc87adf629b2301fbb7b7cae1fe data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_door.json
 32d86594f12153505c5155a6ba394cadeaf30bfa data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_sapling.json
-119e8bc6347204cbce8fd020766e48fa91cc2510 data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/potted_pale_oak_sapling.json
 94ba9bad9e05c83f4fe0a91331bcfa4298d65bed data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_pressure_plate.json
-4f1f853990bc3982faf510628a8ca0635232ec63 data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_hanging_sign.json
+119e8bc6347204cbce8fd020766e48fa91cc2510 data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/potted_pale_oak_sapling.json
 6df6d66f22b7b356924ee1e4fbf4665999a0749d data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_stairs.json
+4f1f853990bc3982faf510628a8ca0635232ec63 data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_hanging_sign.json
 6b8baf4cf9c71d3fdd1e9870ffafe044320307db data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/stripped_pale_oak_log.json
 444703f9e53c6b1271c9218ffc307f023741d5ab data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_trapdoor.json
 ec6675bfd32085686dd1d0d2cca6054fb58014c6 data/minecraft/datapacks/winter_drop/data/minecraft/loot_table/blocks/pale_oak_planks.json
