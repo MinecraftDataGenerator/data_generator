@@ -1,4 +1,4 @@
-// 25w21a	2025-10-09T18:41:32.042477961	vanilla/Tags for minecraft:item
+// 1.21.6 Pre-Release 1	2025-10-09T18:41:28.226852766	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -130,8 +130,8 @@ c23b5aceb0db24e7df8b571f876f733a24bde29d data/minecraft/tags/item/turtle_food.js
 e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_music_discs.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
 1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
-17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
 ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
+17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/gaze_disguise_equipment.json
 445ffbabd7c2f65b4778c62104d7ecffde797cbc data/minecraft/tags/item/fence_gates.json
 b73e2e921b30b8fdd8e7ef278ca3cb68410ec6f3 data/minecraft/tags/item/slabs.json
