@@ -1,8 +1,8 @@
-// 1.21.2 Pre-Release 1	2025-10-09T18:46:02.295219049	vanilla/Tags for minecraft:entity_type
+// 1.21.2 Pre-Release 2	2025-10-09T18:45:54.4797767	vanilla/Tags for minecraft:entity_type
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
-5decf1729450d88915af4860ad75ac73b3e07f06 data/minecraft/tags/entity_type/freeze_immune_entity_types.json
 3b9491f8c3d5a66d5ce8a9dd1582fce60060ded3 data/minecraft/tags/entity_type/undead.json
+5decf1729450d88915af4860ad75ac73b3e07f06 data/minecraft/tags/entity_type/freeze_immune_entity_types.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
 1eed0c14ea5905bcbd45feee0d16154f92f53f32 data/minecraft/tags/entity_type/illager.json
 c2c355dcc367a1c94022723aee37d206d3a355b7 data/minecraft/tags/entity_type/aquatic.json

@@ -1,23 +1,25 @@
-// 1.21.2 Pre-Release 1	2025-10-09T18:46:02.281515257	winter_drop/Tags for minecraft:block
+// 1.21.2 Pre-Release 2	2025-10-09T18:45:54.46365021	winter_drop/Tags for minecraft:block
 6c6c43c608d278726783c89d1eac02f8abf6a027 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_buttons.json
-c15ffea74d321bea9ef958ba6efda98d1b37d7bf data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/logs_that_burn.json
-d4df969f1ed533102974b86b0510cbfadb946bea data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_pressure_plates.json
-c7d3df133859a350e98cf23cd3a4fd543e52d89d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_slabs.json
+41e95593e7b44195f30d4ef37e6c8f76ee7ea50d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/combination_step_sound_blocks.json
 30930a712e53731126a1c8bf5363ef2587c0f8ae data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/saplings.json
 b3e2b3cd595737ea533dc8ba0d87a04504e7833a data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wall_hanging_signs.json
 3ebcf2a87ce9f9e66989cb3303e57f107ea950b8 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_trapdoors.json
-9006a4d6edcccb3cd258872594d992d1c1d1fca6 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wall_signs.json
-c15ffea74d321bea9ef958ba6efda98d1b37d7bf data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/overworld_natural_logs.json
 c7e066fcb08177e48dcbf0d5ac6e28079af5d78e data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/dirt.json
-f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/pale_oak_logs.json
-c6dee40f618f0d1cda2682b4ab0d567579cee9cd data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/fence_gates.json
-02c0f4714cd74219a025937cdb943567e8209207 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/standing_signs.json
 fb79626fbcd14f27dbf43b1c1b395f11459aa238 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/ceiling_hanging_signs.json
-fdeafdbb02ab927d0c156451f32914f610ad4451 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/flower_pots.json
 a87317def0b679ba2ab6d2e6697a652794dcc8f9 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/planks.json
 ae6c5b644a88cc7181fb505e499f8dfb801ba7bd data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_fences.json
 049902a929705bb5d76db9f70cf0ed8b371b8129 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_stairs.json
-72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/leaves.json
-72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/mineable/hoe.json
 dcb6581728d4869d9aa64e5da726d498e9581c69 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_doors.json
 c56b9c670f9ff5c997cec917c52a31ec61ed56ec data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/mineable/axe.json
+41e95593e7b44195f30d4ef37e6c8f76ee7ea50d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/sword_efficient.json
+c15ffea74d321bea9ef958ba6efda98d1b37d7bf data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/logs_that_burn.json
+d4df969f1ed533102974b86b0510cbfadb946bea data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_pressure_plates.json
+c7d3df133859a350e98cf23cd3a4fd543e52d89d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_slabs.json
+9006a4d6edcccb3cd258872594d992d1c1d1fca6 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wall_signs.json
+69942eb6952c17d213b160c7c4b2e2ca2daffd0d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/overworld_natural_logs.json
+f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/pale_oak_logs.json
+c6dee40f618f0d1cda2682b4ab0d567579cee9cd data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/fence_gates.json
+02c0f4714cd74219a025937cdb943567e8209207 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/standing_signs.json
+fdeafdbb02ab927d0c156451f32914f610ad4451 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/flower_pots.json
+72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/leaves.json
+1692ad6d9d1c0b23509a8d4d39fc9b71185c0a27 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/mineable/hoe.json
