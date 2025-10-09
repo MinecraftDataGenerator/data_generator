@@ -1,0 +1,100 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/iron_bars_post_ends"
+      }
+    },
+    {
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "south": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/iron_bars_post"
+      }
+    },
+    {
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "true",
+        "south": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/iron_bars_cap"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "west": "false",
+        "north": "false",
+        "south": "false"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/iron_bars_cap"
+      }
+    },
+    {
+      "when": {
+        "east": "false",
+        "west": "false",
+        "north": "false",
+        "south": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/iron_bars_cap_alt"
+      }
+    },
+    {
+      "when": {
+        "east": "false",
+        "west": "true",
+        "north": "false",
+        "south": "false"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/iron_bars_cap_alt"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/iron_bars_side"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/iron_bars_side"
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/iron_bars_side_alt"
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/iron_bars_side_alt"
+      }
+    }
+  ]
+}

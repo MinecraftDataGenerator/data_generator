@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/dark_oak_fence_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "model": "minecraft:block/dark_oak_fence_side"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "y": 90,
+        "uvlock": true,
+        "model": "minecraft:block/dark_oak_fence_side"
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "y": 180,
+        "uvlock": true,
+        "model": "minecraft:block/dark_oak_fence_side"
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "y": 270,
+        "uvlock": true,
+        "model": "minecraft:block/dark_oak_fence_side"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/red_nether_brick_wall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "y": 90,
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "y": 180,
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "y": 270,
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side_tall"
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "y": 90,
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side_tall"
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "y": 180,
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side_tall"
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "y": 270,
+        "uvlock": true,
+        "model": "minecraft:block/red_nether_brick_wall_side_tall"
+      }
+    }
+  ]
+}
