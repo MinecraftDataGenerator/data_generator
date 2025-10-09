@@ -1,10 +1,10 @@
-// 1.20.5 Pre-Release 2	2025-10-09T18:49:26.263310323	update_1_21/Tags for minecraft:block
+// 1.20.5 Pre-Release 3	2025-10-09T18:49:25.747529402	update_1_21/Tags for minecraft:block
 6214cdfc888a12ca2ee463427c9282bd86ff5465 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/features_cannot_replace.json
 5894a5ed4d12bd4d9d206512f04bf47235ef47c0 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/needs_stone_tool.json
 c0b9472da044676739361fd55bc4d413e485144e data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/blocks_wind_charge_explosions.json
 1fdf5ca25dd825bf62cda9526fd5db787aacec83 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/mineable/pickaxe.json
-759fae2e6c137458e65ac556666a27231832447e data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/trapdoors.json
 4566532194d000f068193f3b594b6cf17b268601 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/walls.json
+759fae2e6c137458e65ac556666a27231832447e data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/trapdoors.json
 e4e0677676c88b770fb2f198c8904b8e4899ab59 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/slabs.json
 eead159568467477b62e9f2314af15d122a3f48f data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/doors.json
 5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/stairs.json

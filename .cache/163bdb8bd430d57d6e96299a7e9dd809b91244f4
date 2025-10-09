@@ -1,6 +1,7 @@
-// 1.20.5 Pre-Release 2	2025-10-09T18:49:26.265420724	vanilla/Tags for minecraft:entity_type
+// 1.20.5 Pre-Release 3	2025-10-09T18:49:25.749798402	vanilla/Tags for minecraft:entity_type
 4c073b476785113705dfd3c6b286a337ddbd56b0 data/minecraft/tags/entity_types/beehive_inhabitors.json
 18a237bfea730e47a6de90c60b98f17623e0f1a0 data/minecraft/tags/entity_types/dismounts_underwater.json
+37277d8080b6c9c11a97cf664a14ed7a42f18a82 data/minecraft/tags/entity_types/redirectable_projectile.json
 33c59d9d681e158b1ccb6ea656e59ddc600e3f4c data/minecraft/tags/entity_types/freeze_hurts_extra_types.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_types/sensitive_to_smite.json
 ad9d5d4178d8cda67ed5dc6acef970fffe2a9cf1 data/minecraft/tags/entity_types/can_breathe_under_water.json
@@ -15,7 +16,6 @@ de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_types/illage
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_types/wither_friends.json
 9aa54cd5ec37fff24dfc4f679df3862f04ce6340 data/minecraft/tags/entity_types/axolotl_hunt_targets.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_types/ignores_poison_and_regen.json
-37277d8080b6c9c11a97cf664a14ed7a42f18a82 data/minecraft/tags/entity_types/punchable_projectiles.json
 f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_types/raiders.json
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_types/axolotl_always_hostiles.json
 e977cfe5879b4afb1071dbc6604ba55cb32da943 data/minecraft/tags/entity_types/skeletons.json
