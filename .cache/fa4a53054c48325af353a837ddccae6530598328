@@ -1,4 +1,4 @@
-// 1.20.3 Pre-Release 1	2025-10-09T18:52:18.778926293	vanilla/Tags for minecraft:item
+// 1.20.3 Pre-Release 2	2025-10-09T18:52:04.734156768	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
@@ -8,8 +8,8 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/items/dirt.json
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/items/stone_crafting_materials.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/items/wart_blocks.json
 cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/items/boats.json
-2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/items/rails.json
 8a43b6a8e479edbb422584cf21be637710ab1e49 data/minecraft/tags/items/swords.json
+2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/items/rails.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
 31bf5be4d9eb1f3bc41d3724eb215f232d5e2b7a data/minecraft/tags/items/trimmable_armor.json
@@ -67,8 +67,8 @@ daec9f32b34c685d972f66ea58ffc7ef3fc977a5 data/minecraft/tags/items/wooden_fences
 f8376cab397acf16d638e5a8595dc07d123925c5 data/minecraft/tags/items/planks.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/items/lapis_ores.json
 a29ec90520f525468f28a70148124fd85ce81a1a data/minecraft/tags/items/wooden_stairs.json
-0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/items/wooden_trapdoors.json
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/items/coal_ores.json
+0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/items/wooden_trapdoors.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/items/fences.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/items/spruce_logs.json
 5077a13d64733dabbf06096540da79548431f405 data/minecraft/tags/items/saplings.json
