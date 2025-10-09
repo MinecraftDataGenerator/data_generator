@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 4	2025-10-09T18:56:26.091940853	vanilla/Tags for minecraft:entity_type
+// 1.19.4 Release Candidate 1	2025-10-09T18:56:20.417403794	vanilla/Tags for minecraft:entity_type
 4c073b476785113705dfd3c6b286a337ddbd56b0 data/minecraft/tags/entity_types/beehive_inhabitors.json
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_types/axolotl_always_hostiles.json
 e6bb1e32246a74615e8d3425540ddab618245861 data/minecraft/tags/entity_types/skeletons.json

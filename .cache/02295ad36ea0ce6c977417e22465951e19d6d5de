@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 4	2025-10-09T18:56:26.091457313	update_1_20/Loot Tables
+// 1.19.4 Release Candidate 1	2025-10-09T18:56:20.416719834	update_1_20/Loot Tables
 78cc54d66a5bfa5b561d4760a341e23d4b4ab7d4 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 21b9afc21f631f15c7eb63daf8c9a8814dd18a1b data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/shipwreck_treasure.json
 5716c3c52a3a14ab835667c9536a412f5cb77d1f data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/cherry_fence.json
@@ -7,8 +7,8 @@
 7347528e411a1b89b075116c686b4c29362f608c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/jungle_temple.json
 d6d3bd63cdbf10c7635fa87167cb80ded413a532 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_button.json
 785dc0902747d69c94c790f8136951adafbda9aa data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_mosaic_stairs.json
-e5c8a707ad5e1b93a7b04ff5f9bae44e46ac549c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/crimson_hanging_sign.json
 71fdacd84abc1d8213385272ebed5ecb22e41745 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json
+e5c8a707ad5e1b93a7b04ff5f9bae44e46ac549c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/crimson_hanging_sign.json
 84748d5eb747bf972185eb5faf928b985c1c5541 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_fence.json
 3af15e91e4d30fa80e4657f3e388fe2c629dc644 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/entities/elder_guardian.json
 2976df3d549b96009fb2e3b0f6aba2042e4f0d99 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_hanging_sign.json

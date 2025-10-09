@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 4	2025-10-09T18:56:26.092303603	update_1_20/Tags for minecraft:item
+// 1.19.4 Release Candidate 1	2025-10-09T18:56:20.417952294	update_1_20/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/noteblock_top_instruments.json
 f74f84dafa17596c754ae6057c92211dee43fbab data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_buttons.json
 31bf5be4d9eb1f3bc41d3724eb215f232d5e2b7a data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/trimmable_armor.json
@@ -22,10 +22,10 @@ b52423f5068cc8fb52ca34b247ad0626b6d0c532 data/minecraft/datapacks/update_1_20/da
 aac6b30b1b49e4964f21b38b74f2b570c360997f data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/signs.json
 b659daa5aa6d07472c8191c9548c70e2239d56ac data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/breaks_decorated_pots.json
 92071585c8aaf0d9aa4b0ac0b9e924f155e01696 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_doors.json
-35fe618c61441f3d81e2e483e2ab88847ac90a63 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/hanging_signs.json
 bce8ca2b1cb1bd556dc463205f9f60accb855047 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/bookshelf_books.json
+35fe618c61441f3d81e2e483e2ab88847ac90a63 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/hanging_signs.json
 2423e4dc6c6bc7901f7d4fca00e61aaaec181aff data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/sand.json
 f07c964c3e48d3cd89c41073e3d32e2fbf8c9b00 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/saplings.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/bamboo_blocks.json
-ebaf74aa861968ef9c407fc0446d5bc8d443cf81 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/small_flowers.json
 eaf4c5a80a7ef00d056e5cf6788bddb13ce255cb data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/leaves.json
+ebaf74aa861968ef9c407fc0446d5bc8d443cf81 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/small_flowers.json
