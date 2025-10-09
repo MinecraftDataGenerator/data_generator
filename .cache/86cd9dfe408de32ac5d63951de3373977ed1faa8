@@ -1,9 +1,9 @@
-// 25w15a	2025-10-09T18:42:25.417044312	vanilla/Tags for minecraft:block
+// 25w16a	2025-10-09T18:42:21.311139203	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
-11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_gold_tool.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_glass.json
+11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_gold_tool.json
 002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/block/flowers.json
 6299f7ad8a9284576b52d7fc7afac872d389dc57 data/minecraft/tags/block/standing_signs.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/block/copper_ores.json

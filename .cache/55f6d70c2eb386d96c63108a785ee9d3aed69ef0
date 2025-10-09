@@ -1,9 +1,9 @@
-// 25w15a	2025-10-09T18:42:25.412879613	vanilla/Tags for minecraft:enchantment
-ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_infested_spawns.json
+// 25w16a	2025-10-09T18:42:21.303986123	vanilla/Tags for minecraft:enchantment
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/in_enchanting_table.json
+ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_infested_spawns.json
 1a0524139f6505886b0e070dd9cf0603f59a1609 data/minecraft/tags/enchantment/tooltip_order.json
-a4a4fea514a3bc248d542fc7988b85b8e1c09207 data/minecraft/tags/enchantment/smelts_loot.json
 66cef1249ab1ce6481e621d7682b7a0cba5f5795 data/minecraft/tags/enchantment/exclusive_set/bow.json
+a4a4fea514a3bc248d542fc7988b85b8e1c09207 data/minecraft/tags/enchantment/smelts_loot.json
 fd362fdbd4a3ae56e242ee477634a9e982a2ec11 data/minecraft/tags/enchantment/exclusive_set/mining.json
 c60ee9deeeafdb0a40e679a78e0a669891ea69d3 data/minecraft/tags/enchantment/exclusive_set/armor.json
 14a71fbcb919d14d49ea2e3cf4f73a3f063e104c data/minecraft/tags/enchantment/on_random_loot.json
