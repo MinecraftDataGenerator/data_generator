@@ -6,8 +6,8 @@
           {
             "south": "none",
             "north": "none",
-            "east": "none",
-            "west": "none"
+            "west": "none",
+            "east": "none"
           },
           {
             "north": "side|up",
@@ -22,8 +22,8 @@
             "west": "side|up"
           },
           {
-            "north": "side|up",
-            "west": "side|up"
+            "west": "side|up",
+            "north": "side|up"
           }
         ]
       },
