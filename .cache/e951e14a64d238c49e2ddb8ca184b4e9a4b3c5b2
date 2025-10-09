@@ -1,4 +1,4 @@
-// 23w42a	2025-10-09T18:52:49.908053623	vanilla/Advancements
+// 23w43a	2025-10-09T18:52:40.947333136	vanilla/Advancements
 55f7468b0019b9ab85a55597b4250a19cdb7b9ac data/minecraft/advancements/story/form_obsidian.json
 fbf5d35e642be2b7c281ccc751e44faa8e4a72e3 data/minecraft/advancements/nether/fast_travel.json
 cde06b9ba0da7a8b778f40c4d12f1fb256c70a3d data/minecraft/advancements/story/enter_the_nether.json
@@ -30,7 +30,7 @@ f8bf25203a65b10df1e57dd43740088388b26215 data/minecraft/advancements/end/levitat
 016ccc4804faaafb24c3156f0973167be3f5a539 data/minecraft/advancements/adventure/trim_with_all_exclusive_armor_patterns.json
 3c50b1808a21572385018902ee0d4d1d10c127fa data/minecraft/advancements/story/mine_diamond.json
 69b4a792ca334b4f0fbb88058d98b472a492860f data/minecraft/advancements/adventure/sniper_duel.json
-f823f55de1ca4cc137b739d5c03505ca8bb72e56 data/minecraft/advancements/husbandry/wax_on.json
+9c66ea263d35c34e7be68938c4577326a6a3bf60 data/minecraft/advancements/husbandry/wax_on.json
 a68ab800877cf19308370824a531cd1b12fd9050 data/minecraft/advancements/nether/ride_strider_in_overworld_lava.json
 8953e78f7883c60709907fcd2b24be039c84fcbe data/minecraft/advancements/adventure/root.json
 f8a3defd7b993eeccaf1b821f8b5e071b70793b0 data/minecraft/advancements/adventure/trim_with_any_armor_pattern.json
@@ -82,7 +82,7 @@ aebd71c6348fab1592361d25074d5728954a577a data/minecraft/advancements/husbandry/m
 ed48701a4e1a33a58cab05f8579fe9e864353b84 data/minecraft/advancements/end/dragon_egg.json
 68a7e6caad0a1d37e1df5c48289a3f39843deedd data/minecraft/advancements/adventure/hero_of_the_village.json
 ca8224ddda5d2159cf0727dd77f8192507b5a394 data/minecraft/advancements/nether/root.json
-761d43bc090ece958f4a6852576853121232ef02 data/minecraft/advancements/husbandry/wax_off.json
+b796a5d1d5ab6a3cc051184efc7414052776932e data/minecraft/advancements/husbandry/wax_off.json
 b6781b829f9bfb62a99497606556770f726a4e93 data/minecraft/advancements/story/cure_zombie_villager.json
 a0a61ca93ce4c7a7ba7cdd9b57016ffd8bc9ebae data/minecraft/advancements/nether/uneasy_alliance.json
 f301cdbb8a16f270851064f222b9a01c6ec30796 data/minecraft/advancements/adventure/play_jukebox_in_meadows.json
