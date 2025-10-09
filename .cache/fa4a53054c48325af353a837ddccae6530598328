@@ -1,4 +1,4 @@
-// 25w36a	2025-10-09T18:39:16.035739249	vanilla/Tags for minecraft:item
+// 25w36b	2025-10-09T18:39:16.274349105	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -61,15 +61,15 @@ e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 5d407768566931624382de0b64078a58503568c0 data/minecraft/tags/item/pickaxes.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/item/bamboo_blocks.json
-1ee1f51eb410f708b409641cc525762de366b405 data/minecraft/tags/item/cluster_max_harvestables.json
 40fc28555ba86485c2fdf3bc327bb05602bd7cb5 data/minecraft/tags/item/camel_food.json
+1ee1f51eb410f708b409641cc525762de366b405 data/minecraft/tags/item/cluster_max_harvestables.json
 39ee780e381eee7c3421edac518a33e84cec6fcf data/minecraft/tags/item/enchantable/mining_loot.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/item/dark_oak_logs.json
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_crafting_materials.json
 f651379db3bd93084b50c5759f13066cb9859ee2 data/minecraft/tags/item/pig_food.json
-47be456ad97366b91300f74739cd8cac544f698d data/minecraft/tags/item/creeper_igniters.json
 49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/item/sniffer_food.json
+47be456ad97366b91300f74739cd8cac544f698d data/minecraft/tags/item/creeper_igniters.json
 9798d67e68f1fc1fcbc41d664432a3a37ba63beb data/minecraft/tags/item/brewing_fuel.json
 f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/repairs_gold_armor.json
 ea2b7aa418c563ab8f02c06883d3c45e0ec7435c data/minecraft/tags/item/happy_ghast_food.json
