@@ -1,7 +1,8 @@
-// 24w14a	2025-10-09T18:49:40.843618276	update_1_21/Advancements
+// 1.20.5 Pre-Release 1	2025-10-09T18:49:56.303636106	update_1_21/Advancements
 7de47e77edb125bcdbaed80b2eba5bbb194a4660 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/overoverkill.json
 c350aae1e8d243aac818c6c0b2216798533ab764 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/lighten_up.json
 129894a6961f7ec5f1098b08dd1ba5488edb1630 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/under_lock_and_key.json
+7138311dff1b5b79a725c5968a8aab63db8b981d data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/revaulting.json
 9615220500bb57ead431c62037591349f5d9b962 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/who_needs_rockets.json
 02977617bdc6ec7afe9008f920620f7f3b08371b data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/kill_a_mob.json
 47faa1a87807abb3fab465219fd142944cce7e3e data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/minecraft_trials_edition.json

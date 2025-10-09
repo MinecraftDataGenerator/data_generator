@@ -1,4 +1,4 @@
-// 24w14a	2025-10-09T18:49:40.829591192	vanilla/Advancements
+// 1.20.5 Pre-Release 1	2025-10-09T18:49:56.289384384	vanilla/Advancements
 e7d28bc5ad0e4fd1787921489208c3bd069f2ca2 data/minecraft/advancements/story/form_obsidian.json
 d4979b351ff1e46b83ac01502441c88221d7384b data/minecraft/advancements/nether/fast_travel.json
 e1c3157792e6015bee9801b5573ba4150fa5406b data/minecraft/advancements/story/enter_the_nether.json
@@ -21,6 +21,7 @@ f8998d2a2fa1da917d7a3a3e2d7d1af5a072a029 data/minecraft/advancements/adventure/a
 882f43cbbe0404d68c7ea0d1e26b94adee003a81 data/minecraft/advancements/adventure/walk_on_powder_snow_with_leather_boots.json
 ffc9e91a20d3d4731d9babce60b7be2001c0df98 data/minecraft/advancements/story/enter_the_end.json
 715db3b5b705590e7895c325eb83480b77c488bd data/minecraft/advancements/husbandry/leash_all_frog_variants.json
+3190cb5bc518c2589baa537f21bed67c0c1c7bd4 data/minecraft/advancements/husbandry/remove_wolf_armor.json
 42987534c913ea45b3368d1e78294ed1ae35acb1 data/minecraft/advancements/husbandry/balanced_diet.json
 73bd312a98b087b331d8914edac415c2574f332b data/minecraft/advancements/story/deflect_arrow.json
 10075cbff45f493040a3587718ccc104d1369018 data/minecraft/advancements/end/levitate.json
@@ -62,6 +63,7 @@ e7749bff1fb78f813b06761b1744ffedc7d4ed3e data/minecraft/advancements/adventure/s
 1d60d6ed39c8c06d9dd83d3aa5ad7084e6231d54 data/minecraft/advancements/nether/brew_potion.json
 94b78b53b456853f2b6c53123f69d86c17ab4364 data/minecraft/advancements/adventure/kill_a_mob.json
 a6f9ead1616f8132662253b556e8830fdd5fd8a7 data/minecraft/advancements/end/enter_end_gateway.json
+db5614c3844547d54cb5de3d10a1787c2fde18d5 data/minecraft/advancements/adventure/brush_armadillo.json
 3404f994be2bb43dd6f25bf4af5a4fae5e5448b6 data/minecraft/advancements/nether/get_wither_skull.json
 eb611bea9ba1418588ad41f0a6de71eea0f796bb data/minecraft/advancements/story/shiny_gear.json
 d83ee2434b89243c86b477fe50f4d2b267799b02 data/minecraft/advancements/nether/loot_bastion.json
@@ -78,6 +80,7 @@ b3b18d257df764930f529c624e33e0b8c9305336 data/minecraft/advancements/husbandry/a
 42646e1e95e2710fdbb62fe75dc7c4a00eb25320 data/minecraft/advancements/nether/all_effects.json
 c5dd0dc0eaaf9eea466905df33207f6974dd74ae data/minecraft/advancements/story/lava_bucket.json
 886ab864800ec270c41754e5c3971ba470e0e86b data/minecraft/advancements/adventure/bullseye.json
+2045ba0c0b3ff27f1d9329a9ca41a4a5b228809b data/minecraft/advancements/husbandry/whole_pack.json
 f195c9af8fd2707b25169c4d9b4e688c2d383489 data/minecraft/advancements/husbandry/tactical_fishing.json
 ccfb91bf9b2f4b0959bf0f81eed420eef24e4173 data/minecraft/advancements/end/dragon_egg.json
 7908af4de9fbf05235145238b498b163c7ac6a99 data/minecraft/advancements/adventure/hero_of_the_village.json
@@ -95,6 +98,7 @@ e64f252dfbd889b5aa757e565408fe854e5a4048 data/minecraft/advancements/adventure/t
 ec69a92522054c082242696b803a0419a3c35daf data/minecraft/advancements/adventure/trade_at_world_height.json
 c5eb130562cd45c40bf7bdb816a8dfed299529ac data/minecraft/advancements/end/respawn_dragon.json
 f98c774e2b7f9dde5064cec6884df80201d9bd24 data/minecraft/advancements/husbandry/axolotl_in_a_bucket.json
+851057d836e1f1f66776beda178388a5a95b2fd1 data/minecraft/advancements/husbandry/repair_wolf_armor.json
 a9723fd8faf7b7fecbf34d01e153cecc14d3e1ae data/minecraft/advancements/story/mine_stone.json
 7c7c64b478a1793ccac24675fe2e0bb65126e44a data/minecraft/advancements/nether/charge_respawn_anchor.json
 8ade79155290ac8b17bfb3a698968f0d5fcfa39c data/minecraft/advancements/adventure/very_very_frightening.json

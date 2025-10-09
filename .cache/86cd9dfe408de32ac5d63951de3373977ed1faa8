@@ -1,4 +1,4 @@
-// 24w14a	2025-10-09T18:49:40.842860376	vanilla/Tags for minecraft:block
+// 1.20.5 Pre-Release 1	2025-10-09T18:49:56.302985156	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -47,8 +47,8 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/blocks/dirt.json
 4bee09ae134c8c7e450e996a5b9a9bcc4d7e7420 data/minecraft/tags/blocks/moss_replaceable.json
 d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/blocks/cave_vines.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/blocks/piglin_repellents.json
-51ce2bcc8e2afb893169c1f8562e87206632ea5a data/minecraft/tags/blocks/sword_efficient.json
 01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/blocks/needs_diamond_tool.json
+51ce2bcc8e2afb893169c1f8562e87206632ea5a data/minecraft/tags/blocks/sword_efficient.json
 88dcd99364a64f164a26461c5d5b9da0cb960b10 data/minecraft/tags/blocks/trapdoors.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/blocks/incorrect_for_gold_tool.json
 0f12416e29c47a8dd09b45231993f21c8a0215c6 data/minecraft/tags/blocks/azalea_grows_on.json
@@ -87,8 +87,8 @@ d7741a7bcdab6fbdbc9c931e88576a038a1562ed data/minecraft/tags/blocks/wither_immun
 2d97a7b26d2a65b8dab30789033841371c7361d4 data/minecraft/tags/blocks/enchantment_power_transmitter.json
 0cc76a2a135e15e63ba435b9ae22e215cc9637fb data/minecraft/tags/blocks/replaceable.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/blocks/base_stone_nether.json
-31c793313c9b85d3bd3d53198d21098ea2adaf78 data/minecraft/tags/blocks/camel_sand_step_sound_blocks.json
 5077a13d64733dabbf06096540da79548431f405 data/minecraft/tags/blocks/saplings.json
+31c793313c9b85d3bd3d53198d21098ea2adaf78 data/minecraft/tags/blocks/camel_sand_step_sound_blocks.json
 daec9f32b34c685d972f66ea58ffc7ef3fc977a5 data/minecraft/tags/blocks/wooden_fences.json
 882f7161808179f92ed953b9200fdaf74eec6c36 data/minecraft/tags/blocks/infiniburn_overworld.json
 80ca0014239f0046a5e01ce25e5f173990cdb610 data/minecraft/tags/blocks/sculk_replaceable_world_gen.json
@@ -122,8 +122,8 @@ d1460748ca1e7a947c8151d5f7b4a6e429241c23 data/minecraft/tags/blocks/overworld_ca
 274c899ecd90e93185a6b2d7bf84123a67af63db data/minecraft/tags/blocks/enderman_holdable.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/blocks/birch_logs.json
 9eaa40cdc7d24db027be3eac878536ce597e2b3a data/minecraft/tags/blocks/badlands_terracotta.json
-da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/blocks/mineable/shovel.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/blocks/bamboo_blocks.json
+da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/blocks/mineable/shovel.json
 fe67f656c64c8654f29be025478ff7af10c3cfac data/minecraft/tags/blocks/rabbits_spawnable_on.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/blocks/soul_fire_base_blocks.json
 92861bbfc33718f65a6c66f4468675fa09ac162f data/minecraft/tags/blocks/animals_spawnable_on.json
@@ -152,8 +152,8 @@ c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/blocks/snaps_goat_h
 4b024c07991b0127a93c4927165b70cbc739df3f data/minecraft/tags/blocks/stairs.json
 e395b02c1ea8040c23269be0d37b137cbe42f27d data/minecraft/tags/blocks/dead_bush_may_place_on.json
 0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/blocks/wooden_trapdoors.json
-a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/blocks/walls.json
 84150f9be2fa26f9202962b031c722718dd23ca0 data/minecraft/tags/blocks/stone_ore_replaceables.json
+a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/blocks/walls.json
 6434eab593808ccdda380aa89dbf4977e908d7b4 data/minecraft/tags/blocks/mangrove_roots_can_grow_through.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/blocks/frog_prefer_jump_to.json
 da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/blocks/axolotls_spawnable_on.json
