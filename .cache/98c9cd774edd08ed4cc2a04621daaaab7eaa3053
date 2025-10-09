@@ -1,4 +1,4 @@
-// 1.20.6 Release Candidate 1	2025-10-09T18:48:54.33748965	update_1_21/Recipes
+// 1.20.6	2025-10-09T18:48:30.624819371	update_1_21/Recipes
 8bb13552c219651dde045fe936af90c2c4e10140 data/minecraft/datapacks/update_1_21/data/minecraft/recipes/tuff_brick_stairs_from_tuff_bricks_stonecutting.json
 45608c7f4f8e43f0f3fe9f89c49788a44f82cc2f data/minecraft/datapacks/update_1_21/data/minecraft/advancements/recipes/building_blocks/oxidized_copper_grate.json
 fccc944822935ed59bc747fbc8606003b60ec119 data/minecraft/datapacks/update_1_21/data/minecraft/recipes/weathered_copper_door.json
@@ -209,8 +209,8 @@ c497aae3b54f1f22f0859b77dab5906a28fc06a2 data/minecraft/datapacks/update_1_21/da
 b3908f4e99d158d4934bc5a0d4cd3ec7b422ac2a data/minecraft/datapacks/update_1_21/data/minecraft/recipes/waxed_copper_bulb.json
 75a6f24b669d3a89a8cf8c582d74c68a56013c2b data/minecraft/datapacks/update_1_21/data/minecraft/recipes/waxed_exposed_copper_grate.json
 a5646663b82d4022d27c3ff31f9bb58e5323cd69 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/recipes/redstone/waxed_copper_trapdoor.json
-37d0f34d830195ec6382f318cd108cebb5921f66 data/minecraft/datapacks/update_1_21/data/minecraft/recipes/chiseled_tuff_bricks.json
 751de8d78614496edff78a99c74c754d8269136a data/minecraft/datapacks/update_1_21/data/minecraft/recipes/waxed_copper_trapdoor.json
+37d0f34d830195ec6382f318cd108cebb5921f66 data/minecraft/datapacks/update_1_21/data/minecraft/recipes/chiseled_tuff_bricks.json
 12210884204fa124a5c1923024a78a37c2180219 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/recipes/misc/flow_armor_trim_smithing_template_smithing_trim.json
 03fb1386426e21be3129a955add25a98faf29f40 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/recipes/redstone/exposed_copper_bulb.json
 80ab91250328b9bc87c0baadec51d131b8547e6a data/minecraft/datapacks/update_1_21/data/minecraft/advancements/recipes/building_blocks/waxed_exposed_chiseled_copper_from_waxed_exposed_copper_stonecutting.json
