@@ -1,0 +1,8 @@
+// 22w18a	2025-10-09T19:00:23.453191978	Tags for minecraft:banner_pattern
+eba941bb77654e1498a456aa06c8eb71151316b8 data/minecraft/tags/banner_pattern/pattern_item/globe.json
+632527dff65a35e698b9250eded8370f28a55a02 data/minecraft/tags/banner_pattern/pattern_item/skull.json
+f9e3ac044830e41d2ed9ea594de7520b038b9435 data/minecraft/tags/banner_pattern/pattern_item/flower.json
+f33579f20a838e4f1b37c2e6a00856c686309a93 data/minecraft/tags/banner_pattern/pattern_item/piglin.json
+a104d9e73a1ccd89eca8971ce21eefbbb7d82c54 data/minecraft/tags/banner_pattern/pattern_item/creeper.json
+9fdb0968f042934ac29b3839021442529d5056d3 data/minecraft/tags/banner_pattern/pattern_item/mojang.json
+b801aa786a00bb13fb64d8fa648398ff2f5d3d6d data/minecraft/tags/banner_pattern/no_item_required.json

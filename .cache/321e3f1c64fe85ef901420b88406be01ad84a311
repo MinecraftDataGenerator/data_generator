@@ -1,6 +1,6 @@
-// 22w17a	2025-10-09T19:00:25.843704828	Tags for minecraft:game_event
-bb80d3692e02f01a26df25fa6b2ca3c0a2472552 data/minecraft/tags/game_events/shrieker_can_listen.json
-9213ea1681c520a0d54ec59dd4884f82c6e30011 data/minecraft/tags/game_events/vibrations.json
-49bde619136aefa36007a6cacf69ad595da9f8c2 data/minecraft/tags/game_events/warden_can_listen.json
-e11a47c51a3ec3fd4074f369f1b68b2feb01a2e3 data/minecraft/tags/game_events/ignore_vibrations_sneaking.json
-3f8367ef80b6b91187b80a1a31f6c58bd9642b43 data/minecraft/tags/game_events/allay_can_listen.json
+// 22w18a	2025-10-09T19:00:23.454489338	Tags for minecraft:game_event
+65c761c744b0c026e1ddf75ad528a3594f2d25aa data/minecraft/tags/game_events/shrieker_can_listen.json
+6b2a5709b5d23cce9412ef67ae25b3ac7dad4a60 data/minecraft/tags/game_events/vibrations.json
+4fe55820d408da61f750dbedb088e0c477b5c885 data/minecraft/tags/game_events/warden_can_listen.json
+bf71a7e8e92754d592ab076d031acb63aec845dc data/minecraft/tags/game_events/ignore_vibrations_sneaking.json
+26e398b18abdf03f62f1ab54e251e6b340b5535a data/minecraft/tags/game_events/allay_can_listen.json
