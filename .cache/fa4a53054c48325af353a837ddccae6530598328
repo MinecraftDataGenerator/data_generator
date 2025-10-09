@@ -1,4 +1,4 @@
-// 1.21 Pre-Release 2	2025-10-09T18:47:41.063471667	vanilla/Tags for minecraft:item
+// 1.21 Pre-Release 3	2025-10-09T18:47:27.090797248	vanilla/Tags for minecraft:item
 82edd6d1ec8e7fe75b955b3a41a45d38cc77c262 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -79,8 +79,8 @@ bdb1ff9fc8b24f737e3d121d711574e8d779a3ff data/minecraft/tags/item/beacon_payment
 f8fefc25b1df4fbf75b2f1db5237ce04d2d50cc1 data/minecraft/tags/item/parrot_food.json
 b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/item/axolotl_food.json
 6f62a3e03de3843da6fc2f7b46bfdd5d1f4fd02d data/minecraft/tags/item/compasses.json
-642497f10f9b4cd17f0596ccd068a662779a5143 data/minecraft/tags/item/logs_that_burn.json
 5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/item/beds.json
+642497f10f9b4cd17f0596ccd068a662779a5143 data/minecraft/tags/item/logs_that_burn.json
 578dd629e6c69bf5641983afdf5f54ca2d3b5882 data/minecraft/tags/item/panda_food.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/item/candles.json
 af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/item/dirt.json
@@ -118,8 +118,8 @@ e6ec9c5c82db2c7ca6c3a9f643df2dac9f4967db data/minecraft/tags/item/slabs.json
 42391f34e30718f153c7725335e30a59aae6c473 data/minecraft/tags/item/leg_armor.json
 bbcda30a5477d8d755f8616657a02ca84f075965 data/minecraft/tags/item/head_armor.json
 7e52d9f1e5b59cae0cac0f1095fd3cbe94be375f data/minecraft/tags/item/enchantable/foot_armor.json
-e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glass.json
 0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/item/wooden_trapdoors.json
+e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glass.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/item/dampens_vibrations.json
 6b369f3e01c478f5ecb879b9b5d66757d78e5a8f data/minecraft/tags/item/enchantable/head_armor.json
 9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/cow_food.json
