@@ -16,7 +16,7 @@ jobs:
       contents: write 
 
     steps:
-      - name: 1. Setup Java 17 (Required for the Minecraft Data Generator JAR)
+      - name: 1. Setup Java 21 (Required for the Minecraft Data Generator JAR)
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
@@ -125,8 +125,10 @@ jobs:
                 curl -s -L "$SERVER_JAR_URL" -o "$JAR_PATH"
 
                 echo "Führe Data Generator aus..."
-                # ✅ KORRIGIERTER AUFRUF: Verwende die -jar + -DbundlerMainClass Methode für moderne JARs.
-                java -DbundlerMainClass=net.minecraft.data.Main -jar "$JAR_PATH" --all
+                # ✅ FIX: Wechselt in den TEMP_FOLDER, damit 'generated' dort erstellt wird.
+                pushd "$TEMP_FOLDER" > /dev/null
+                java -DbundlerMainClass=net.minecraft.data.Main -jar ./minecraft_server.jar --all
+                popd > /dev/null
 
             else
                 echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
