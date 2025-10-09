@@ -117,7 +117,7 @@ jobs:
 
                 echo "Führe Data Generator aus..."
                 # Führe den Generator mit der heruntergeladenen JAR aus
-                java -classpath "$JAR_PATH" net.minecraft.data.Main --all
+                java -DbundlerMainClass=net.minecraft.data.Main -jar "$JAR_PATH" --all
             else
                 echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
             fi
