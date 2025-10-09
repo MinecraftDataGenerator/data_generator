@@ -1,4 +1,4 @@
-// 25w31a	2025-10-09T18:39:50.789087552	vanilla/Advancements
+// 25w32a	2025-10-09T18:39:47.391870297	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 5dac44cd2822b1cd2c9508d9d89ca2f0f6deb065 data/minecraft/advancement/end/root.json
@@ -96,7 +96,7 @@ efdd91c33e3e97fc8574300fabeab3ffdd90435b data/minecraft/advancement/husbandry/si
 f195c9af8fd2707b25169c4d9b4e688c2d383489 data/minecraft/advancement/husbandry/tactical_fishing.json
 945853507877afc3f9b6373b9ce1462dc3d9fdf1 data/minecraft/advancement/husbandry/tadpole_in_a_bucket.json
 f98c774e2b7f9dde5064cec6884df80201d9bd24 data/minecraft/advancement/husbandry/axolotl_in_a_bucket.json
-a01195584d6c5849958baf83c4fee9a38983911d data/minecraft/advancement/husbandry/wax_off.json
+a84d2d576ef8ca164e0ca8408d2cea3a7cc24fa0 data/minecraft/advancement/husbandry/wax_off.json
 55fe6d0a1d8f62f1feaa1f424c37c638bc7c3ef1 data/minecraft/advancement/adventure/trim_with_all_exclusive_armor_patterns.json
 a6f9ead1616f8132662253b556e8830fdd5fd8a7 data/minecraft/advancement/end/enter_end_gateway.json
 42987534c913ea45b3368d1e78294ed1ae35acb1 data/minecraft/advancement/husbandry/balanced_diet.json
@@ -116,7 +116,7 @@ d7c8f44675f75874d8917949bd861ed0a60d6e97 data/minecraft/advancement/husbandry/le
 e7749bff1fb78f813b06761b1744ffedc7d4ed3e data/minecraft/advancement/adventure/salvage_sherd.json
 cd1581a02fa2ec6598de8bb3232ce48af5d13028 data/minecraft/advancement/adventure/read_power_of_chiseled_bookshelf.json
 87c023ed4a6d33fe844679aafa6b139a7fde3763 data/minecraft/advancement/nether/return_to_sender.json
-bff3b39605c09f35fc3e7861b5d8913c8d5564bd data/minecraft/advancement/husbandry/wax_on.json
+2e69c559e9eb94cec1fd4aa405ea96492a14945c data/minecraft/advancement/husbandry/wax_on.json
 882f43cbbe0404d68c7ea0d1e26b94adee003a81 data/minecraft/advancement/adventure/walk_on_powder_snow_with_leather_boots.json
 903f044bfafe10105bf67fea5801bc571ab78428 data/minecraft/advancement/nether/obtain_blaze_rod.json
 e64f252dfbd889b5aa757e565408fe854e5a4048 data/minecraft/advancement/adventure/totem_of_undying.json
