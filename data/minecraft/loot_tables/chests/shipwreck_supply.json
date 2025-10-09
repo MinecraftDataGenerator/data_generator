@@ -121,15 +121,7 @@
                   }
                 },
                 {
-                  "type": "minecraft:blindness",
-                  "duration": {
-                    "type": "minecraft:uniform",
-                    "min": 5.0,
-                    "max": 7.0
-                  }
-                },
-                {
-                  "type": "minecraft:jump_boost",
+                  "type": "minecraft:saturation",
                   "duration": {
                     "type": "minecraft:uniform",
                     "min": 7.0,
@@ -137,7 +129,7 @@
                   }
                 },
                 {
-                  "type": "minecraft:saturation",
+                  "type": "minecraft:jump_boost",
                   "duration": {
                     "type": "minecraft:uniform",
                     "min": 7.0,
@@ -150,6 +142,14 @@
                     "type": "minecraft:uniform",
                     "min": 7.0,
                     "max": 10.0
+                  }
+                },
+                {
+                  "type": "minecraft:blindness",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 5.0,
+                    "max": 7.0
                   }
                 },
                 {
