@@ -154,9 +154,13 @@ jobs:
 
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
-            # Fügt auch versteckte Dateien/Ordner hinzu, falls vorhanden
-            # Der Fehler tritt hier auf, wenn der Pfad leer ist.
+            
+            # FIX: shopt -s nullglob, um "cp: cannot stat '*'" Fehler zu vermeiden, 
+            # wenn das Globbing fehlschlägt, obwohl der Ordner existiert.
+            shopt -s nullglob
+            # Fügt alle Dateien und Unterordner (data, reports) in das Root-Verzeichnis ein.
             cp -r "$GENERATED_PATH/"* "$REPO_DIR"
+            shopt -u nullglob
             
             # D. Commit und Push
             git add -A
