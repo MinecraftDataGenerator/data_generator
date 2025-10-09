@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 2	2025-10-09T18:56:17.405725317	vanilla/Loot Tables
+// 1.19.4 Release Candidate 3	2025-10-09T18:56:06.142514258	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -861,8 +861,8 @@ b9b6b59237b880693ba807f6e45d8099ac38e832 data/minecraft/loot_tables/blocks/white
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/bamboo_mosaic.json
 66a00a6633ee461e5f0be93ab3fa1dbcd9ea1429 data/minecraft/loot_tables/blocks/blue_terracotta.json
 5663479e9f04bd531dec92fa8f6fc73e61982a22 data/minecraft/loot_tables/blocks/horn_coral.json
-5c58d1e46b267a6cec38aa14ae508becfe58c92a data/minecraft/loot_tables/blocks/birch_planks.json
 77e65222d7f99defb87d301dfd61190713599abf data/minecraft/loot_tables/blocks/red_stained_glass_pane.json
+5c58d1e46b267a6cec38aa14ae508becfe58c92a data/minecraft/loot_tables/blocks/birch_planks.json
 737d821afefa6c95cb7d03288b4547d547ff06a7 data/minecraft/loot_tables/blocks/deepslate_tiles.json
 67c3e79e849c36d9cc1f681d69469215bbf5cce8 data/minecraft/loot_tables/chests/shipwreck_supply.json
 99ed54317525e3b4dfd8c45478120797e412f95b data/minecraft/loot_tables/blocks/pink_candle.json

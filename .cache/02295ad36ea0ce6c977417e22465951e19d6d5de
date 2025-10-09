@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 2	2025-10-09T18:56:17.410959449	update_1_20/Loot Tables
+// 1.19.4 Release Candidate 3	2025-10-09T18:56:06.14686179	update_1_20/Loot Tables
 78cc54d66a5bfa5b561d4760a341e23d4b4ab7d4 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 21b9afc21f631f15c7eb63daf8c9a8814dd18a1b data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/shipwreck_treasure.json
 5716c3c52a3a14ab835667c9536a412f5cb77d1f data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/cherry_fence.json
@@ -7,8 +7,8 @@
 7347528e411a1b89b075116c686b4c29362f608c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/jungle_temple.json
 d6d3bd63cdbf10c7635fa87167cb80ded413a532 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_button.json
 785dc0902747d69c94c790f8136951adafbda9aa data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_mosaic_stairs.json
-71fdacd84abc1d8213385272ebed5ecb22e41745 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json
 e5c8a707ad5e1b93a7b04ff5f9bae44e46ac549c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/crimson_hanging_sign.json
+71fdacd84abc1d8213385272ebed5ecb22e41745 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/chiseled_bookshelf.json
 84748d5eb747bf972185eb5faf928b985c1c5541 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_fence.json
 3af15e91e4d30fa80e4657f3e388fe2c629dc644 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/entities/elder_guardian.json
 2976df3d549b96009fb2e3b0f6aba2042e4f0d99 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_hanging_sign.json
@@ -64,8 +64,8 @@ ae17d893bc11b883d6b00ba8feb8ee90da45171b data/minecraft/datapacks/update_1_20/da
 d8c4fcc304ef937e671532bbffb5c070a2719309 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/cherry_planks.json
 63af0e28b01dd0ac10f898e295608fe052b2c0c8 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/cherry_trapdoor.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/suspicious_sand.json
-159f7d41355b2406e17032a0032db5ae2a19c08c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_trapdoor.json
 b57a8b9e79163b3cd3ea4723e6a21e81f94cf654 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/chests/shipwreck_map.json
+159f7d41355b2406e17032a0032db5ae2a19c08c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/bamboo_trapdoor.json
 82c1694afbce124ac35deea61275f3b9644cbd28 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/cherry_fence_gate.json
 10b3a822780cd1f4ec14b28c80a2abf1f4ef9f3c data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/cherry_pressure_plate.json
 65bc31e69ba6d9969f7499065109cc61849c4e09 data/minecraft/datapacks/update_1_20/data/minecraft/loot_tables/blocks/jungle_hanging_sign.json

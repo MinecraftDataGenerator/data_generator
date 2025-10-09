@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 2	2025-10-09T18:56:17.405554347	update_1_20/Tags for minecraft:block
+// 1.19.4 Release Candidate 3	2025-10-09T18:56:06.142335558	update_1_20/Tags for minecraft:block
 3518927132422cba83e4a7a855a11323fbab302d data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/axe.json
 eee0da0f4d390aeb43c92710793e67c57956776e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/hoe.json
 ebaf74aa861968ef9c407fc0446d5bc8d443cf81 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/small_flowers.json
@@ -22,8 +22,8 @@ d3b5b1c0dfd9a925ad78fe2e69f1036ac11f4f3f data/minecraft/datapacks/update_1_20/da
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/bamboo_blocks.json
 aac6b30b1b49e4964f21b38b74f2b570c360997f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/standing_signs.json
 4e17204999bfb36e12714e523975c4ba04eeae2b data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_fences.json
-6c68ca54381b86a8ee9128691c55856057e5912e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/planks.json
 f74f84dafa17596c754ae6057c92211dee43fbab data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_buttons.json
+6c68ca54381b86a8ee9128691c55856057e5912e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/planks.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/cherry_logs.json
 db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/all_hanging_signs.json
 47430d117fba512dfb622420bab8681888a6f36b data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/sniffer_diggable_block.json
