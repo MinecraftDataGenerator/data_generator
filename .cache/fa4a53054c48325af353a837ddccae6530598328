@@ -1,4 +1,4 @@
-// 1.21.5 Pre-Release 1	2025-10-09T18:43:01.485868698	vanilla/Tags for minecraft:item
+// 1.21.5 Pre-release 2	2025-10-09T18:42:55.578426528	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -55,8 +55,8 @@ e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.
 885d31455883795cf973f9a3096f1094799602bd data/minecraft/tags/item/pickaxes.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/item/bamboo_blocks.json
-8f9d98e8e906913bd9389fccb47fef34320f78cc data/minecraft/tags/item/cluster_max_harvestables.json
 40fc28555ba86485c2fdf3bc327bb05602bd7cb5 data/minecraft/tags/item/camel_food.json
+8f9d98e8e906913bd9389fccb47fef34320f78cc data/minecraft/tags/item/cluster_max_harvestables.json
 39ee780e381eee7c3421edac518a33e84cec6fcf data/minecraft/tags/item/enchantable/mining_loot.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/item/dark_oak_logs.json
