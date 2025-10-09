@@ -1,4 +1,4 @@
-// 1.19.4	2025-10-09T18:55:53.613934098	vanilla/Advancements
+// 23w12a	2025-10-09T18:55:55.274251525	vanilla/Advancements
 61e094f20c0a1ffded1d2afd56ed73b91f208acb data/minecraft/advancements/story/form_obsidian.json
 58a7425ba29da8fa13dac1ffa9ce97ea9f520f6a data/minecraft/advancements/nether/fast_travel.json
 05f92e856a7e927bef6cd6df4c6bc274dfb3b592 data/minecraft/advancements/story/enter_the_nether.json
@@ -12,7 +12,7 @@ dc9a52f39d225e229fd72e7a93598b9020fedd41 data/minecraft/advancements/nether/find
 17959395f6132ab380dc426cabd2429e9d01c2e3 data/minecraft/advancements/husbandry/froglights.json
 9f9bab1726cd6440688972cb819954050148380c data/minecraft/advancements/husbandry/kill_axolotl_target.json
 219fb906bee54d2d59b594781af925fc4f0627c5 data/minecraft/advancements/nether/distract_piglin.json
-1545a59883820db50871f3f913f819aa5d4c7daf data/minecraft/advancements/husbandry/bred_all_animals.json
+e891b3653957c19a9126cc96dfac3ac9f3e213fd data/minecraft/advancements/husbandry/bred_all_animals.json
 8908143f04cbc12bde544ab2a8d83967103f37f0 data/minecraft/advancements/nether/ride_strider.json
 01e14daa3e7fcd11f91b61ce854846e2deec98c5 data/minecraft/advancements/husbandry/obtain_netherite_hoe.json
 5e7f93a900e49c5b0131e77902cb1714052030b6 data/minecraft/advancements/nether/return_to_sender.json
@@ -43,7 +43,7 @@ fa6ad64b799db6dd010f6320b4a0ab293860962f data/minecraft/advancements/nether/crea
 49f69f63824ae56731c4737e0d4da160f0149e0f data/minecraft/advancements/nether/explore_nether.json
 bdd926ebbfb64a47a50fbd573d3a0aec945571dd data/minecraft/advancements/adventure/two_birds_one_arrow.json
 49e15e13378294cfff410935214c41ecae460d01 data/minecraft/advancements/end/root.json
-20fda3b437699b25c6c629d17b0dfbd7cf34c20b data/minecraft/advancements/adventure/adventuring_time.json
+e6d60a9dac1677fd04fb89362ce565138bbd90c9 data/minecraft/advancements/adventure/adventuring_time.json
 903229701a1b980c3f6721bbe2b37abe635a09e5 data/minecraft/advancements/end/dragon_breath.json
 447f652aadc2ec07b04ad9a1e5a432af3e147948 data/minecraft/advancements/end/kill_dragon.json
 5b0a67664ed698f26f4b3fda25d424d4b819c315 data/minecraft/advancements/husbandry/silk_touch_nest.json
