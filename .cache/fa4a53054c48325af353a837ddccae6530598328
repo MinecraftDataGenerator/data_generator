@@ -1,9 +1,9 @@
-// 25w20a	2025-10-09T18:41:57.981544975	vanilla/Tags for minecraft:item
+// 25w21a	2025-10-09T18:41:32.042477961	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 f8bcce6657c34cb191d37bc195f0cae478d00bed data/minecraft/tags/item/small_flowers.json
-78634c7ac229f0d8a48e462b3aa5e0b3892be46e data/minecraft/tags/item/horse_food.json
+b9d0a0f22210c8764d7f52b92e0ac6983fb1536c data/minecraft/tags/item/horse_food.json
 644d4f67864112c3d8f4fcf42290bc8f7f11db2d data/minecraft/tags/item/enchantable/vanishing.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 89987d10d75ba93bb3e67dc42a2a137ea8e87612 data/minecraft/tags/item/saplings.json
@@ -108,13 +108,13 @@ f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/item/terracotta.jso
 7aa8364ccbe0b84a1f9cb4892878783cc6f72d48 data/minecraft/tags/item/chest_boats.json
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_tool_materials.json
 555cdf03117de10eb8274ffe28d2304a4d7bfb9f data/minecraft/tags/item/shovels.json
-960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_iron_armor.json
+960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/item/buttons.json
 b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/item/trapdoors.json
-533400376c7ce584616f3af5acf77d2b925e82b1 data/minecraft/tags/item/harnesses.json
 f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
+533400376c7ce584616f3af5acf77d2b925e82b1 data/minecraft/tags/item/harnesses.json
 02dfdb41688ccea8169a8d046943461f0aa3c361 data/minecraft/tags/item/fox_food.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.json
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/item/bee_food.json
@@ -130,8 +130,8 @@ c23b5aceb0db24e7df8b571f876f733a24bde29d data/minecraft/tags/item/turtle_food.js
 e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_music_discs.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
 1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
-ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
 17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/gaze_disguise_equipment.json
 445ffbabd7c2f65b4778c62104d7ecffde797cbc data/minecraft/tags/item/fence_gates.json
 b73e2e921b30b8fdd8e7ef278ca3cb68410ec6f3 data/minecraft/tags/item/slabs.json
