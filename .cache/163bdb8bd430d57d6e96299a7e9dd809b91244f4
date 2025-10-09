@@ -1,4 +1,4 @@
-// 25w32a	2025-10-09T18:39:47.409432092	vanilla/Tags for minecraft:entity_type
+// 25w33a	2025-10-09T18:39:45.443816349	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -28,6 +28,7 @@ efb8543801555f1eaabd69b80205ea45d64cb29d data/minecraft/tags/entity_type/boat.js
 40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/ignores_poison_and_regen.json
 938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/tags/entity_type/immune_to_infested.json
+62d25e3645554bc9ac0db396fc73c0b9e33ec48e data/minecraft/tags/entity_type/candidate_for_iron_golem_gift.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflects_projectiles.json
 2430106b9ae60bf140590375b97dd755e5d8ed82 data/minecraft/tags/entity_type/can_equip_saddle.json
 4c073b476785113705dfd3c6b286a337ddbd56b0 data/minecraft/tags/entity_type/beehive_inhabitors.json
@@ -35,6 +36,8 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflect
 5bdb0128416480b595d5ceb36c299533cdc2fd2e data/minecraft/tags/entity_type/can_equip_harness.json
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_type/axolotl_always_hostiles.json
 de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_type/illager_friends.json
+3f1dd0c5c67aa8c83e77cc78c3de66b29c81d5ab data/minecraft/tags/entity_type/accepts_iron_golem_gift.json
+bea249f0837a097981ef84a5efde46cecd4682ed data/minecraft/tags/entity_type/cannot_be_pushed_onto_boats.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/non_controlling_rider.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json
