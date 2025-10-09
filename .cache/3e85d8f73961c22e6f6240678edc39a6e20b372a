@@ -1,4 +1,4 @@
-// 1.20.3	2025-10-09T18:51:39.36093761	update_1_21/Tags for minecraft:block
+// 1.20.4 Release Candidate 1	2025-10-09T18:51:37.962326918	update_1_21/Tags for minecraft:block
 2fe818ac91485a50af1f46d5833b7dee0a70d022 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/features_cannot_replace.json
 5894a5ed4d12bd4d9d206512f04bf47235ef47c0 data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/needs_stone_tool.json
 c3645a2be81b2373fef719e10170a9ca560eea9f data/minecraft/datapacks/update_1_21/data/minecraft/tags/blocks/mineable/pickaxe.json
