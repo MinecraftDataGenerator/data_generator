@@ -1,4 +1,4 @@
-// 1.21.1 Release Candidate 1	2025-10-09T18:47:03.898049679	vanilla/Tags for minecraft:worldgen/biome
+// 1.21.1	2025-10-09T18:46:59.150133968	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -39,8 +39,8 @@ f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_
 b020f6cdcd2d955793278b2f89a178a1d31e599a data/minecraft/tags/worldgen/biome/has_structure/stronghold.json
 0394cc29b21ea80f88b2f36ea3f7dfb6c99192ff data/minecraft/tags/worldgen/biome/is_beach.json
 45e2314b6fbf2e847bd70c163e678e0e756a1640 data/minecraft/tags/worldgen/biome/mineshaft_blocking.json
-e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/without_patrol_spawns.json
 15343ca7e7931ca3b093f52c77b5d7fae920fed9 data/minecraft/tags/worldgen/biome/has_structure/nether_fossil.json
+e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/without_patrol_spawns.json
 e986c1b86e1b4d4abe4912ecfcabc31d8d7d576e data/minecraft/tags/worldgen/biome/is_nether.json
 a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_structure/swamp_hut.json
 a24545b58f3f91c6c033586e2b2ae12f1e8131b1 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json
