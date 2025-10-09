@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 4	2025-10-09T18:41:07.219842221	vanilla/Tags for minecraft:item
+// 1.21.6 Release Candidate 1	2025-10-09T18:40:33.727166668	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -19,8 +19,8 @@ a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisono
 eaa103df61588e3f3fc65f53de2a329861423539 data/minecraft/tags/item/boats.json
 7c7d628823aeb153c19b28c52827f0b6a399e5d7 data/minecraft/tags/item/breaks_decorated_pots.json
 29bd5ab148d15d405e857a8e2cb900ae069b0655 data/minecraft/tags/item/axes.json
-bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/armor.json
 4945b995a6277b3529e7ea8b445e7562b8f3b096 data/minecraft/tags/item/strider_tempt_items.json
+bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/armor.json
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/item/iron_ores.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/repairs_leather_armor.json
@@ -72,8 +72,8 @@ c48bbed46970bff31dd0e696398a3e105fa0fa1f data/minecraft/tags/item/stairs.json
 f756762fd97e893f40e05ebeab43638fbffc2bc5 data/minecraft/tags/item/walls.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
 da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/item/wooden_slabs.json
-84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
+84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/dyeable.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
@@ -143,8 +143,8 @@ bbcda30a5477d8d755f8616657a02ca84f075965 data/minecraft/tags/item/head_armor.jso
 d5819c82fddfaf937dbe9ed568e87f1206349f8d data/minecraft/tags/item/wither_skeleton_disliked_weapons.json
 7e52d9f1e5b59cae0cac0f1095fd3cbe94be375f data/minecraft/tags/item/enchantable/foot_armor.json
 45a97050e7cb3ad898e1fe68248500278f7e37c9 data/minecraft/tags/item/eggs.json
-e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glass.json
 ec1e5e186c92959fded287ecc70517d940073a3d data/minecraft/tags/item/wooden_trapdoors.json
+e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glass.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/item/dampens_vibrations.json
 6b369f3e01c478f5ecb879b9b5d66757d78e5a8f data/minecraft/tags/item/enchantable/head_armor.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/drowned_preferred_weapons.json
@@ -155,8 +155,8 @@ ddddcd9ef8cd706876a4c5b9fb1bb011516a430c data/minecraft/tags/item/enchantable/sh
 456b7e0327f1c0582d9d4d6aba733b810b8a8eea data/minecraft/tags/item/wooden_buttons.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/item/logs.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/item/banners.json
-78d52a15257f82784b70913a5e08d27f0ef58f42 data/minecraft/tags/item/happy_ghast_tempt_items.json
 9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/sheep_food.json
+78d52a15257f82784b70913a5e08d27f0ef58f42 data/minecraft/tags/item/happy_ghast_tempt_items.json
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json
 4ab2fe5a762b59023e074a73499c0195dc4fb1c4 data/minecraft/tags/item/trimmable_armor.json
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/ocelot_food.json
