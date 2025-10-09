@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 1	2025-10-09T18:56:20.399048737	update_1_20/Recipes
+// 1.19.4 Release Candidate 2	2025-10-09T18:56:17.389382453	update_1_20/Recipes
 f0cce472bf7c39c8a88601aa9dc4cb86e44ef02d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/jungle_hanging_sign.json
 3b1891adeee1e51e1fb7295b4bed19d2d86bbb59 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/wild_armor_trim_smithing_template.json
 0e292b3ff1242b6411f3ed61e048945b821e11d3 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/eye_armor_trim_smithing_template.json
@@ -14,8 +14,8 @@ b0c410d75a6ec399f4bfa1434a31848f435a8a86 data/minecraft/datapacks/update_1_20/da
 4530dd21daa5e53931acda90fa2f84a56bfc647b data/minecraft/datapacks/update_1_20/data/minecraft/recipes/pink_dye_from_pink_petals.json
 42225a9787b93dea018df19560ed367a67afb9e9 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/ward_armor_trim_smithing_template.json
 de07e0473d43485eec3de5388e7909394c80ac81 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/dune_armor_trim_smithing_template_smithing_trim.json
-1e7d503ddf7280e28f323a8c26d681c3dac0c629 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/combat/netherite_boots_smithing.json
 0e2935bcb116995270b1be8de794bc9c2f787a89 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/misc/eye_armor_trim_smithing_template.json
+1e7d503ddf7280e28f323a8c26d681c3dac0c629 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/combat/netherite_boots_smithing.json
 e96e11ac6542fb1fe9fc59d556b315fc9ae5100d data/minecraft/datapacks/update_1_20/data/minecraft/recipes/cherry_door.json
 51db989c44f840befb11db88d33a76a6027c448b data/minecraft/datapacks/update_1_20/data/minecraft/recipes/netherite_shovel_smithing.json
 44d93b1ff45b7498a2db478ad8cf872bf9c9bbec data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_sign.json
