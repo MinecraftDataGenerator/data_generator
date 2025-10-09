@@ -13,8 +13,8 @@
         "north": "low"
       },
       "apply": {
-        "model": "minecraft:block/cobblestone_wall_side",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side"
       }
     },
     {
@@ -23,8 +23,8 @@
       },
       "apply": {
         "y": 90,
-        "model": "minecraft:block/cobblestone_wall_side",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side"
       }
     },
     {
@@ -33,8 +33,8 @@
       },
       "apply": {
         "y": 180,
-        "model": "minecraft:block/cobblestone_wall_side",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side"
       }
     },
     {
@@ -43,8 +43,8 @@
       },
       "apply": {
         "y": 270,
-        "model": "minecraft:block/cobblestone_wall_side",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side"
       }
     },
     {
@@ -52,8 +52,8 @@
         "north": "tall"
       },
       "apply": {
-        "model": "minecraft:block/cobblestone_wall_side_tall",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side_tall"
       }
     },
     {
@@ -62,8 +62,8 @@
       },
       "apply": {
         "y": 90,
-        "model": "minecraft:block/cobblestone_wall_side_tall",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side_tall"
       }
     },
     {
@@ -72,8 +72,8 @@
       },
       "apply": {
         "y": 180,
-        "model": "minecraft:block/cobblestone_wall_side_tall",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side_tall"
       }
     },
     {
@@ -82,8 +82,8 @@
       },
       "apply": {
         "y": 270,
-        "model": "minecraft:block/cobblestone_wall_side_tall",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/cobblestone_wall_side_tall"
       }
     }
   ]

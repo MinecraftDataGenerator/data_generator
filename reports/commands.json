@@ -2004,6 +2004,10 @@
         }
       }
     },
+    "debugdim": {
+      "type": "literal",
+      "executable": true
+    },
     "defaultgamemode": {
       "type": "literal",
       "children": {
@@ -7112,6 +7116,19 @@
       "redirect": [
         "msg"
       ]
+    },
+    "warp": {
+      "type": "literal",
+      "children": {
+        "target": {
+          "type": "argument",
+          "parser": "brigadier:string",
+          "properties": {
+            "type": "greedy"
+          },
+          "executable": true
+        }
+      }
     },
     "weather": {
       "type": "literal",

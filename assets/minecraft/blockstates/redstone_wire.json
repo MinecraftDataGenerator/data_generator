@@ -4,10 +4,10 @@
       "when": {
         "OR": [
           {
+            "west": "none",
             "north": "none",
             "south": "none",
-            "east": "none",
-            "west": "none"
+            "east": "none"
           },
           {
             "north": "side|up",
@@ -18,12 +18,12 @@
             "east": "side|up"
           },
           {
-            "south": "side|up",
-            "west": "side|up"
+            "west": "side|up",
+            "south": "side|up"
           },
           {
-            "north": "side|up",
-            "west": "side|up"
+            "west": "side|up",
+            "north": "side|up"
           }
         ]
       },
@@ -38,10 +38,10 @@
             "north": "side|up"
           },
           {
+            "west": "none",
             "north": "none",
             "south": "side|up",
-            "east": "none",
-            "west": "none"
+            "east": "none"
           }
         ]
       },
@@ -56,10 +56,10 @@
             "south": "side|up"
           },
           {
+            "west": "none",
             "north": "side|up",
             "south": "none",
-            "east": "none",
-            "west": "none"
+            "east": "none"
           }
         ]
       },
@@ -74,10 +74,10 @@
             "east": "side|up"
           },
           {
+            "west": "side|up",
             "north": "none",
             "south": "none",
-            "east": "none",
-            "west": "side|up"
+            "east": "none"
           }
         ]
       },
@@ -93,10 +93,10 @@
             "west": "side|up"
           },
           {
+            "west": "none",
             "north": "none",
             "south": "none",
-            "east": "side|up",
-            "west": "none"
+            "east": "side|up"
           }
         ]
       },

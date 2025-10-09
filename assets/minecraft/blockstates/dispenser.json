@@ -5,22 +5,22 @@
       "model": "minecraft:block/dispenser_vertical"
     },
     "facing=east": {
-      "model": "minecraft:block/dispenser",
-      "y": 90
+      "y": 90,
+      "model": "minecraft:block/dispenser"
     },
     "facing=north": {
       "model": "minecraft:block/dispenser"
     },
     "facing=south": {
-      "model": "minecraft:block/dispenser",
-      "y": 180
+      "y": 180,
+      "model": "minecraft:block/dispenser"
     },
     "facing=up": {
       "model": "minecraft:block/dispenser_vertical"
     },
     "facing=west": {
-      "model": "minecraft:block/dispenser",
-      "y": 270
+      "y": 270,
+      "model": "minecraft:block/dispenser"
     }
   }
 }
