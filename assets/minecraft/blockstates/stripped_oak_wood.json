@@ -2,8 +2,8 @@
   "variants": {
     "axis=x": {
       "x": 90,
-      "model": "minecraft:block/stripped_oak_wood",
-      "y": 90
+      "y": 90,
+      "model": "minecraft:block/stripped_oak_wood"
     },
     "axis=y": {
       "model": "minecraft:block/stripped_oak_wood"

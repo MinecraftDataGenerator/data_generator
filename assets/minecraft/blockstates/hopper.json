@@ -4,19 +4,19 @@
       "model": "minecraft:block/hopper"
     },
     "facing=east": {
-      "model": "minecraft:block/hopper_side",
-      "y": 90
+      "y": 90,
+      "model": "minecraft:block/hopper_side"
     },
     "facing=north": {
       "model": "minecraft:block/hopper_side"
     },
     "facing=south": {
-      "model": "minecraft:block/hopper_side",
-      "y": 180
+      "y": 180,
+      "model": "minecraft:block/hopper_side"
     },
     "facing=west": {
-      "model": "minecraft:block/hopper_side",
-      "y": 270
+      "y": 270,
+      "model": "minecraft:block/hopper_side"
     }
   }
 }

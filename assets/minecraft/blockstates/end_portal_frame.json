@@ -1,34 +1,34 @@
 {
   "variants": {
     "eye=false,facing=east": {
-      "model": "minecraft:block/end_portal_frame",
-      "y": 270
+      "y": 270,
+      "model": "minecraft:block/end_portal_frame"
     },
     "eye=false,facing=north": {
-      "model": "minecraft:block/end_portal_frame",
-      "y": 180
+      "y": 180,
+      "model": "minecraft:block/end_portal_frame"
     },
     "eye=false,facing=south": {
       "model": "minecraft:block/end_portal_frame"
     },
     "eye=false,facing=west": {
-      "model": "minecraft:block/end_portal_frame",
-      "y": 90
+      "y": 90,
+      "model": "minecraft:block/end_portal_frame"
     },
     "eye=true,facing=east": {
-      "model": "minecraft:block/end_portal_frame_filled",
-      "y": 270
+      "y": 270,
+      "model": "minecraft:block/end_portal_frame_filled"
     },
     "eye=true,facing=north": {
-      "model": "minecraft:block/end_portal_frame_filled",
-      "y": 180
+      "y": 180,
+      "model": "minecraft:block/end_portal_frame_filled"
     },
     "eye=true,facing=south": {
       "model": "minecraft:block/end_portal_frame_filled"
     },
     "eye=true,facing=west": {
-      "model": "minecraft:block/end_portal_frame_filled",
-      "y": 90
+      "y": 90,
+      "model": "minecraft:block/end_portal_frame_filled"
     }
   }
 }

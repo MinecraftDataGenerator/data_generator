@@ -1,19 +1,19 @@
 {
   "variants": {
     "facing=east": {
-      "model": "minecraft:block/damaged_anvil",
-      "y": 270
+      "y": 270,
+      "model": "minecraft:block/damaged_anvil"
     },
     "facing=north": {
-      "model": "minecraft:block/damaged_anvil",
-      "y": 180
+      "y": 180,
+      "model": "minecraft:block/damaged_anvil"
     },
     "facing=south": {
       "model": "minecraft:block/damaged_anvil"
     },
     "facing=west": {
-      "model": "minecraft:block/damaged_anvil",
-      "y": 90
+      "y": 90,
+      "model": "minecraft:block/damaged_anvil"
     }
   }
 }
