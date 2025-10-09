@@ -1,4 +1,4 @@
-// 1.20 Pre-release 4	2025-10-09T18:54:46.230387662	vanilla/Loot Tables
+// 1.20 Pre-release 5	2025-10-09T18:54:36.120956796	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -503,8 +503,8 @@ fa96de115a98cd3fa44c7044c5ded4556cec6932 data/minecraft/loot_tables/blocks/spruc
 450ec63ba232d50348b6eaad7c6082ac35e1eeaf data/minecraft/loot_tables/blocks/light_blue_glazed_terracotta.json
 be07d4c7a078574c2dc71f0dfcbfb7b90b14173c data/minecraft/loot_tables/blocks/cherry_button.json
 f54ed68167dd0a5744897417e95443725eb5c12d data/minecraft/loot_tables/blocks/yellow_wool.json
-cde848cb891faa9090f053973673b6dc1eb8125f data/minecraft/loot_tables/blocks/redstone_torch.json
 e676ea4c30dae013a66dd105302f9e3f86a2f19d data/minecraft/loot_tables/blocks/bubble_coral.json
+cde848cb891faa9090f053973673b6dc1eb8125f data/minecraft/loot_tables/blocks/redstone_torch.json
 3008ff460e959ec00cf6c5079023fd2a99b2b361 data/minecraft/loot_tables/blocks/light_blue_carpet.json
 3d2ca5eb5380d62a06386e41ebb0a7721a32a34e data/minecraft/loot_tables/blocks/petrified_oak_slab.json
 e229b7d832e621ad8518f66214be21e6ce9b56ac data/minecraft/loot_tables/blocks/birch_slab.json
@@ -919,8 +919,8 @@ dd1552eefd990f860aef37cacf531d4f581b8fbc data/minecraft/loot_tables/blocks/fire.
 d328a65612bb8b7e9d8e06a185e2fa939fe52501 data/minecraft/loot_tables/blocks/infested_deepslate.json
 67366971b205369a145a5ff7425e34e4d11703ad data/minecraft/loot_tables/blocks/cut_copper.json
 6183a0083b5d553316fd7858c8f5ef7687703a86 data/minecraft/loot_tables/blocks/magma_block.json
-c2aa7f78f9cb0f047835704ba07e8b29a64d0df3 data/minecraft/loot_tables/blocks/pink_concrete.json
 db33a6718e20467bf0649e3a89e12fb5c253f5d6 data/minecraft/loot_tables/blocks/deepslate_tile_slab.json
+c2aa7f78f9cb0f047835704ba07e8b29a64d0df3 data/minecraft/loot_tables/blocks/pink_concrete.json
 ea09f8b9741125e6dbd0a6a70d2d936973990f1c data/minecraft/loot_tables/blocks/bamboo_block.json
 4dc68479d14d6650da5454555b0f576d68d6f185 data/minecraft/loot_tables/blocks/mangrove_fence_gate.json
 780a4c719ea76f70a155509b3f76833abf5efbf2 data/minecraft/loot_tables/blocks/dead_bubble_coral_block.json
