@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 4	2025-10-09T18:45:29.502349476	vanilla/Tags for minecraft:block
+// 1.21.2 Pre-Release 5	2025-10-09T18:45:55.105526797	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -106,8 +106,8 @@ f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_en
 0f244217291b57180a2e4cd1c2385dcab32dead4 data/minecraft/tags/block/banners.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/block/logs.json
-50e0ff26fd3c916d924204208650a91a98d622fd data/minecraft/tags/block/does_not_block_hoppers.json
 e1e3ce6da8b89959d5563a7fffbc8ba14c1e20cf data/minecraft/tags/block/features_cannot_replace.json
+50e0ff26fd3c916d924204208650a91a98d622fd data/minecraft/tags/block/does_not_block_hoppers.json
 c0b9472da044676739361fd55bc4d413e485144e data/minecraft/tags/block/blocks_wind_charge_explosions.json
 619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/block/polar_bears_spawnable_on_alternate.json
 5b7a16c4ba8e702114347cf2a688167b9789cd58 data/minecraft/tags/block/wall_post_override.json
@@ -134,8 +134,8 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 4161727d1e5d26faf957fabebe6b6c8cc6e884f2 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
+b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 158a4877fad0ee79d00e8c9f641ad661e822cdb5 data/minecraft/tags/block/sniffer_egg_hatch_boost.json

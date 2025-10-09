@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 4	2025-10-09T18:45:29.504143925	vanilla/Tags for minecraft:banner_pattern
+// 1.21.2 Pre-Release 5	2025-10-09T18:45:55.107566978	vanilla/Tags for minecraft:banner_pattern
 2fde436967c97bd28b21e6d604d3e3d0909aa5fa data/minecraft/tags/banner_pattern/pattern_item/globe.json
 fd8784340c4bcf8c4f20feea086ceebd965d20d7 data/minecraft/tags/banner_pattern/pattern_item/skull.json
 8a9a603a5ac941a149f07099fb0bcbb6320026c8 data/minecraft/tags/banner_pattern/pattern_item/flower.json
@@ -6,7 +6,7 @@ fcf7bebab33ff2a152e0861b981a153d0a1e3af7 data/minecraft/tags/banner_pattern/patt
 da9ec5f7ed64a0d225e00ee60b8e6d6408b431fb data/minecraft/tags/banner_pattern/pattern_item/creeper.json
 cdfcfddb70869c41a037d2fa9d13cebce67d276b data/minecraft/tags/banner_pattern/pattern_item/mojang.json
 7d6299ce6bed7843a86620a75fcad0c4d656913a data/minecraft/tags/banner_pattern/no_item_required.json
-c057859f3f85d34ff55914249fb5f85dbf0cbaa5 data/minecraft/tags/banner_pattern/pattern_item/bordure_indented.json
 a4b919bca63edef592303f6997cac60f53835600 data/minecraft/tags/banner_pattern/pattern_item/guster.json
 78324d910f5cc8784b4ebcd3728d920fa0ab2e6d data/minecraft/tags/banner_pattern/pattern_item/field_masoned.json
+c057859f3f85d34ff55914249fb5f85dbf0cbaa5 data/minecraft/tags/banner_pattern/pattern_item/bordure_indented.json
 ce667334decdb2f005481488800273c98740f74a data/minecraft/tags/banner_pattern/pattern_item/flow.json

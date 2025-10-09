@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 4	2025-10-09T18:45:29.503996515	vanilla/Tags for minecraft:entity_type
+// 1.21.2 Pre-Release 5	2025-10-09T18:45:55.107409738	vanilla/Tags for minecraft:entity_type
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 3b9491f8c3d5a66d5ce8a9dd1582fce60060ded3 data/minecraft/tags/entity_type/undead.json
@@ -31,6 +31,6 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflect
 104ae562893e0785b922c7ac28bdaf5a86792945 data/minecraft/tags/entity_type/not_scary_for_pufferfish.json
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_type/axolotl_always_hostiles.json
 de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_type/illager_friends.json
-e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/non_controlling_rider.json
+e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json
