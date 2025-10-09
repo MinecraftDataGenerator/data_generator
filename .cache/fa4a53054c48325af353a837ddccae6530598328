@@ -1,4 +1,4 @@
-// 1.21 Release Candidate 1	2025-10-09T18:47:22.462392527	vanilla/Tags for minecraft:item
+// 1.21	2025-10-09T18:47:13.606873234	vanilla/Tags for minecraft:item
 82edd6d1ec8e7fe75b955b3a41a45d38cc77c262 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -54,16 +54,16 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/item/dark_oak_logs.json
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_crafting_materials.json
 f651379db3bd93084b50c5759f13066cb9859ee2 data/minecraft/tags/item/pig_food.json
-49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/item/sniffer_food.json
 47be456ad97366b91300f74739cd8cac544f698d data/minecraft/tags/item/creeper_igniters.json
+49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/item/sniffer_food.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/item/lectern_books.json
 de497bdbd607638702d22bef902ced0dabe1d293 data/minecraft/tags/item/stairs.json
 3c79ca784535e4edb6ad3bf6da109ba0a651018b data/minecraft/tags/item/walls.json
 002a1f0e0b109cd883572ac23180e47312fdd8bb data/minecraft/tags/item/tall_flowers.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
 8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
-84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/item/wooden_slabs.json
+84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 d3ae06a554a4a48fd3cdaaaaedcd4ac65cff1cbc data/minecraft/tags/item/trim_templates.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/dyeable.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
@@ -104,8 +104,8 @@ f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.j
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/item/spruce_logs.json
 c23b5aceb0db24e7df8b571f876f733a24bde29d data/minecraft/tags/item/turtle_food.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/item/fences.json
-76ac0bd2e48021aef9ecffd104321ebc03c694eb data/minecraft/tags/item/signs.json
 346d148ecd7ee4de6292cd18efdaf6fdf1a7b522 data/minecraft/tags/item/skulls.json
+76ac0bd2e48021aef9ecffd104321ebc03c694eb data/minecraft/tags/item/signs.json
 e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_music_discs.json
 6685174532a27724f89c1480727a4ad880f6c586 data/minecraft/tags/item/stone_buttons.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
@@ -131,8 +131,8 @@ b7d959a4eef7bbd9e6ce12e26764c3931088f42c data/minecraft/tags/item/wooden_buttons
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/item/logs.json
 9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/sheep_food.json
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json
-84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/ocelot_food.json
 4ab2fe5a762b59023e074a73499c0195dc4fb1c4 data/minecraft/tags/item/trimmable_armor.json
+84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/ocelot_food.json
 bb621ab26dd2f44b092ab88dfac609061096c836 data/minecraft/tags/item/enchantable/durability.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/item/cherry_logs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/item/oak_logs.json
