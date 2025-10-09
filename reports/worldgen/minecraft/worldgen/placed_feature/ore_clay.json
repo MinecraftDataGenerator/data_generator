@@ -2,7 +2,7 @@
   "feature": "minecraft:ore_clay",
   "placement": [
     {
-      "count": 38,
+      "count": 46,
       "type": "minecraft:count"
     },
     {
@@ -14,7 +14,7 @@
           "above_bottom": 0
         },
         "max_inclusive": {
-          "absolute": 120
+          "absolute": 256
         },
         "type": "minecraft:uniform"
       },
