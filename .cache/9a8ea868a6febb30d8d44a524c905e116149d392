@@ -1,6 +1,6 @@
-// 1.20.6	2025-10-09T18:48:30.61761764	trade_rebalance/Loot Tables
-acddfeecc5d07b0d43357538dbfcaa7b98764827 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/ancient_city.json
-a998e6d279fceeb37556950d6203eb04bcec98a8 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/abandoned_mineshaft.json
-9816d4af83d26408da9581a8bd5b8ae8fe66c509 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/desert_pyramid.json
-6080241cf922f0b68b3d3301993a410817715067 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/jungle_temple.json
-f81d0c2f19e7a969c269653bd41ffd3a5382859e data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/pillager_outpost.json
+// 24w18a	2025-10-09T18:48:26.416660285	trade_rebalance/Loot Tables
+27169dfce40e4de0afcead85b27eb83e3285ba35 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/ancient_city.json
+71fe4fd06bd069681542346c59291a54ceaa9af8 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/desert_pyramid.json
+5a343abf2f23533826600be78a11941fa4f6101e data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/abandoned_mineshaft.json
+61b9625639ef87c75a11d3c3a1410849e4e32c50 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/jungle_temple.json
+a0e26890c494c815fc91aee044373628ca83d8ae data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/pillager_outpost.json
