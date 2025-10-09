@@ -1,4 +1,4 @@
-// 1.20 Pre-release 3	2025-10-09T18:55:00.471750175	vanilla/Tags for minecraft:block
+// 1.20 Pre-release 4	2025-10-09T18:54:46.233541093	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -45,8 +45,8 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/blocks/dirt.json
 4bee09ae134c8c7e450e996a5b9a9bcc4d7e7420 data/minecraft/tags/blocks/moss_replaceable.json
 d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/blocks/cave_vines.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/blocks/piglin_repellents.json
-aed8b700fe72fa0af5894e299b41da331f1cf0c9 data/minecraft/tags/blocks/sword_efficient.json
 01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/blocks/needs_diamond_tool.json
+aed8b700fe72fa0af5894e299b41da331f1cf0c9 data/minecraft/tags/blocks/sword_efficient.json
 88dcd99364a64f164a26461c5d5b9da0cb960b10 data/minecraft/tags/blocks/trapdoors.json
 0f12416e29c47a8dd09b45231993f21c8a0215c6 data/minecraft/tags/blocks/azalea_grows_on.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/blocks/unstable_bottom_center.json
