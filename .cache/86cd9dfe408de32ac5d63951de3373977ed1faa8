@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 3	2025-10-09T18:56:22.482887733	vanilla/Tags for minecraft:block
+// 1.19.4 Pre-release 4	2025-10-09T18:56:26.090913673	vanilla/Tags for minecraft:block
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -23,9 +23,9 @@ d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/blocks/soul_speed_b
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/blocks/beacon_base_blocks.json
 6ede28640bdf067c0ec2d1f9c2d26f166cb3a6c8 data/minecraft/tags/blocks/buttons.json
 837bf053d44a820743fe76f981febdde02bc78a2 data/minecraft/tags/blocks/underwater_bonemeals.json
+37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/blocks/copper_ores.json
 aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/blocks/guarded_by_piglins.json
 5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/blocks/deepslate_ore_replaceables.json
-37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/blocks/copper_ores.json
 4d34426683f3ddc761bd901a59fa538cd8138ff3 data/minecraft/tags/blocks/inside_step_sound_blocks.json
 632e3c9b57c812cfb93f65d1ec8cb7afe2b4e733 data/minecraft/tags/blocks/geode_invalid_blocks.json
 c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/blocks/wooden_slabs.json
