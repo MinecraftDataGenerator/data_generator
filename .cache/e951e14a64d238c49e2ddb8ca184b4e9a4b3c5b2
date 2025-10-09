@@ -1,4 +1,4 @@
-// 24w38a	2025-10-09T18:46:14.636408596	vanilla/Advancements
+// 24w39a	2025-10-09T18:46:15.158170114	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 0962940c1ca516bdf9c98dc2bf5e80c3e044a662 data/minecraft/advancement/end/root.json
@@ -33,7 +33,7 @@ e8e3004ad02037a7dbacc26783158b1aa742ca35 data/minecraft/advancement/nether/obtai
 67cc7054998d5e7e6f595b5c6bd76860a873f2bd data/minecraft/advancement/nether/find_bastion.json
 58439fc75615e5797c91e32e26fe48035da42829 data/minecraft/advancement/story/enchant_item.json
 15acd64bf791d52ef967aa302261f8f6c450aa17 data/minecraft/advancement/adventure/ol_betsy.json
-826bfefb78b26941e7012f3add0bdc3904fc6ca9 data/minecraft/advancement/husbandry/ride_a_boat_with_a_goat.json
+fc0af96f9a354cfef45c17b03079eb6871156c00 data/minecraft/advancement/husbandry/ride_a_boat_with_a_goat.json
 05a1d2669757d3b455f5f20a87a00dab7759ce27 data/minecraft/advancement/husbandry/bred_all_animals.json
 f69986555c218c4644533ab93a04edbfb67767a2 data/minecraft/advancement/adventure/adventuring_time.json
 d07f5f7faf2d59753e6e03355e0143951c5363a6 data/minecraft/advancement/husbandry/plant_any_sniffer_seed.json

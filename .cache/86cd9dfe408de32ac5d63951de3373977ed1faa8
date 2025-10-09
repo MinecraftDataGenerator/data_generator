@@ -1,4 +1,4 @@
-// 24w38a	2025-10-09T18:46:14.657835937	vanilla/Tags for minecraft:block
+// 24w39a	2025-10-09T18:46:15.184470355	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -134,8 +134,8 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 4161727d1e5d26faf957fabebe6b6c8cc6e884f2 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
 b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
+c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 158a4877fad0ee79d00e8c9f641ad661e822cdb5 data/minecraft/tags/block/sniffer_egg_hatch_boost.json
@@ -182,5 +182,5 @@ ed346d15e3bcb5e92e5045b4c6da0d19ad0243b0 data/minecraft/tags/block/inside_step_s
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/block/dampens_vibrations.json
 166b1b2932705a5eb271b0c3794389ec79c1ff4e data/minecraft/tags/block/replaceable_by_trees.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/dripstone_replaceable_blocks.json
-64b66f0912167ef1fa6a5673e31b46d65e27c9af data/minecraft/tags/block/dragon_immune.json
 c95c455fe4e6a7c8c1a280e27f6957acdeb9e2f3 data/minecraft/tags/block/occludes_vibration_signals.json
+64b66f0912167ef1fa6a5673e31b46d65e27c9af data/minecraft/tags/block/dragon_immune.json

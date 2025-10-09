@@ -1,4 +1,4 @@
-// 24w38a	2025-10-09T18:46:14.659226437	vanilla/Tags for minecraft:entity_type
+// 24w39a	2025-10-09T18:46:15.185987865	vanilla/Tags for minecraft:entity_type
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 3b9491f8c3d5a66d5ce8a9dd1582fce60060ded3 data/minecraft/tags/entity_type/undead.json
@@ -22,6 +22,7 @@ e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverte
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/frog_food.json
 f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_type/raiders.json
 9eecfbba6b4ef0184b1dd7345f88872f294b8bd3 data/minecraft/tags/entity_type/redirectable_projectile.json
+188a246cacf68a270813bf5bea78ad0f76a8e027 data/minecraft/tags/entity_type/boat.json
 966d6c3a0c97a5ee98ddbb27e5e17002d9b87480 data/minecraft/tags/entity_type/skeletons.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/ignores_poison_and_regen.json
 938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/tags/entity_type/immune_to_infested.json
