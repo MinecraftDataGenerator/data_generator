@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 3	2025-10-09T18:56:06.142514258	vanilla/Loot Tables
+// 1.19.4	2025-10-09T18:55:53.625497561	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -413,8 +413,8 @@ d43fc0a59b71b05dcbf2292e00cfcfe666a57ca4 data/minecraft/loot_tables/blocks/chise
 b093da76991e8a453d8b20600c23e28aa54a8b71 data/minecraft/loot_tables/blocks/potted_blue_orchid.json
 62f54e9eb574aed4f23745bf74988dd0b012646c data/minecraft/loot_tables/blocks/mangrove_pressure_plate.json
 762a61254a18888bf89669b47ce1db6533d1d643 data/minecraft/loot_tables/blocks/prismarine_slab.json
-1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/stripped_cherry_wood.json
 19709c64fa26c8c75f0b79e976fe8c9b7e111636 data/minecraft/loot_tables/blocks/red_concrete.json
+1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/stripped_cherry_wood.json
 9605d965d7b21d42d8e0ab9800c91ca0b389532b data/minecraft/loot_tables/blocks/red_nether_bricks.json
 619054535fe395fb87ebbc77bd54a47b64f91b70 data/minecraft/loot_tables/blocks/mangrove_planks.json
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/bee.json
@@ -761,8 +761,8 @@ eb7985db4d52fdbcdc66d636c170c95f99a0c5f2 data/minecraft/loot_tables/blocks/glass
 b5f39716ca6f4496a34977a82c74d90400523da1 data/minecraft/loot_tables/blocks/mangrove_propagule.json
 bdce2b6831ea87955de0030f5fe23ef1f8108892 data/minecraft/loot_tables/blocks/green_bed.json
 42784867cfa69f712f6504852b8e8bb825468f35 data/minecraft/loot_tables/blocks/blackstone_wall.json
-3d38010646437d4592c3df53a00d2d5cb78d67de data/minecraft/loot_tables/blocks/smooth_sandstone_stairs.json
 74aebfff584d6e223620507c3f7ad0edce163238 data/minecraft/loot_tables/blocks/waxed_weathered_cut_copper_stairs.json
+3d38010646437d4592c3df53a00d2d5cb78d67de data/minecraft/loot_tables/blocks/smooth_sandstone_stairs.json
 bedbd12427fcdb2d66aa495ac5c72781ee58cd9d data/minecraft/loot_tables/blocks/blue_glazed_terracotta.json
 ee8b93e9d2a373b8f4819434996e66f2f5bd32d7 data/minecraft/loot_tables/blocks/waxed_copper_block.json
 55926c4632a2e60c626a2eb228e9fc768bf29dad data/minecraft/loot_tables/blocks/polished_blackstone_brick_slab.json

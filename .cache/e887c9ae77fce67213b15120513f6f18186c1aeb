@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 3	2025-10-09T18:56:06.127763045	update_1_20/Recipes
+// 1.19.4	2025-10-09T18:55:53.613160638	update_1_20/Recipes
 f0cce472bf7c39c8a88601aa9dc4cb86e44ef02d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/jungle_hanging_sign.json
 3b1891adeee1e51e1fb7295b4bed19d2d86bbb59 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/wild_armor_trim_smithing_template.json
 0e292b3ff1242b6411f3ed61e048945b821e11d3 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/eye_armor_trim_smithing_template.json
@@ -26,8 +26,8 @@ dfd079b6bd98541f9c0adfef94762ada1e6fd306 data/minecraft/datapacks/update_1_20/da
 6d783b106d4053ae9f78fdae7082c6490d9d1e13 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/redstone/bamboo_pressure_plate.json
 8c696e57ef9ca5de72dad9b781dbf592bacc15f3 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/cherry_planks.json
 520ac783851a9459f043c2f77222c526c11663bf data/minecraft/datapacks/update_1_20/data/minecraft/recipes/cherry_wood.json
-7a3f1eb2f941da8a188cd6c1af5bcada68d6fea6 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/cherry_pressure_plate.json
 f36640f7336c9dae1c02d22acdaa5aa7d0d3dc74 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/spruce_hanging_sign.json
+7a3f1eb2f941da8a188cd6c1af5bcada68d6fea6 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/cherry_pressure_plate.json
 fd7d6e1e73fc40dc3f871577658f6504a6621c8c data/minecraft/datapacks/update_1_20/data/minecraft/recipes/mangrove_hanging_sign.json
 7969fea64e032aff931413e8446424c6fbaeca4a data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/decorated_pot_simple.json
 60abd8910e77b460da0f8f2b825826b711b52f87 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/tools/brush.json
@@ -54,8 +54,8 @@ a5ab67793a47d41afade496958e385d6f4c75fb7 data/minecraft/datapacks/update_1_20/da
 d300533008177ae847d23f5411d9d4fbeba33fe6 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/tools/netherite_shovel_smithing.json
 b554082018a4f0eb05da79005e7b5ffe3bb405ce data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_fence.json
 4e5f1886266e5dbd499ed8a067574869014114b0 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/cherry_boat.json
-c1c91e8441434c7846e97117ab6ac7cb797eda01 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/spruce_hanging_sign.json
 0ba04169bd7e9f2ef0cee648bf59697e71d851e6 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/redstone/cherry_button.json
+c1c91e8441434c7846e97117ab6ac7cb797eda01 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/spruce_hanging_sign.json
 3d4f084ccb5ee6cfc4830772f55e6f18bd6c5828 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/misc/wild_armor_trim_smithing_template.json
 9da0d3e6b90bca09d75cb9cc47543cef6604b8dc data/minecraft/datapacks/update_1_20/data/minecraft/recipes/dune_armor_trim_smithing_template.json
 b2c91c220260b97796bcf3fe2d5f235a2a5ac998 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/bamboo_hanging_sign.json
