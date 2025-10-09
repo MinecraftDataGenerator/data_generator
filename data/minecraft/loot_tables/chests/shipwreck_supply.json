@@ -121,6 +121,14 @@
                   }
                 },
                 {
+                  "type": "minecraft:poison",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 10.0,
+                    "max": 20.0
+                  }
+                },
+                {
                   "type": "minecraft:night_vision",
                   "duration": {
                     "type": "minecraft:uniform",
@@ -142,14 +150,6 @@
                     "type": "minecraft:uniform",
                     "min": 7.0,
                     "max": 10.0
-                  }
-                },
-                {
-                  "type": "minecraft:poison",
-                  "duration": {
-                    "type": "minecraft:uniform",
-                    "min": 10.0,
-                    "max": 20.0
                   }
                 },
                 {
