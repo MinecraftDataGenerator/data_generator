@@ -1,4 +1,4 @@
-// 1.21.4 Release Candidate 2	2025-10-09T18:44:32.618914632	vanilla/Tags for minecraft:game_event
+// 1.21.4 Release Candidate 3	2025-10-09T18:44:22.424097715	vanilla/Tags for minecraft:game_event
 63d89aa5d8bf516444e2f3bbf763f637c72839b4 data/minecraft/tags/game_event/allay_can_listen.json
 641d5946c42493fe7a161d4a3971814600234ffd data/minecraft/tags/game_event/shrieker_can_listen.json
 b13aa4b40cb68f9a610c6a3b56eb8d1b8da165f9 data/minecraft/tags/game_event/warden_can_listen.json
