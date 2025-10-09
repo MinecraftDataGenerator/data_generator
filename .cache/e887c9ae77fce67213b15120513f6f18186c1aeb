@@ -1,4 +1,4 @@
-// 1.19.3 Release Candidate 3	2025-10-09T18:57:09.205144204	update_1_20/Recipes
+// 1.19.3	2025-10-09T18:57:03.907052074	update_1_20/Recipes
 f0cce472bf7c39c8a88601aa9dc4cb86e44ef02d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/jungle_hanging_sign.json
 2fb9ebd7d6b70bcc53be3033e9c0f003f3e33d81 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_block.json
 7927bbdb56388c6ab566fa93be9ac1201abb83e0 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/chiseled_bookshelf.json
@@ -43,8 +43,8 @@ f85376317edb5f2c6b396e5922583688b8962abd data/minecraft/datapacks/update_1_20/da
 de7db3721ba09155a5d6d2ececad92bbd2dfbac8 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_stairs.json
 a8edc9cdf303c95adaeca44fd12bd282294de074 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_chest_raft.json
 9eb1f0f23602b7e8610920f640e9119e3887a1d1 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/redstone/bamboo_door.json
-43cf28f18de61645aced6dd8697e4e96939b4f97 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_trapdoor.json
 ae159babeb0e13ae8f393d5f6f88401be42ba567 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/warped_hanging_sign.json
+43cf28f18de61645aced6dd8697e4e96939b4f97 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_trapdoor.json
 9857a834e671f9bbb7369b17e0bb3be778078121 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/birch_hanging_sign.json
 6527f80f2922baa6077a9b8745538b187243d488 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/mangrove_hanging_sign.json
 79fc4c3c3fe2bc475bc1c6831dbc9f837bd679ae data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/redstone/bamboo_fence_gate.json
