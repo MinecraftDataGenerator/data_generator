@@ -1,4 +1,4 @@
-// 25w03a	2025-10-09T18:44:02.964834949	vanilla/Tags for minecraft:enchantment
+// 25w04a	2025-10-09T18:43:52.535553611	vanilla/Tags for minecraft:enchantment
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/in_enchanting_table.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_infested_spawns.json
 1a0524139f6505886b0e070dd9cf0603f59a1609 data/minecraft/tags/enchantment/tooltip_order.json
@@ -10,9 +10,9 @@ c60ee9deeeafdb0a40e679a78e0a669891ea69d3 data/minecraft/tags/enchantment/exclusi
 d679321435a6ade72a9495e85704105f6661f07d data/minecraft/tags/enchantment/exclusive_set/damage.json
 7eb8a9a08d1c48afa377c81a062c496ccdc31c01 data/minecraft/tags/enchantment/non_treasure.json
 b8b7ea78203e415f62b34a3094a9f0faa5f6b65f data/minecraft/tags/enchantment/double_trade_price.json
-27bc54b5b2a03ab4ebcaa4f4a8c984e476b8681c data/minecraft/tags/enchantment/exclusive_set/crossbow.json
-b9a8c15c84e333914665934683499f9d9cc6ae92 data/minecraft/tags/enchantment/exclusive_set/boots.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_bee_spawns_when_mining.json
+b9a8c15c84e333914665934683499f9d9cc6ae92 data/minecraft/tags/enchantment/exclusive_set/boots.json
+27bc54b5b2a03ab4ebcaa4f4a8c984e476b8681c data/minecraft/tags/enchantment/exclusive_set/crossbow.json
 57cf4c40c86706605ded6a65caa1440568f5b069 data/minecraft/tags/enchantment/treasure.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_ice_melting.json
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/on_traded_equipment.json
