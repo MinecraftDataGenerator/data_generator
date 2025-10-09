@@ -1,7 +1,7 @@
-// 22w46a	2025-10-09T18:57:46.315210678	vanilla/Tags for minecraft:item
+// 1.19.3 Pre-release 1	2025-10-09T18:57:42.142963424	vanilla/Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
-a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
+a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 88dcd99364a64f164a26461c5d5b9da0cb960b10 data/minecraft/tags/items/trapdoors.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/items/soul_fire_base_blocks.json
@@ -16,15 +16,15 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/items/dirt.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
-e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/sand.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/items/candles.json
+e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/sand.json
 6f62a3e03de3843da6fc2f7b46bfdd5d1f4fd02d data/minecraft/tags/items/compasses.json
 2251fe88877ae02fb691c0e7949b1f15ad52837f data/minecraft/tags/items/stairs.json
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/items/wool.json
 3e91de89450adf9212376786288ff0392bf67ed0 data/minecraft/tags/items/leaves.json
 d2375906c01a0a6134fb562cd021a2cc424f16af data/minecraft/tags/items/flowers.json
-19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/items/mangrove_logs.json
 e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/items/creeper_drop_music_discs.json
+19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/items/mangrove_logs.json
 e81f8b8dbba774b8eb3ff4252140a7cce46870f8 data/minecraft/tags/items/small_flowers.json
 635ba526daad9b87ca763c8499af6cebf149d44b data/minecraft/tags/items/wooden_fences.json
 8111cee5527e48da678d0eafe325ab823f2bdaf1 data/minecraft/tags/items/planks.json
@@ -32,15 +32,15 @@ e81f8b8dbba774b8eb3ff4252140a7cce46870f8 data/minecraft/tags/items/small_flowers
 50913d1582e283fcd9edba120976fa8677a81ca5 data/minecraft/tags/items/wooden_stairs.json
 146b707b34bbaa8305e407b9bf6d314939e6bc4a data/minecraft/tags/items/wooden_trapdoors.json
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/items/coal_ores.json
-3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/items/spruce_logs.json
-74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/items/fences.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/items/oak_logs.json
+74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/items/fences.json
+3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/items/spruce_logs.json
 7f07892c2d48d32709c36a0538e4bbf9adf96123 data/minecraft/tags/items/tall_flowers.json
 4f49148d36d536b952bb03d660de61d68f361e1b data/minecraft/tags/items/music_discs.json
-c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.json
-d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/items/wooden_slabs.json
+c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.json
 33e8ec7190dcb72c437ead7d37ebc6cc7e986f1d data/minecraft/tags/items/saplings.json
+d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/items/piglin_loved.json
 88dbd252e813d6dcfac6f78445f442057079e749 data/minecraft/tags/items/non_flammable_wood.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/items/birch_logs.json
@@ -65,8 +65,8 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/items/redstone_ores
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/items/terracotta.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/items/emerald_ores.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/items/wool_carpets.json
-30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/items/stone_tool_materials.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/items/dark_oak_logs.json
+30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/items/stone_tool_materials.json
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/items/iron_ores.json
 75df44deafb1f627b674575d499833e104a43f2b data/minecraft/tags/items/piglin_food.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/items/warped_stems.json
