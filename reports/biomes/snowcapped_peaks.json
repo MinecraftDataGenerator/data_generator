@@ -6,7 +6,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7842047,
+    "sky_color": 7972607,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
@@ -14,19 +14,16 @@
   "surface_builder": {
     "config": {
       "top_material": {
-        "Properties": {
-          "snowy": "false"
-        },
-        "Name": "minecraft:grass_block"
+        "Name": "minecraft:snow_block"
       },
       "under_material": {
-        "Name": "minecraft:dirt"
+        "Name": "minecraft:snow_block"
       },
       "underwater_material": {
-        "Name": "minecraft:gravel"
+        "Name": "minecraft:stone"
       }
     },
-    "type": "minecraft:default"
+    "type": "minecraft:snowcapped_peaks"
   },
   "carvers": {
     "air": [
@@ -2161,9 +2158,145 @@
           }
         },
         "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "targets": [
+                        {
+                          "target": {
+                            "tag": "minecraft:stone_ore_replaceables",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "minecraft:emerald_ore"
+                          }
+                        },
+                        {
+                          "target": {
+                            "tag": "minecraft:deepslate_ore_replaceables",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "minecraft:deepslate_emerald_ore"
+                          }
+                        }
+                      ],
+                      "size": 3,
+                      "discard_chance_on_air_exposure": 0.0
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "height": {
+                        "min_inclusive": {
+                          "absolute": 32
+                        },
+                        "max_inclusive": {
+                          "absolute": 480
+                        },
+                        "type": "minecraft:trapezoid"
+                      }
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 50
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
       }
     ],
-    [],
+    [
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "targets": [
+                        {
+                          "target": {
+                            "tag": "minecraft:stone_ore_replaceables",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "minecraft:infested_stone"
+                          }
+                        },
+                        {
+                          "target": {
+                            "tag": "minecraft:deepslate_ore_replaceables",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Properties": {
+                              "axis": "y"
+                            },
+                            "Name": "minecraft:infested_deepslate"
+                          }
+                        }
+                      ],
+                      "size": 9,
+                      "discard_chance_on_air_exposure": 0.0
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "height": {
+                        "min_inclusive": {
+                          "above_bottom": 0
+                        },
+                        "max_inclusive": {
+                          "absolute": 63
+                        },
+                        "type": "minecraft:uniform"
+                      }
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 14
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
     [
       {
         "config": {
@@ -2257,713 +2390,6 @@
               }
             },
             "type": "minecraft:count"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "feature": {
-                    "config": {
-                      "probability": 0.2
-                    },
-                    "type": "minecraft:bamboo"
-                  },
-                  "decorator": {
-                    "config": {
-                      "heightmap": "WORLD_SURFACE_WG"
-                    },
-                    "type": "minecraft:heightmap"
-                  }
-                },
-                "type": "minecraft:decorated"
-              },
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "noise_to_count_ratio": 160,
-              "noise_factor": 80.0,
-              "noise_offset": 0.3
-            },
-            "type": "minecraft:count_noise_biased"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "features": [
-                    {
-                      "feature": {
-                        "config": {
-                          "decorators": [],
-                          "ignore_vines": true,
-                          "force_dirt": false,
-                          "dirt_provider": {
-                            "state": {
-                              "Name": "minecraft:dirt"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "minimum_size": {
-                            "limit": 0,
-                            "lower_size": 0,
-                            "upper_size": 0,
-                            "min_clipped_height": 4,
-                            "type": "minecraft:two_layers_feature_size"
-                          },
-                          "foliage_provider": {
-                            "state": {
-                              "Properties": {
-                                "persistent": "false",
-                                "distance": "7"
-                              },
-                              "Name": "minecraft:oak_leaves"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "sapling_provider": {
-                            "state": {
-                              "Properties": {
-                                "stage": "0"
-                              },
-                              "Name": "minecraft:oak_sapling"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "foliage_placer": {
-                            "radius": 2,
-                            "offset": 4,
-                            "height": 4,
-                            "type": "minecraft:fancy_foliage_placer"
-                          },
-                          "trunk_provider": {
-                            "state": {
-                              "Properties": {
-                                "axis": "y"
-                              },
-                              "Name": "minecraft:oak_log"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "trunk_placer": {
-                            "base_height": 3,
-                            "height_rand_a": 11,
-                            "height_rand_b": 0,
-                            "type": "minecraft:fancy_trunk_placer"
-                          }
-                        },
-                        "type": "minecraft:tree"
-                      },
-                      "chance": 0.05
-                    },
-                    {
-                      "feature": {
-                        "config": {
-                          "decorators": [],
-                          "ignore_vines": false,
-                          "force_dirt": false,
-                          "dirt_provider": {
-                            "state": {
-                              "Name": "minecraft:dirt"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "minimum_size": {
-                            "limit": 0,
-                            "lower_size": 0,
-                            "upper_size": 0,
-                            "type": "minecraft:two_layers_feature_size"
-                          },
-                          "foliage_provider": {
-                            "state": {
-                              "Properties": {
-                                "persistent": "false",
-                                "distance": "7"
-                              },
-                              "Name": "minecraft:oak_leaves"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "sapling_provider": {
-                            "state": {
-                              "Properties": {
-                                "stage": "0"
-                              },
-                              "Name": "minecraft:oak_sapling"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "foliage_placer": {
-                            "radius": 2,
-                            "offset": 1,
-                            "height": 2,
-                            "type": "minecraft:bush_foliage_placer"
-                          },
-                          "trunk_provider": {
-                            "state": {
-                              "Properties": {
-                                "axis": "y"
-                              },
-                              "Name": "minecraft:jungle_log"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "trunk_placer": {
-                            "base_height": 1,
-                            "height_rand_a": 0,
-                            "height_rand_b": 0,
-                            "type": "minecraft:straight_trunk_placer"
-                          }
-                        },
-                        "type": "minecraft:tree"
-                      },
-                      "chance": 0.15
-                    },
-                    {
-                      "feature": {
-                        "config": {
-                          "decorators": [
-                            {
-                              "type": "minecraft:trunk_vine"
-                            },
-                            {
-                              "type": "minecraft:leave_vine"
-                            }
-                          ],
-                          "ignore_vines": false,
-                          "force_dirt": false,
-                          "dirt_provider": {
-                            "state": {
-                              "Name": "minecraft:dirt"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "minimum_size": {
-                            "limit": 1,
-                            "lower_size": 1,
-                            "upper_size": 2,
-                            "type": "minecraft:two_layers_feature_size"
-                          },
-                          "foliage_provider": {
-                            "state": {
-                              "Properties": {
-                                "persistent": "false",
-                                "distance": "7"
-                              },
-                              "Name": "minecraft:jungle_leaves"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "sapling_provider": {
-                            "state": {
-                              "Properties": {
-                                "stage": "0"
-                              },
-                              "Name": "minecraft:jungle_sapling"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "foliage_placer": {
-                            "radius": 2,
-                            "offset": 0,
-                            "height": 2,
-                            "type": "minecraft:jungle_foliage_placer"
-                          },
-                          "trunk_provider": {
-                            "state": {
-                              "Properties": {
-                                "axis": "y"
-                              },
-                              "Name": "minecraft:jungle_log"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "trunk_placer": {
-                            "base_height": 10,
-                            "height_rand_a": 2,
-                            "height_rand_b": 19,
-                            "type": "minecraft:mega_jungle_trunk_placer"
-                          }
-                        },
-                        "type": "minecraft:tree"
-                      },
-                      "chance": 0.7
-                    }
-                  ],
-                  "default": {
-                    "config": {
-                      "can_replace": false,
-                      "project": true,
-                      "need_water": false,
-                      "xspread": 7,
-                      "yspread": 3,
-                      "zspread": 7,
-                      "whitelist": [],
-                      "blacklist": [
-                        {
-                          "Properties": {
-                            "snowy": "false"
-                          },
-                          "Name": "minecraft:podzol"
-                        }
-                      ],
-                      "tries": 32,
-                      "state_provider": {
-                        "entries": [
-                          {
-                            "data": {
-                              "Name": "minecraft:grass"
-                            },
-                            "weight": 3
-                          },
-                          {
-                            "data": {
-                              "Name": "minecraft:fern"
-                            },
-                            "weight": 1
-                          }
-                        ],
-                        "type": "minecraft:weighted_state_provider"
-                      },
-                      "block_placer": {
-                        "type": "minecraft:simple_block_placer"
-                      }
-                    },
-                    "type": "minecraft:random_patch"
-                  }
-                },
-                "type": "minecraft:random_selector"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "outer": {
-                        "config": {
-                          "max_water_depth": 0
-                        },
-                        "type": "minecraft:water_depth_threshold"
-                      },
-                      "inner": {
-                        "config": {
-                          "heightmap": "OCEAN_FLOOR"
-                        },
-                        "type": "minecraft:heightmap"
-                      }
-                    },
-                    "type": "minecraft:decorated"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "count": 30,
-              "extra_chance": 0.1,
-              "extra_count": 1
-            },
-            "type": "minecraft:count_extra"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "feature": {
-                    "config": {
-                      "can_replace": false,
-                      "project": true,
-                      "need_water": false,
-                      "xspread": 7,
-                      "yspread": 3,
-                      "zspread": 7,
-                      "whitelist": [],
-                      "blacklist": [],
-                      "tries": 64,
-                      "state_provider": {
-                        "entries": [
-                          {
-                            "data": {
-                              "Name": "minecraft:poppy"
-                            },
-                            "weight": 2
-                          },
-                          {
-                            "data": {
-                              "Name": "minecraft:dandelion"
-                            },
-                            "weight": 1
-                          }
-                        ],
-                        "type": "minecraft:weighted_state_provider"
-                      },
-                      "block_placer": {
-                        "type": "minecraft:simple_block_placer"
-                      }
-                    },
-                    "type": "minecraft:flower"
-                  },
-                  "decorator": {
-                    "config": {},
-                    "type": "minecraft:spread_32_above"
-                  }
-                },
-                "type": "minecraft:decorated"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "heightmap": "MOTION_BLOCKING"
-                    },
-                    "type": "minecraft:heightmap"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "count": 4
-            },
-            "type": "minecraft:count"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "can_replace": false,
-                  "project": true,
-                  "need_water": false,
-                  "xspread": 7,
-                  "yspread": 3,
-                  "zspread": 7,
-                  "whitelist": [],
-                  "blacklist": [
-                    {
-                      "Properties": {
-                        "snowy": "false"
-                      },
-                      "Name": "minecraft:podzol"
-                    }
-                  ],
-                  "tries": 32,
-                  "state_provider": {
-                    "entries": [
-                      {
-                        "data": {
-                          "Name": "minecraft:grass"
-                        },
-                        "weight": 3
-                      },
-                      {
-                        "data": {
-                          "Name": "minecraft:fern"
-                        },
-                        "weight": 1
-                      }
-                    ],
-                    "type": "minecraft:weighted_state_provider"
-                  },
-                  "block_placer": {
-                    "type": "minecraft:simple_block_placer"
-                  }
-                },
-                "type": "minecraft:random_patch"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "heightmap": "MOTION_BLOCKING"
-                    },
-                    "type": "minecraft:heightmap_spread_double"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "count": 25
-            },
-            "type": "minecraft:count"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "can_replace": false,
-                  "project": false,
-                  "need_water": false,
-                  "xspread": 7,
-                  "yspread": 3,
-                  "zspread": 7,
-                  "whitelist": [],
-                  "blacklist": [],
-                  "tries": 64,
-                  "state_provider": {
-                    "state": {
-                      "Name": "minecraft:brown_mushroom"
-                    },
-                    "type": "minecraft:simple_state_provider"
-                  },
-                  "block_placer": {
-                    "type": "minecraft:simple_block_placer"
-                  }
-                },
-                "type": "minecraft:random_patch"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "heightmap": "MOTION_BLOCKING"
-                    },
-                    "type": "minecraft:heightmap_spread_double"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "chance": 4
-            },
-            "type": "minecraft:chance"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "can_replace": false,
-                  "project": false,
-                  "need_water": false,
-                  "xspread": 7,
-                  "yspread": 3,
-                  "zspread": 7,
-                  "whitelist": [],
-                  "blacklist": [],
-                  "tries": 64,
-                  "state_provider": {
-                    "state": {
-                      "Name": "minecraft:red_mushroom"
-                    },
-                    "type": "minecraft:simple_state_provider"
-                  },
-                  "block_placer": {
-                    "type": "minecraft:simple_block_placer"
-                  }
-                },
-                "type": "minecraft:random_patch"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "heightmap": "MOTION_BLOCKING"
-                    },
-                    "type": "minecraft:heightmap_spread_double"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "chance": 8
-            },
-            "type": "minecraft:chance"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "can_replace": false,
-                  "project": false,
-                  "need_water": true,
-                  "xspread": 4,
-                  "yspread": 0,
-                  "zspread": 4,
-                  "whitelist": [],
-                  "blacklist": [],
-                  "tries": 20,
-                  "state_provider": {
-                    "state": {
-                      "Properties": {
-                        "age": "0"
-                      },
-                      "Name": "minecraft:sugar_cane"
-                    },
-                    "type": "minecraft:simple_state_provider"
-                  },
-                  "block_placer": {
-                    "size": {
-                      "type": "minecraft:biased_to_bottom",
-                      "value": {
-                        "min_inclusive": 2,
-                        "max_inclusive": 4
-                      }
-                    },
-                    "type": "minecraft:column_placer"
-                  }
-                },
-                "type": "minecraft:random_patch"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "heightmap": "MOTION_BLOCKING"
-                    },
-                    "type": "minecraft:heightmap_spread_double"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "count": 10
-            },
-            "type": "minecraft:count"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "can_replace": false,
-                  "project": false,
-                  "need_water": false,
-                  "xspread": 7,
-                  "yspread": 3,
-                  "zspread": 7,
-                  "whitelist": [
-                    {
-                      "Properties": {
-                        "snowy": "false"
-                      },
-                      "Name": "minecraft:grass_block"
-                    }
-                  ],
-                  "blacklist": [],
-                  "tries": 64,
-                  "state_provider": {
-                    "state": {
-                      "Name": "minecraft:pumpkin"
-                    },
-                    "type": "minecraft:simple_state_provider"
-                  },
-                  "block_placer": {
-                    "type": "minecraft:simple_block_placer"
-                  }
-                },
-                "type": "minecraft:random_patch"
-              },
-              "decorator": {
-                "config": {
-                  "outer": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "inner": {
-                    "config": {
-                      "heightmap": "MOTION_BLOCKING"
-                    },
-                    "type": "minecraft:heightmap_spread_double"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "chance": 32
-            },
-            "type": "minecraft:chance"
           }
         },
         "type": "minecraft:decorated"
@@ -3095,99 +2521,12 @@
           }
         },
         "type": "minecraft:decorated"
-      },
+      }
+    ],
+    [
       {
-        "config": {
-          "feature": {
-            "config": {
-              "can_replace": true,
-              "project": false,
-              "need_water": false,
-              "xspread": 7,
-              "yspread": 3,
-              "zspread": 7,
-              "whitelist": [
-                {
-                  "Properties": {
-                    "snowy": "false"
-                  },
-                  "Name": "minecraft:grass_block"
-                }
-              ],
-              "blacklist": [],
-              "tries": 64,
-              "state_provider": {
-                "state": {
-                  "Name": "minecraft:melon"
-                },
-                "type": "minecraft:simple_state_provider"
-              },
-              "block_placer": {
-                "type": "minecraft:simple_block_placer"
-              }
-            },
-            "type": "minecraft:random_patch"
-          },
-          "decorator": {
-            "config": {
-              "outer": {
-                "config": {},
-                "type": "minecraft:square"
-              },
-              "inner": {
-                "config": {
-                  "heightmap": "MOTION_BLOCKING"
-                },
-                "type": "minecraft:heightmap_spread_double"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "feature": {
-                    "config": {},
-                    "type": "minecraft:vines"
-                  },
-                  "decorator": {
-                    "config": {
-                      "height": {
-                        "min_inclusive": {
-                          "absolute": 64
-                        },
-                        "max_inclusive": {
-                          "absolute": 100
-                        },
-                        "type": "minecraft:uniform"
-                      }
-                    },
-                    "type": "minecraft:range"
-                  }
-                },
-                "type": "minecraft:decorated"
-              },
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "count": 127
-            },
-            "type": "minecraft:count"
-          }
-        },
-        "type": "minecraft:decorated"
+        "config": {},
+        "type": "minecraft:freeze_top_layer"
       }
     ]
   ],
@@ -3240,56 +2579,14 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
-      },
-      {
-        "type": "minecraft:ocelot",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 1
       }
     ],
     "creature": [
       {
-        "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:parrot",
-        "weight": 40,
+        "type": "minecraft:goat",
+        "weight": 5,
         "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "minecraft:panda",
-        "weight": 80,
-        "minCount": 1,
-        "maxCount": 2
+        "maxCount": 3
       }
     ],
     "ambient": [
@@ -3315,8 +2612,8 @@
   },
   "spawn_costs": {},
   "player_spawn_friendly": false,
-  "precipitation": "rain",
-  "temperature": 0.95,
+  "precipitation": "snow",
+  "temperature": -0.7,
   "downfall": 0.9,
-  "category": "jungle"
+  "category": "mountain"
 }
