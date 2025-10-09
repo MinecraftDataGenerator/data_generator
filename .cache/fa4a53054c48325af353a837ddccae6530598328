@@ -1,4 +1,4 @@
-// 22w43a	2025-10-09T18:58:23.213094795	vanilla/Tags for minecraft:item
+// 22w44a	2025-10-09T18:57:49.65907074	vanilla/Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
@@ -43,7 +43,7 @@ c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/items/birch_logs.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/items/piglin_loved.json
-96ec35440ec938d4e8c994da68ec327de7e4cf85 data/minecraft/tags/items/non_flammable_wood.json
+88dbd252e813d6dcfac6f78445f442057079e749 data/minecraft/tags/items/non_flammable_wood.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/items/logs.json
 4d7b608c91d55324829c11f1861e797a47f33cb1 data/minecraft/tags/items/doors.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/items/dampens_vibrations.json
@@ -72,6 +72,7 @@ f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/items/terracotta.js
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/items/iron_ores.json
 75df44deafb1f627b674575d499833e104a43f2b data/minecraft/tags/items/piglin_food.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/items/warped_stems.json
+62c1dac5bff57dfd9d772660c6f687e6170e4c98 data/minecraft/tags/items/fence_gates.json
 bdb1ff9fc8b24f737e3d121d711574e8d779a3ff data/minecraft/tags/items/beacon_payment_items.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/items/completes_find_tree_tutorial.json
 d65ccc0a76745b7ae2fa8d612eaee0cab59052e9 data/minecraft/tags/items/fishes.json
