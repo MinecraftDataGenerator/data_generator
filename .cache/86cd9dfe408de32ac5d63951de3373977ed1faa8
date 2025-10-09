@@ -1,4 +1,5 @@
-// 23w14a	2025-10-09T18:55:39.676964434	vanilla/Tags for minecraft:block
+// 23w16a	2025-10-09T18:55:19.319469457	vanilla/Tags for minecraft:block
+69f20de402a1ee677f45ed7ac66d26648f7e07af data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
@@ -24,8 +25,8 @@ d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/blocks/soul_speed_b
 6d8c49aebfc6e8906a021084112fa9efdc950177 data/minecraft/tags/blocks/azalea_root_replaceable.json
 db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/tags/blocks/all_hanging_signs.json
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/blocks/beacon_base_blocks.json
-67df3d131da1d33d61e01fc631b5f07f9bbb8cbd data/minecraft/tags/blocks/trail_ruins_replaceable.json
-6ede28640bdf067c0ec2d1f9c2d26f166cb3a6c8 data/minecraft/tags/blocks/buttons.json
+d772e288e7520c6974ec3238c6aa3ecd2b8e686b data/minecraft/tags/blocks/trail_ruins_replaceable.json
+5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/blocks/buttons.json
 837bf053d44a820743fe76f981febdde02bc78a2 data/minecraft/tags/blocks/underwater_bonemeals.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/blocks/copper_ores.json
 aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/blocks/guarded_by_piglins.json
@@ -151,10 +152,11 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/blocks/axolotls_spa
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/blocks/dampens_vibrations.json
 e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/blocks/shulker_boxes.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/blocks/logs.json
+6685174532a27724f89c1480727a4ad880f6c586 data/minecraft/tags/blocks/stone_buttons.json
 8764a27533bd7e677a24f1061965a780b6b3e274 data/minecraft/tags/blocks/lava_pool_stone_cannot_replace.json
 b7d959a4eef7bbd9e6ce12e26764c3931088f42c data/minecraft/tags/blocks/wooden_buttons.json
 486861a8a01410d404ee129446a439a712b98156 data/minecraft/tags/blocks/fire.json
-fe877e8ce6716f505c15d20e6ee5caf885d4ae99 data/minecraft/tags/blocks/mineable/pickaxe.json
+a07a167420e56e46bebdbfdefc864f20a69a3190 data/minecraft/tags/blocks/mineable/pickaxe.json
 f70b5535522ee5d34a48303062041db7eb2fa4f1 data/minecraft/tags/blocks/features_cannot_replace.json
 f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/blocks/invalid_spawn_inside.json
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/blocks/infiniburn_nether.json
