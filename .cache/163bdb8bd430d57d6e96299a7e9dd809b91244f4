@@ -1,4 +1,4 @@
-// 1.21.6	2025-10-09T18:40:29.639865352	vanilla/Tags for minecraft:entity_type
+// 1.21.7 Release Candidate 1	2025-10-09T18:40:17.786731912	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -9,8 +9,8 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_tur
 c2c355dcc367a1c94022723aee37d206d3a355b7 data/minecraft/tags/entity_type/aquatic.json
 796cb0b0d476d27f30e1e3ba130863892df78c4f data/minecraft/tags/entity_type/sensitive_to_bane_of_arthropods.json
 33c59d9d681e158b1ccb6ea656e59ddc600e3f4c data/minecraft/tags/entity_type/freeze_hurts_extra_types.json
-fd03792012d037b2783775c9b14e51362fd43a4f data/minecraft/tags/entity_type/sensitive_to_impaling.json
 5e2d6dbd339cdc162f1bd13fa83d0ece1b6014d8 data/minecraft/tags/entity_type/immune_to_oozing.json
+fd03792012d037b2783775c9b14e51362fd43a4f data/minecraft/tags/entity_type/sensitive_to_impaling.json
 a8c7becc7c5d6e4b65492a5736c8fd7e72f795d3 data/minecraft/tags/entity_type/zombies.json
 0c157ccb1a92c29a058a397c45ebd78c34c5989a data/minecraft/tags/entity_type/fall_damage_immune.json
 e1f5049789bea1f0a8097f1e43c87fded291f85d data/minecraft/tags/entity_type/impact_projectiles.json
@@ -36,5 +36,5 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflect
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_type/axolotl_always_hostiles.json
 de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_type/illager_friends.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/non_controlling_rider.json
-e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json
+e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
