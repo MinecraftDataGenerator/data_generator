@@ -1,4 +1,4 @@
-// 24w04a	2025-10-09T18:51:07.285575303	update_1_21/Loot Tables
+// 24w05a	2025-10-09T18:51:06.653222166	update_1_21/Loot Tables
 53f871c6c8ca4081ae149472a78499146707f386 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_chiseled_copper.json
 b39330b4d8b2c4bb9b42c0607e46d748f496a8a6 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/exposed_copper_trapdoor.json
 8999cb5ca0996fa79065deab0509926ce1e456a2 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_copper_door.json
@@ -49,6 +49,7 @@ a573604ba57431807479cc8842e384e85e524344 data/minecraft/datapacks/update_1_21/da
 91671796f27f9561bbbcb2a28fe1ffe8257ba833 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/oxidized_copper_bulb.json
 0f05647317a96bf75d20807e094121d668553745 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_copper_grate.json
 d6441383998963fb0b9310b4fbbe2c9688cdc9d0 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/chests/trial_chambers/intersection.json
+c3a96598489b08d3c189e7d97bb9c0fd208a419f data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/vault.json
 1d14d5f5cf9c495f0c21ce1e748d3e8535b080ad data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_exposed_copper_grate.json
 174c26c1cf444a924beaa45fb71fe3527cc726e5 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/chiseled_copper.json
 79ffa53784da989a03f0669e72a69699e7a6dae9 data/minecraft/datapacks/update_1_21/data/minecraft/loot_tables/blocks/waxed_weathered_copper_trapdoor.json
