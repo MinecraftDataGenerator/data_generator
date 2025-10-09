@@ -1,4 +1,4 @@
-// 23w13a	2025-10-09T18:55:34.930809531	vanilla/Tags for minecraft:damage_type
+// 23w13a_or_b	2025-10-09T18:55:41.717168098	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -8,8 +8,8 @@ d1ee7bd9dc6ab495ba73da1f280cf19c3e54586f data/minecraft/tags/damage_type/always_
 7cd76ad914543bb87ec2c7cf7a975fe7e2e27fc6 data/minecraft/tags/damage_type/ignites_armor_stands.json
 ac073e5e6959bf2b2404445a5afc5a735f85f630 data/minecraft/tags/damage_type/is_fire.json
 bc03d5732e700f055089390e08de0be5d37237f4 data/minecraft/tags/damage_type/always_triggers_silverfish.json
-6101124bc5627eaec936e8be0b47f8e60b4f9afe data/minecraft/tags/damage_type/bypasses_effects.json
 d1ee7bd9dc6ab495ba73da1f280cf19c3e54586f data/minecraft/tags/damage_type/bypasses_invulnerability.json
+6101124bc5627eaec936e8be0b47f8e60b4f9afe data/minecraft/tags/damage_type/bypasses_effects.json
 4b0ff25ac9710bba227360b163292796db4500bf data/minecraft/tags/damage_type/bypasses_enchantments.json
 bc5340194c7d1616600fe468b01e6014a1508e97 data/minecraft/tags/damage_type/is_lightning.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/wither_immune_to.json
@@ -22,4 +22,4 @@ a4e6008470392ad067974af0347e8f452ec7e8e6 data/minecraft/tags/damage_type/bypasse
 b9db1487dd4ab90332c05a2e0602ff3f6a3b6c39 data/minecraft/tags/damage_type/is_explosion.json
 59e4d9b48c36b871448acba6a38fa7797b9371ad data/minecraft/tags/damage_type/witch_resistant_to.json
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
-8d558c979e3073b56f43a46199f1fedae301faa8 data/minecraft/tags/damage_type/bypasses_armor.json
+f1e78065a39c2414db0222e63292aacae92ed01a data/minecraft/tags/damage_type/bypasses_armor.json
