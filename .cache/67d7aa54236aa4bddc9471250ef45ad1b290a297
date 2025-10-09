@@ -1,4 +1,4 @@
-// 24w13a	2025-10-09T18:50:01.521646353	vanilla/Tags for minecraft:damage_type
+// 24w14potato	2025-10-09T18:49:52.185191409	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -9,9 +9,8 @@ d1ee7bd9dc6ab495ba73da1f280cf19c3e54586f data/minecraft/tags/damage_type/always_
 e673e2333c01fe75b4ec14f975e31e804ad1bae5 data/minecraft/tags/damage_type/no_knockback.json
 ac073e5e6959bf2b2404445a5afc5a735f85f630 data/minecraft/tags/damage_type/is_fire.json
 bc03d5732e700f055089390e08de0be5d37237f4 data/minecraft/tags/damage_type/always_triggers_silverfish.json
-6101124bc5627eaec936e8be0b47f8e60b4f9afe data/minecraft/tags/damage_type/bypasses_effects.json
 97bc06b51b83e660342256d2f473ef44b30ca235 data/minecraft/tags/damage_type/bypasses_invulnerability.json
-5ffa76b375d4236f1d832601fff778bc8ce15f51 data/minecraft/tags/damage_type/is_player_attack.json
+6101124bc5627eaec936e8be0b47f8e60b4f9afe data/minecraft/tags/damage_type/bypasses_effects.json
 4b0ff25ac9710bba227360b163292796db4500bf data/minecraft/tags/damage_type/bypasses_enchantments.json
 bc5340194c7d1616600fe468b01e6014a1508e97 data/minecraft/tags/damage_type/is_lightning.json
 c92ac0b7f9a0bcc2522fb816a726020416583be8 data/minecraft/tags/damage_type/bypasses_wolf_armor.json
@@ -21,10 +20,10 @@ ed55ab9d4f19e20aebacbdb89ee5e7c2984921d4 data/minecraft/tags/damage_type/avoids_
 30fe47513222085b4b02b7acf6efb697bba32e59 data/minecraft/tags/damage_type/no_anger.json
 9d3222a5a7a7f9cb1f718f7c36773b344ff02516 data/minecraft/tags/damage_type/is_fall.json
 5b4bea9cf71bdea9db4f9ed2fc3221bdc2137bfa data/minecraft/tags/damage_type/always_hurts_ender_dragons.json
-1324e0ed36e77ca3f072b86758c3325135b5c611 data/minecraft/tags/damage_type/is_projectile.json
+fe9889cab6bc06d4f8721e2ac97c1a78cd1f8824 data/minecraft/tags/damage_type/is_projectile.json
 a4e6008470392ad067974af0347e8f452ec7e8e6 data/minecraft/tags/damage_type/bypasses_shield.json
 b9db1487dd4ab90332c05a2e0602ff3f6a3b6c39 data/minecraft/tags/damage_type/is_explosion.json
 89acbddfce285561446f8037a41cc5f2e346392f data/minecraft/tags/damage_type/can_break_armor_stand.json
 59e4d9b48c36b871448acba6a38fa7797b9371ad data/minecraft/tags/damage_type/witch_resistant_to.json
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
-5441964aa5639486f1303b9eacba00a3b2a20659 data/minecraft/tags/damage_type/bypasses_armor.json
+03e6172fa7871701dc929ddd5efc70b743dfcc2a data/minecraft/tags/damage_type/bypasses_armor.json

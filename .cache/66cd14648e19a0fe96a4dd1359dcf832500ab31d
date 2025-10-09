@@ -1,11 +1,13 @@
-// 24w13a	2025-10-09T18:50:01.541173966	vanilla/Tags for minecraft:worldgen/structure
+// 24w14potato	2025-10-09T18:49:52.212181744	vanilla/Tags for minecraft:worldgen/structure
 a124e2034270a8639a98494959c2524661377ecc data/minecraft/tags/worldgen/structure/shipwreck.json
 f2401a25b1b014422c676d22732df78913b05497 data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json
 2e3ef883a0d81134c688c5a78b72dcc44dfa15be data/minecraft/tags/worldgen/structure/on_ocean_explorer_maps.json
 f2fcdb1c324a7e0da59584ee097fe514ea673fc4 data/minecraft/tags/worldgen/structure/mineshaft.json
+be3cd85b9296bc8d46c21364a47c40328201b449 data/minecraft/tags/worldgen/structure/colosseum.json
+e31f73fd032a475714f2c886f61985d2501ba6a9 data/minecraft/tags/worldgen/structure/ruined_portatol.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/cats_spawn_in.json
 660fa58aaa3b6fccf42dbabaf13d5dc3f49bc73d data/minecraft/tags/worldgen/structure/ocean_ruin.json
-f601732bcb221c84402a118279c904ef0f01d3a9 data/minecraft/tags/worldgen/structure/village.json
+7c93e908f8eac3927090ea63019f25682b688f05 data/minecraft/tags/worldgen/structure/village.json
 bdbef1e5398bebdc50384225edce07692966829c data/minecraft/tags/worldgen/structure/eye_of_ender_located.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/cats_spawn_as_black.json
 db7acc9f9e931ed7a41f2b2c96466edd7e528acc data/minecraft/tags/worldgen/structure/on_treasure_maps.json
