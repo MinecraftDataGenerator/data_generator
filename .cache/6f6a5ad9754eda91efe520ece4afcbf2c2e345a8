@@ -1,4 +1,4 @@
-// 1.20.3 Release Candidate 1	2025-10-09T18:51:54.58267766	update_1_21/Tags for minecraft:entity_type
+// 1.20.3	2025-10-09T18:51:39.368702852	update_1_21/Tags for minecraft:entity_type
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/deflects_tridents.json
 bb60f484beb4987b151845a8c5ab1e00c4b5afda data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/impact_projectiles.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/fall_damage_immune.json

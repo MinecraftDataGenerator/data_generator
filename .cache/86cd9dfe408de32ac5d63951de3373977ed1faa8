@@ -1,4 +1,4 @@
-// 1.20.3 Release Candidate 1	2025-10-09T18:51:54.575689628	vanilla/Tags for minecraft:block
+// 1.20.3	2025-10-09T18:51:39.36104906	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -164,8 +164,8 @@ f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/blocks/invalid_spaw
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/blocks/infiniburn_nether.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/blocks/emerald_ores.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/blocks/valid_spawn.json
-35fe618c61441f3d81e2e483e2ab88847ac90a63 data/minecraft/tags/blocks/ceiling_hanging_signs.json
 7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/blocks/portals.json
+35fe618c61441f3d81e2e483e2ab88847ac90a63 data/minecraft/tags/blocks/ceiling_hanging_signs.json
 166b1b2932705a5eb271b0c3794389ec79c1ff4e data/minecraft/tags/blocks/replaceable_by_trees.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/blocks/wool_carpets.json
 4476daf1680a6b8450abbcceca6f3c418c0a54c9 data/minecraft/tags/blocks/needs_stone_tool.json
