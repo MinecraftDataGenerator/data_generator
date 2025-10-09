@@ -1,9 +1,9 @@
-// 1.21.8 Release Candidate 1	2025-10-09T18:40:03.328999987	vanilla/Tags for minecraft:damage_type
+// 1.21.8	2025-10-09T18:39:58.640652259	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
-fcafed271dc1cb0433d0273e880103fa82e16800 data/minecraft/tags/damage_type/mace_smash.json
 97bc06b51b83e660342256d2f473ef44b30ca235 data/minecraft/tags/damage_type/bypasses_resistance.json
+fcafed271dc1cb0433d0273e880103fa82e16800 data/minecraft/tags/damage_type/mace_smash.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/is_drowning.json
 d1ee7bd9dc6ab495ba73da1f280cf19c3e54586f data/minecraft/tags/damage_type/always_most_significant_fall.json
 21d1d8c6c9d191148549fec95848f0c6cb1d14bc data/minecraft/tags/damage_type/ignites_armor_stands.json
