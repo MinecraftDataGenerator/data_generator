@@ -1,4 +1,4 @@
-// 22w45a	2025-10-09T18:57:47.741136925	vanilla/Advancements
+// 22w46a	2025-10-09T18:57:46.285801518	vanilla/Advancements
 61e094f20c0a1ffded1d2afd56ed73b91f208acb data/minecraft/advancements/story/form_obsidian.json
 58a7425ba29da8fa13dac1ffa9ce97ea9f520f6a data/minecraft/advancements/nether/fast_travel.json
 05f92e856a7e927bef6cd6df4c6bc274dfb3b592 data/minecraft/advancements/story/enter_the_nether.json
@@ -67,7 +67,7 @@ f430da89a739bbf2306514e790427ff143351a31 data/minecraft/advancements/adventure/t
 f02fe68690b143dfc4364cb25fb8bc5b72578475 data/minecraft/advancements/husbandry/fishy_business.json
 adf838eee7b794b6da80b375b0f880c45ce2d9d4 data/minecraft/advancements/nether/summon_wither.json
 97e56ccf230c07067339d7cc1aa560942ca08431 data/minecraft/advancements/adventure/honey_block_slide.json
-e6313943cbbece728b8546d4b1b7f45646ae1c34 data/minecraft/advancements/husbandry/make_a_sign_glow.json
+9286dbdbdcce32d43e2d1d729c4fab0a6c49930a data/minecraft/advancements/husbandry/make_a_sign_glow.json
 577e7b8275da52c5018a631b61ab80ff643e6500 data/minecraft/advancements/husbandry/allay_deliver_cake_to_note_block.json
 8a3eeb3e438c48eabb8744959e1258018d0fce97 data/minecraft/advancements/nether/all_effects.json
 b5cc50ab2856125a2c13bb53ff39f295b372a050 data/minecraft/advancements/story/lava_bucket.json

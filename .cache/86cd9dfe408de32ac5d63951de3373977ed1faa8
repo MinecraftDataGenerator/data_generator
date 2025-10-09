@@ -1,4 +1,4 @@
-// 22w45a	2025-10-09T18:57:47.752218758	vanilla/Tags for minecraft:block
+// 22w46a	2025-10-09T18:57:46.320093439	vanilla/Tags for minecraft:block
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -82,6 +82,7 @@ f90b8e6674252583fae1583255b371b3c95c36d5 data/minecraft/tags/blocks/mooshrooms_s
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/blocks/candles.json
 d2375906c01a0a6134fb562cd021a2cc424f16af data/minecraft/tags/blocks/flowers.json
 be3b67ad5e9730b47d52a3232c1c97093903de73 data/minecraft/tags/blocks/replaceable_plants.json
+50958f9e6ceaaa64e8d4f3782c3ea625400eab0d data/minecraft/tags/blocks/all_signs.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/blocks/terracotta.json
 d53e5fb9471e3397d108235f6b89b75bf45962e9 data/minecraft/tags/blocks/wooden_pressure_plates.json
 c2b28c0ec59c7268d451b0fb6e852b3d8db182a6 data/minecraft/tags/blocks/snow.json
@@ -117,7 +118,6 @@ f46daef72cebb7ee09a3d1e4971b314ffd7f0352 data/minecraft/tags/blocks/dragon_trans
 ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/blocks/mushroom_grow_block.json
 cba49c35a530041b3da1cb5d68a0a7ebcc1361cb data/minecraft/tags/blocks/mineable/hoe.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/blocks/stone_bricks.json
-8e1f9955213a1b744d739c105d900570d6529fa4 data/minecraft/tags/blocks/stripped_logs.json
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/blocks/foxes_spawnable_on.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/blocks/gold_ores.json
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/blocks/snaps_goat_horn.json

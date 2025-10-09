@@ -1,4 +1,4 @@
-// 22w45a	2025-10-09T18:57:47.749626107	vanilla/Loot Tables
+// 22w46a	2025-10-09T18:57:46.316513808	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -629,8 +629,8 @@ ed660ff584e3ca0b4f0ae48e1fc35a750883e26a data/minecraft/loot_tables/blocks/pink_
 c121aaaa298d1f890f1056e5a7ecbeb078c7e3b2 data/minecraft/loot_tables/blocks/brain_coral_fan.json
 53a4da6c952573da6a75378c511ac0216683f069 data/minecraft/loot_tables/blocks/fern.json
 09e2aeb6a844bc4a1c9b09b0967bccff488bff9e data/minecraft/loot_tables/blocks/orange_terracotta.json
-ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/allay.json
 46458fdd90dcc2b00da1fbd3227cc16b3dbe90bf data/minecraft/loot_tables/blocks/oak_planks.json
+ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/allay.json
 a5718019fde82bf22976565ebf5c51f825eb14b0 data/minecraft/loot_tables/blocks/rose_bush.json
 dfeb58641b754faaf4953f741ec2f243286e49e5 data/minecraft/loot_tables/blocks/potted_cornflower.json
 ce00f480f5968d8b12ad7fb939d376fdd8ba47e4 data/minecraft/loot_tables/blocks/spruce_wood.json
@@ -901,6 +901,7 @@ d351bc4433c079930d8ec03fbfb524ea4aa333c3 data/minecraft/loot_tables/blocks/pink_
 1a274e7920341bcf7bda0d2bc1789cbc5a079949 data/minecraft/loot_tables/entities/rabbit.json
 7e530e35f8041fb294c05279921530c06bb14b4f data/minecraft/loot_tables/blocks/sand.json
 8d7a62606de746d315b8f4e238bb721e5cb2bd83 data/minecraft/loot_tables/blocks/yellow_stained_glass.json
+01d6aaae619e874663b8c4ec7c49465ea3b835df data/minecraft/loot_tables/blocks/piglin_head.json
 ce7a0b19116b0deda00f5965eb8f47e106c9d95f data/minecraft/loot_tables/blocks/warped_door.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/powder_snow.json
 88295f6360f9c274c88e1af47f5cca851fe539f8 data/minecraft/loot_tables/blocks/lime_banner.json
