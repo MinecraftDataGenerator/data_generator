@@ -1,4 +1,4 @@
-// 24w21a	2025-10-09T18:48:36.171206692	vanilla/Tags for minecraft:block
+// 24w21b	2025-10-09T18:47:46.084323867	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -35,9 +35,9 @@ b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/block/bamboo_blocks
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/block/dark_oak_logs.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/block/redstone_ores.json
 5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/block/beds.json
-11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/block/iron_ores.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/block/frog_prefer_jump_to.json
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/block/snaps_goat_horn.json
+11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/block/iron_ores.json
 f3c100849b1d6689faf68c8e058b3889b1ad6737 data/minecraft/tags/block/wooden_doors.json
 4b3a4c310cf37ae02e8a2814af654638cdaecaa5 data/minecraft/tags/block/base_stone_overworld.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/block/jungle_logs.json
@@ -159,8 +159,8 @@ de497bdbd607638702d22bef902ced0dabe1d293 data/minecraft/tags/block/stairs.json
 19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/block/mangrove_logs.json
 274c899ecd90e93185a6b2d7bf84123a67af63db data/minecraft/tags/block/enderman_holdable.json
 e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/block/snow_layer_can_survive_on.json
-d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/soul_speed_blocks.json
 864b82c0176addd3a0a560b4bfb7cfd232de8a9e data/minecraft/tags/block/hoglin_repellents.json
+d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/soul_speed_blocks.json
 5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/block/deepslate_ore_replaceables.json
 01c83076a79daac23b51bcb33b623b81a2c21856 data/minecraft/tags/block/needs_diamond_tool.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/block/birch_logs.json

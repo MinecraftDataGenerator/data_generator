@@ -1,4 +1,4 @@
-// 24w21a	2025-10-09T18:48:36.167066631	vanilla/Tags for minecraft:item
+// 24w21b	2025-10-09T18:47:46.080229856	vanilla/Tags for minecraft:item
 82edd6d1ec8e7fe75b955b3a41a45d38cc77c262 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -24,8 +24,8 @@ bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/ar
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64cced731059717fbae6969a456ba5a8fe08d5ad data/minecraft/tags/item/bookshelf_books.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/item/piglin_loved.json
-daec9f32b34c685d972f66ea58ffc7ef3fc977a5 data/minecraft/tags/item/wooden_fences.json
 3e070569b31d1100ac334efd44a58e52df25df1a data/minecraft/tags/item/flowers.json
+daec9f32b34c685d972f66ea58ffc7ef3fc977a5 data/minecraft/tags/item/wooden_fences.json
 5271e7aa01a851b891fdc27fcc241414309798ee data/minecraft/tags/item/chest_armor.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/item/birch_logs.json
 91c876271eaad016f609198a3c95f649ddc3344a data/minecraft/tags/item/hoes.json
@@ -110,8 +110,8 @@ e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_m
 6685174532a27724f89c1480727a4ad880f6c586 data/minecraft/tags/item/stone_buttons.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
 1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
-ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
 17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
+ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
 504b82b5cf5555c70a8dea493720a2a5139f1e55 data/minecraft/tags/item/fence_gates.json
 e6ec9c5c82db2c7ca6c3a9f643df2dac9f4967db data/minecraft/tags/item/slabs.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/item/crimson_stems.json
