@@ -1,4 +1,4 @@
-// 23w12a	2025-10-09T18:55:55.274251525	vanilla/Advancements
+// 23w13a	2025-10-09T18:55:34.930056951	vanilla/Advancements
 61e094f20c0a1ffded1d2afd56ed73b91f208acb data/minecraft/advancements/story/form_obsidian.json
 58a7425ba29da8fa13dac1ffa9ce97ea9f520f6a data/minecraft/advancements/nether/fast_travel.json
 05f92e856a7e927bef6cd6df4c6bc274dfb3b592 data/minecraft/advancements/story/enter_the_nether.json
@@ -12,7 +12,7 @@ dc9a52f39d225e229fd72e7a93598b9020fedd41 data/minecraft/advancements/nether/find
 17959395f6132ab380dc426cabd2429e9d01c2e3 data/minecraft/advancements/husbandry/froglights.json
 9f9bab1726cd6440688972cb819954050148380c data/minecraft/advancements/husbandry/kill_axolotl_target.json
 219fb906bee54d2d59b594781af925fc4f0627c5 data/minecraft/advancements/nether/distract_piglin.json
-e891b3653957c19a9126cc96dfac3ac9f3e213fd data/minecraft/advancements/husbandry/bred_all_animals.json
+84d81ce8a1f22066515f033b9c21c8cb877f04f1 data/minecraft/advancements/husbandry/bred_all_animals.json
 8908143f04cbc12bde544ab2a8d83967103f37f0 data/minecraft/advancements/nether/ride_strider.json
 01e14daa3e7fcd11f91b61ce854846e2deec98c5 data/minecraft/advancements/husbandry/obtain_netherite_hoe.json
 5e7f93a900e49c5b0131e77902cb1714052030b6 data/minecraft/advancements/nether/return_to_sender.json
@@ -34,7 +34,7 @@ f0a5154c3d432a23a2ba357327a754332df640da data/minecraft/advancements/adventure/s
 34242da696e226511f6df53c176ac3abc819a7d3 data/minecraft/advancements/adventure/root.json
 163879c8d9eb4d5d420930f82d40c9269f99b5bb data/minecraft/advancements/husbandry/complete_catalogue.json
 8f08b04bb7e3ca7b10fae0a2df09958fa1237e0b data/minecraft/advancements/adventure/kill_all_mobs.json
-5f33614d15590cd396cbfff9273fa72f602d5add data/minecraft/advancements/husbandry/plant_seed.json
+4115daa1879b65413821cc24b58a5cf07ea22e8e data/minecraft/advancements/husbandry/plant_seed.json
 b5948aa225bd4ef1b4e4b7a12de3c33f200823a3 data/minecraft/advancements/adventure/fall_from_world_height.json
 1e0a3daf05faf4f906b47c6e432ef449edc1cb66 data/minecraft/advancements/adventure/spyglass_at_parrot.json
 9077927f3b3b43b295dbc5cdfa6e26845c4ed255 data/minecraft/advancements/story/smelt_iron.json

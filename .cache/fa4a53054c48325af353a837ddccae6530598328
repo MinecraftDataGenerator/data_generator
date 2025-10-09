@@ -1,4 +1,4 @@
-// 23w12a	2025-10-09T18:55:55.284558388	vanilla/Tags for minecraft:item
+// 23w13a	2025-10-09T18:55:34.942500466	vanilla/Tags for minecraft:item
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
@@ -24,7 +24,7 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/smelts_to_gla
 29bd5ab148d15d405e857a8e2cb900ae069b0655 data/minecraft/tags/items/axes.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/items/oak_logs.json
 4f49148d36d536b952bb03d660de61d68f361e1b data/minecraft/tags/items/music_discs.json
-7f07892c2d48d32709c36a0538e4bbf9adf96123 data/minecraft/tags/items/tall_flowers.json
+002a1f0e0b109cd883572ac23180e47312fdd8bb data/minecraft/tags/items/tall_flowers.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/items/wooden_slabs.json
 96ec35440ec938d4e8c994da68ec327de7e4cf85 data/minecraft/tags/items/non_flammable_wood.json
@@ -70,8 +70,8 @@ a29ec90520f525468f28a70148124fd85ce81a1a data/minecraft/tags/items/wooden_stairs
 0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/items/wooden_trapdoors.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/items/spruce_logs.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/items/fences.json
-c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.json
 5077a13d64733dabbf06096540da79548431f405 data/minecraft/tags/items/saplings.json
+c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/items/piglin_loved.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/items/birch_logs.json
 b659daa5aa6d07472c8191c9548c70e2239d56ac data/minecraft/tags/items/breaks_decorated_pots.json
