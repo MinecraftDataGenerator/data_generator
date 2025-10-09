@@ -35,7 +35,7 @@ jobs:
           # Start processing from this version onwards (inclusive).
           START_VERSION: "1.21.10"
           MANIFEST_URL: "https://launchermeta.mojang.com/mc/game/version_manifest.json"
-          GH_TOKEN: ${{ secrets.GH_PAT }} # Token for pushing new branches
+          GH_TOKEN: ${{ secrets.PAT }} # Token for pushing new branches
           REPO_URL: ${{ github.server_url }}/${{ github.repository }}
 
         run: |
@@ -51,17 +51,26 @@ jobs:
           
           # --- 1. Versionen filtern und in die korrekte Reihenfolge bringen (Alt -> Neu) ---
           
-          echo "Filtere Versionen, die neuer oder gleich $START_VERSION sind und kehre die Reihenfolge um (Alt -> Neu)..."
+          echo "Suche den Index der START_VERSION ($START_VERSION)..."
 
-          # Korrigierte jq-Logik:
-          # 1. Filtern: Behalte nur Versionen, deren ID >= START_VERSION ist.
-          # 2. Umkehren: Die Liste wird von Neu nach Alt zu Alt nach Neu.
-          # 3. .[] : Erzeugt ein einzelnes JSON-Objekt pro Zeile für die Bash-Schleife.
-          VERSIONS_JSON=$(echo "$MANIFEST" | jq -c --arg start "$START_VERSION" '
+          # Nutze jq, um den Index zu finden, an dem START_VERSION liegt.
+          # Das Manifest ist chronologisch sortiert (Index 0 = neueste Version).
+          START_INDEX=$(echo "$MANIFEST" | jq -r --arg start "$START_VERSION" '.versions | map(.id) | index($start)')
+          
+          if [ "$START_INDEX" == "null" ]; then
+            echo "Fehler: Die angegebene START_VERSION ($START_VERSION) wurde im Versions-Manifest nicht gefunden. Synch wird abgebrochen."
+            exit 0
+          fi
+          
+          echo "START_VERSION ($START_VERSION) gefunden bei Index: $START_INDEX. Verarbeite ab dieser Version."
+          
+          # Wende die indexbasierte Logik an (Slice von 0 bis zum gefundenen Index, dann umkehren).
+          # Das Ergebnis ist eine Liste der zu verarbeitenden Versionen, sortiert von Alt nach Neu.
+          VERSIONS_JSON=$(echo "$MANIFEST" | jq -c --argjson start_index "$START_INDEX" '
             .versions 
-            | map(select(.id >= $start))
-            | reverse
-            | .[]
+            | .[0 : $start_index + 1]  # Slice von Index 0 bis zum START_INDEX (inklusive)
+            | reverse                  # Kehrt die Reihenfolge um: jetzt von Alt nach Neu
+            | .[]                      # Erzeugt einzelne Objekte für die Bash-Schleife
           ')
 
           if [ -z "$VERSIONS_JSON" ]; then
