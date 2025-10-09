@@ -1,4 +1,4 @@
-// 25w06a	2025-10-09T18:43:50.137763648	vanilla/Tags for minecraft:block
+// 25w07a	2025-10-09T18:43:38.248815935	vanilla/Tags for minecraft:block
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/block/bee_attractive.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 e58f5fa3c4fe3090b27304fa8f3c92e23594f085 data/minecraft/tags/block/flower_pots.json
@@ -90,7 +90,7 @@ a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/block/beacon_base_blocks.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
-c9d861b38e22fdd65e5f2f912d6e7006093fbce9 data/minecraft/tags/block/replaceable.json
+2ca047cde5b9d64093297e688b437467612e0600 data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
 45bb9869c8765a149d367b37f30de3aa7b649c59 data/minecraft/tags/block/dirt.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
@@ -117,6 +117,7 @@ c0b9472da044676739361fd55bc4d413e485144e data/minecraft/tags/block/blocks_wind_c
 db6195d77bd598771b111d12750ba39f41fe35c7 data/minecraft/tags/block/strider_warm_blocks.json
 0f12416e29c47a8dd09b45231993f21c8a0215c6 data/minecraft/tags/block/azalea_grows_on.json
 7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/block/portals.json
+c1b2a217bb3fcb7e1d67f5bc45409796720bd171 data/minecraft/tags/block/camels_spawnable_on.json
 4ffaa49e8fe60af1f5992d2fdb73e4b1bc5fcf98 data/minecraft/tags/block/crops.json
 f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/block/fall_damage_resetting.json
 9fa8e169d8e22baeaa4b0c96ba6ab87ab881a4cd data/minecraft/tags/block/wolves_spawnable_on.json

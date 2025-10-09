@@ -1,4 +1,4 @@
-// 25w06a	2025-10-09T18:43:50.132226548	vanilla/Tags for minecraft:item
+// 25w07a	2025-10-09T18:43:38.244617434	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -140,8 +140,8 @@ bbcda30a5477d8d755f8616657a02ca84f075965 data/minecraft/tags/item/head_armor.jso
 d5819c82fddfaf937dbe9ed568e87f1206349f8d data/minecraft/tags/item/wither_skeleton_disliked_weapons.json
 7e52d9f1e5b59cae0cac0f1095fd3cbe94be375f data/minecraft/tags/item/enchantable/foot_armor.json
 45a97050e7cb3ad898e1fe68248500278f7e37c9 data/minecraft/tags/item/eggs.json
-ec1e5e186c92959fded287ecc70517d940073a3d data/minecraft/tags/item/wooden_trapdoors.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glass.json
+ec1e5e186c92959fded287ecc70517d940073a3d data/minecraft/tags/item/wooden_trapdoors.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/item/dampens_vibrations.json
 6b369f3e01c478f5ecb879b9b5d66757d78e5a8f data/minecraft/tags/item/enchantable/head_armor.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/drowned_preferred_weapons.json
