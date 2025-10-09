@@ -1,4 +1,4 @@
-// 1.20 Pre-release 1	2025-10-09T18:54:59.953261026	vanilla/Tags for minecraft:block
+// 1.20 Pre-release 2	2025-10-09T18:54:54.742742514	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -81,7 +81,7 @@ c0373adadbd97eced4b1af5cf94d7644a303fc3c data/minecraft/tags/blocks/wolves_spawn
 17bf02f1662de477e421a897a9b1a092da3fd1b4 data/minecraft/tags/blocks/candle_cakes.json
 d7741a7bcdab6fbdbc9c931e88576a038a1562ed data/minecraft/tags/blocks/wither_immune.json
 2d97a7b26d2a65b8dab30789033841371c7361d4 data/minecraft/tags/blocks/enchantment_power_transmitter.json
-0366ae3000004fdacb38f3c18d4beb042cf43b67 data/minecraft/tags/blocks/replaceable.json
+d0686ee5ec85947de2ce509c6d6b849983ea8d0e data/minecraft/tags/blocks/replaceable.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/blocks/base_stone_nether.json
 5077a13d64733dabbf06096540da79548431f405 data/minecraft/tags/blocks/saplings.json
 daec9f32b34c685d972f66ea58ffc7ef3fc977a5 data/minecraft/tags/blocks/wooden_fences.json

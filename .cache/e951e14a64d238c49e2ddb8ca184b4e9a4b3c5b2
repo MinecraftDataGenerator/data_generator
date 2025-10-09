@@ -1,4 +1,4 @@
-// 1.20 Pre-release 1	2025-10-09T18:54:59.937985842	vanilla/Advancements
+// 1.20 Pre-release 2	2025-10-09T18:54:54.72652602	vanilla/Advancements
 55f7468b0019b9ab85a55597b4250a19cdb7b9ac data/minecraft/advancements/story/form_obsidian.json
 fbf5d35e642be2b7c281ccc751e44faa8e4a72e3 data/minecraft/advancements/nether/fast_travel.json
 cde06b9ba0da7a8b778f40c4d12f1fb256c70a3d data/minecraft/advancements/story/enter_the_nether.json
@@ -33,7 +33,7 @@ f8bf25203a65b10df1e57dd43740088388b26215 data/minecraft/advancements/end/levitat
 f823f55de1ca4cc137b739d5c03505ca8bb72e56 data/minecraft/advancements/husbandry/wax_on.json
 a68ab800877cf19308370824a531cd1b12fd9050 data/minecraft/advancements/nether/ride_strider_in_overworld_lava.json
 ea38678acbc7617ccef670f8414ca367b364ba00 data/minecraft/advancements/adventure/root.json
-85e0bd835f91ecdb6c505ba90eab57e88bbc3aaf data/minecraft/advancements/adventure/trim_with_any_armor_pattern.json
+d5d69cbf23cf418fef768d29b699f92318ea32d1 data/minecraft/advancements/adventure/trim_with_any_armor_pattern.json
 8f69ddd8acd694877e643cf7d8d8d6469448fac0 data/minecraft/advancements/husbandry/complete_catalogue.json
 f895ff1b569252ddcff32665cfb2b7fdfb0c6d6f data/minecraft/advancements/adventure/kill_all_mobs.json
 ca680d6c4896e99b53c0dd380c4c6adf3d1c27c6 data/minecraft/advancements/husbandry/plant_seed.json
