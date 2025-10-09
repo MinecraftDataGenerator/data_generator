@@ -1,10 +1,10 @@
-// 1.20.3 Pre-Release 2	2025-10-09T18:52:04.737632599	vanilla/Tags for minecraft:block
+// 1.20.3 Pre-Release 3	2025-10-09T18:52:00.18872324	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
-e1aa1c0a968ded1719ec54dfd3d540a19ab16f67 data/minecraft/tags/blocks/coral_plants.json
 c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/blocks/convertable_to_mud.json
+e1aa1c0a968ded1719ec54dfd3d540a19ab16f67 data/minecraft/tags/blocks/coral_plants.json
 a29ec90520f525468f28a70148124fd85ce81a1a data/minecraft/tags/blocks/wooden_stairs.json
 1414de47b2bc0b959544ff1a82317739d339fe79 data/minecraft/tags/blocks/slabs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/blocks/wither_summon_base_blocks.json
@@ -76,8 +76,8 @@ c0373adadbd97eced4b1af5cf94d7644a303fc3c data/minecraft/tags/blocks/wolves_spawn
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/blocks/anvil.json
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/blocks/coal_ores.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/blocks/warped_stems.json
-45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/blocks/sand.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/blocks/cauldrons.json
+45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/blocks/sand.json
 17bf02f1662de477e421a897a9b1a092da3fd1b4 data/minecraft/tags/blocks/candle_cakes.json
 d7741a7bcdab6fbdbc9c931e88576a038a1562ed data/minecraft/tags/blocks/wither_immune.json
 2d97a7b26d2a65b8dab30789033841371c7361d4 data/minecraft/tags/blocks/enchantment_power_transmitter.json
@@ -131,8 +131,8 @@ f46daef72cebb7ee09a3d1e4971b314ffd7f0352 data/minecraft/tags/blocks/dragon_trans
 47430d117fba512dfb622420bab8681888a6f36b data/minecraft/tags/blocks/sniffer_diggable_block.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/blocks/spruce_logs.json
 ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/blocks/mushroom_grow_block.json
-1453f438eb3d9c927ef0ed9433a465869cd7b459 data/minecraft/tags/blocks/mineable/hoe.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/blocks/concrete_powder.json
+1453f438eb3d9c927ef0ed9433a465869cd7b459 data/minecraft/tags/blocks/mineable/hoe.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/blocks/stone_bricks.json
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/blocks/foxes_spawnable_on.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/blocks/gold_ores.json
