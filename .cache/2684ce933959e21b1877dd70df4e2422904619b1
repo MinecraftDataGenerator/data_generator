@@ -1,4 +1,4 @@
-// 1.20.3 Pre-Release 4	2025-10-09T18:51:54.940575715	vanilla/Recipes
+// 1.20.3 Release Candidate 1	2025-10-09T18:51:54.578416639	vanilla/Recipes
 e98b5bd0f62d82fa4c9bf9527549f53d55efa9bf data/minecraft/advancements/recipes/redstone/oak_pressure_plate.json
 5800c1f05a328e7d3dc1d876d398e373af5419e9 data/minecraft/recipes/end_stone_brick_wall_from_end_stone_stonecutting.json
 452e29e846a70748128658b88369902ada4c3096 data/minecraft/advancements/recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting.json
@@ -1753,8 +1753,8 @@ e7ac98d2763d835ea47d9fb0dd1b3a31c317cdbd data/minecraft/advancements/recipes/dec
 add81a2a7ef27b8bdd3e51c10b44a10a7f2f70a9 data/minecraft/advancements/recipes/building_blocks/stripped_crimson_hyphae.json
 e173f52e6cc278f8a8df2ac1929c4fa42a6bfd1a data/minecraft/recipes/dye_lime_bed.json
 d0cbcf3dab981f04f3c66f958e9dc7a53681cb9d data/minecraft/recipes/nether_brick_stairs_from_nether_bricks_stonecutting.json
-cc9d4c18a220f46f26b24b2cd41efd88434f0e91 data/minecraft/recipes/light_blue_terracotta.json
 7db38436f674c3ba527df9d67c443d51b1e30616 data/minecraft/recipes/red_stained_glass_pane_from_glass_pane.json
+cc9d4c18a220f46f26b24b2cd41efd88434f0e91 data/minecraft/recipes/light_blue_terracotta.json
 05262dabc24ccfff4f5f69dd8c2c3096cd6f0633 data/minecraft/recipes/cyan_carpet.json
 d81fed700837d5212ae973d7f71206616d4ee755 data/minecraft/advancements/recipes/decorations/lime_bed.json
 fe0de32c87de3249110034f87e527cd52cd5c857 data/minecraft/recipes/diorite_stairs_from_diorite_stonecutting.json

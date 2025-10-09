@@ -1,4 +1,4 @@
-// 1.20.3 Pre-Release 4	2025-10-09T18:51:54.934109713	vanilla/Tags for minecraft:item
+// 1.20.3 Release Candidate 1	2025-10-09T18:51:54.572046537	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
@@ -12,8 +12,8 @@ cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/items/boats.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/items/rails.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
-37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
 31bf5be4d9eb1f3bc41d3724eb215f232d5e2b7a data/minecraft/tags/items/trimmable_armor.json
+37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/items/cherry_logs.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/smelts_to_glass.json
 45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/items/sand.json
@@ -86,8 +86,8 @@ b659daa5aa6d07472c8191c9548c70e2239d56ac data/minecraft/tags/items/breaks_decora
 4b636e8a202b80de17ec8352bba191763ed63d3c data/minecraft/tags/items/wooden_doors.json
 555cdf03117de10eb8274ffe28d2304a4d7bfb9f data/minecraft/tags/items/shovels.json
 642497f10f9b4cd17f0596ccd068a662779a5143 data/minecraft/tags/items/logs_that_burn.json
-49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/items/anvil.json
 1c87ccc74dfac728b91e56665ae8157fe7811dd1 data/minecraft/tags/items/trim_templates.json
+49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/items/anvil.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/items/emerald_ores.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/items/wool_carpets.json
 75df44deafb1f627b674575d499833e104a43f2b data/minecraft/tags/items/piglin_food.json
