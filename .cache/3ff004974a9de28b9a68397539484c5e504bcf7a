@@ -1,7 +1,7 @@
-// 23w04a	2025-10-09T18:56:55.471316144	update_1_20/Tags for minecraft:item
+// 23w05a	2025-10-09T18:56:53.800005174	update_1_20/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/noteblock_top_instruments.json
 3d837c46340b320b8d0d76fdf5382864fb7a10ce data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_buttons.json
-70161c884fa636855d97fa62850db1ad2643791f data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/trimmable_armor.json
+31bf5be4d9eb1f3bc41d3724eb215f232d5e2b7a data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/trimmable_armor.json
 608cae16af01ec50af4a76fd0fab026831be813e data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/trim_materials.json
 7d1351b32f1bb2f621598e4a26a32a85c86f4d5f data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_pressure_plates.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/doors.json
