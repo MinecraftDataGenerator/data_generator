@@ -1,4 +1,4 @@
-// 1.19.3 Pre-release 1	2025-10-09T18:57:42.129094549	update_1_20/Recipes
+// 1.19.3 Pre-release 2	2025-10-09T18:57:29.495518637	update_1_20/Recipes
 f0cce472bf7c39c8a88601aa9dc4cb86e44ef02d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/jungle_hanging_sign.json
 2fb9ebd7d6b70bcc53be3033e9c0f003f3e33d81 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_block.json
 7927bbdb56388c6ab566fa93be9ac1201abb83e0 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/chiseled_bookshelf.json
@@ -9,11 +9,11 @@ d92b6cdaedb06b3903a50c3d34304bc259265b0e data/minecraft/datapacks/update_1_20/da
 4b20d6c65db7bef2f6114bfb57d583043dd2449d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_mosaic_stairs.json
 12b27c17124940beb1833a3be0126cf2c490b3b7 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_raft.json
 984c70bc2a3ab2fca3cd23bfb2bae3c699b782fa data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_mosaic_slab.json
-12dec55edb649be3d42e8a5f737c8ca7dff6f200 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/oak_hanging_sign.json
 e1c129d939ecd37831c3ddd73c05ef9d36772bc8 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_sign.json
+12dec55edb649be3d42e8a5f737c8ca7dff6f200 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/oak_hanging_sign.json
 ae9998a0e59c4136ece943761bde805b8bff7fa4 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_pressure_plate.json
-46a45a88623a00c63f22abfcdc688e9d6a50b8c0 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_block.json
 b42d8a67d2f8d2b84750b540d3997c6f9b7a92aa data/minecraft/datapacks/update_1_20/data/minecraft/recipes/acacia_hanging_sign.json
+46a45a88623a00c63f22abfcdc688e9d6a50b8c0 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_block.json
 563894b6603997ff91856558d105f771972ee31e data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/crimson_hanging_sign.json
 6d783b106d4053ae9f78fdae7082c6490d9d1e13 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/redstone/bamboo_pressure_plate.json
 e1f3bdbf9923671aac84ac57465710a19ec4d3a9 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_door.json
