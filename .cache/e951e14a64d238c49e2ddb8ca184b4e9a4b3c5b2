@@ -1,4 +1,4 @@
-// 24w35a	2025-10-09T18:46:39.386618044	vanilla/Advancements
+// 24w36a	2025-10-09T18:46:45.341920247	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 0962940c1ca516bdf9c98dc2bf5e80c3e044a662 data/minecraft/advancement/end/root.json
@@ -15,7 +15,7 @@ a13cd32f6bcdcad0204145ec3c507af188c19518 data/minecraft/advancement/story/cure_z
 ccc67f47716d0258a1ea7c58a21a5472df853ff9 data/minecraft/advancement/adventure/honey_block_slide.json
 e47ee0717b45f4da643a9283d380df1a75966613 data/minecraft/advancement/husbandry/kill_axolotl_target.json
 a5aba4d738238a461b004a170c8afb3dbe891928 data/minecraft/advancement/nether/all_potions.json
-bc0a37ea9672034435cdefd3419e5a6f7f512553 data/minecraft/advancement/nether/distract_piglin.json
+cc0c8bf77de9925fe208aba492530d379aee08c7 data/minecraft/advancement/nether/distract_piglin.json
 7c9ec0f190b75e9e48765b63a9f1fc9b85f7f0cc data/minecraft/advancement/story/iron_tools.json
 7f96a0c26cc203e52b4241a6ce62fa66614a9ae2 data/minecraft/advancement/adventure/overoverkill.json
 8db552d2bdc26da58c56d03993bcd5e2073a19aa data/minecraft/advancement/adventure/blowback.json
@@ -51,7 +51,7 @@ a571bf1a1899c463b788fb8c300cec08037923d9 data/minecraft/advancement/adventure/ki
 9615220500bb57ead431c62037591349f5d9b962 data/minecraft/advancement/adventure/who_needs_rockets.json
 35b8d60260e5da82d1c4cd34c7fe589fe5c4a716 data/minecraft/advancement/nether/netherite_armor.json
 3b32b63d978fd0985cf306c8bd1834f89d25c8ee data/minecraft/advancement/husbandry/allay_deliver_item_to_player.json
-d35651a14fb12ffc323ae7e83a2ce1a5c4a8000b data/minecraft/advancement/adventure/voluntary_exile.json
+fbf3098badaf4f35cc5668c29fcb9294623bb25a data/minecraft/advancement/adventure/voluntary_exile.json
 b58a388560247ed2c9248dfd178015acd8c422d8 data/minecraft/advancement/adventure/trade.json
 f4e199cae3ea9af26e1904b72b356e2c01efe639 data/minecraft/advancement/adventure/throw_trident.json
 9ab65716be1af76081e91a96a9e16e9d0c0daced data/minecraft/advancement/nether/use_lodestone.json

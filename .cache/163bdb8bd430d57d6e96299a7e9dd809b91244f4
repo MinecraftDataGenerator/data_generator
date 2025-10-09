@@ -1,4 +1,4 @@
-// 24w35a	2025-10-09T18:46:39.420587877	vanilla/Tags for minecraft:entity_type
+// 24w36a	2025-10-09T18:46:45.36890025	vanilla/Tags for minecraft:entity_type
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 3b9491f8c3d5a66d5ce8a9dd1582fce60060ded3 data/minecraft/tags/entity_type/undead.json
@@ -15,8 +15,8 @@ a8c7becc7c5d6e4b65492a5736c8fd7e72f795d3 data/minecraft/tags/entity_type/zombies
 e1f5049789bea1f0a8097f1e43c87fded291f85d data/minecraft/tags/entity_type/impact_projectiles.json
 56d54516808d04961d3ab7b99cdf89920c7a1be0 data/minecraft/tags/entity_type/no_anger_from_wind_charge.json
 9aa54cd5ec37fff24dfc4f679df3862f04ce6340 data/minecraft/tags/entity_type/axolotl_hunt_targets.json
-e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverted_healing_and_harm.json
 ad9d5d4178d8cda67ed5dc6acef970fffe2a9cf1 data/minecraft/tags/entity_type/can_breathe_under_water.json
+e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverted_healing_and_harm.json
 0bbeb07059ee1e779eb6e762c565e34ac6915032 data/minecraft/tags/entity_type/arrows.json
 18a237bfea730e47a6de90c60b98f17623e0f1a0 data/minecraft/tags/entity_type/dismounts_underwater.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/frog_food.json
