@@ -1,9 +1,9 @@
-// 24w36a	2025-10-09T18:46:45.36728527	vanilla/Tags for minecraft:block
+// 24w37a	2025-10-09T18:46:22.124153372	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
-a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/block/infiniburn_nether.json
+a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_glass.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_gold_tool.json
@@ -21,8 +21,8 @@ f8376cab397acf16d638e5a8595dc07d123925c5 data/minecraft/tags/block/planks.json
 b7d959a4eef7bbd9e6ce12e26764c3931088f42c data/minecraft/tags/block/wooden_buttons.json
 3c79ca784535e4edb6ad3bf6da109ba0a651018b data/minecraft/tags/block/walls.json
 daec9f32b34c685d972f66ea58ffc7ef3fc977a5 data/minecraft/tags/block/wooden_fences.json
-9dfd09180a555f6464fec17bc82c39e10974b22e data/minecraft/tags/block/ancient_city_replaceable.json
 ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/block/mushroom_grow_block.json
+9dfd09180a555f6464fec17bc82c39e10974b22e data/minecraft/tags/block/ancient_city_replaceable.json
 6434eab593808ccdda380aa89dbf4977e908d7b4 data/minecraft/tags/block/mangrove_roots_can_grow_through.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/block/warped_stems.json
 55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/block/impermeable.json
@@ -58,11 +58,11 @@ f7a73e2bb61eb03dfdfa33cddc872856d40eadf5 data/minecraft/tags/block/combination_s
 1fa725459f51aa8496c329cc2ac5530c0dc5bb7d data/minecraft/tags/block/bee_growables.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/block/wool_carpets.json
 c998cf5cbc50fe6ebff96350e415e3db67a94c6b data/minecraft/tags/block/wooden_pressure_plates.json
-db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/tags/block/all_hanging_signs.json
 a7909c7163d85f8e0b928c566fc0f89cc89e9b04 data/minecraft/tags/block/prevent_mob_spawning_inside.json
+db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/tags/block/all_hanging_signs.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/block/foxes_spawnable_on.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 84ec8be9cdb0097dbc6e35113fbd00d2157a310c data/minecraft/tags/block/mangrove_logs_can_grow_through.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 8764a27533bd7e677a24f1061965a780b6b3e274 data/minecraft/tags/block/lava_pool_stone_cannot_replace.json
@@ -99,9 +99,9 @@ f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.
 504b82b5cf5555c70a8dea493720a2a5139f1e55 data/minecraft/tags/block/fence_gates.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/block/unstable_bottom_center.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
-2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
 2d97a7b26d2a65b8dab30789033841371c7361d4 data/minecraft/tags/block/enchantment_power_transmitter.json
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/block/maintains_farmland.json
+2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
 f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_end.json
 0f244217291b57180a2e4cd1c2385dcab32dead4 data/minecraft/tags/block/banners.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json

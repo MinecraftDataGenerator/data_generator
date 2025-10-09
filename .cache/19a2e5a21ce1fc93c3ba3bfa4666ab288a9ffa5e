@@ -1,4 +1,4 @@
-// 24w36a	2025-10-09T18:46:45.3680425	vanilla/Equipment Model Definitions
+// 24w37a	2025-10-09T18:46:22.124687302	vanilla/Equipment Model Definitions
 63724f45e780f3d1196cf0d271c0df9e3eefcd57 assets/minecraft/models/equipment/gold.json
 5ad398a7c337eb88f7c881f07c6f5359ae76de2f assets/minecraft/models/equipment/gray_carpet.json
 2b5ee6408347d6959953921b69d6abd7335ca503 assets/minecraft/models/equipment/black_carpet.json
@@ -6,9 +6,9 @@
 e977201017c1f59808d530981ad0b6e58dee6bc5 assets/minecraft/models/equipment/magenta_carpet.json
 62fccc31dbaa48ea40b1511f228c26af237cbf99 assets/minecraft/models/equipment/red_carpet.json
 8fb855d801709dba5aec19275bef141b138fe7d5 assets/minecraft/models/equipment/turtle_scute.json
-6023eb6f461ff9684c5e10b8e5ba0fd6ec07a970 assets/minecraft/models/equipment/chainmail.json
+6d8a2f9054d167b5579a1d34d5bc0d63d98db276 assets/minecraft/models/equipment/chainmail.json
 f0523a66db348e575e1bd217c154d66011daca90 assets/minecraft/models/equipment/leather.json
-1e85784f835ea16cef445cd2f3fd5c02f5bb8754 assets/minecraft/models/equipment/netherite.json
+59f940e8839fbeb84294911514c65e26ffad1128 assets/minecraft/models/equipment/netherite.json
 a361049b49709dbc17f731f5da8bc7fd56aa8acd assets/minecraft/models/equipment/green_carpet.json
 57d59191d7f2d64269f813adb26bd4bdbf7dfa78 assets/minecraft/models/equipment/brown_carpet.json
 d6d4994aaa13f9b14d6709cbad7ed4fc01007588 assets/minecraft/models/equipment/yellow_carpet.json
