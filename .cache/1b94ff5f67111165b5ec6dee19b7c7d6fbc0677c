@@ -1,8 +1,8 @@
-// 1.19.3	2025-10-09T18:57:03.92242432	vanilla/Tags for minecraft:banner_pattern
+// 23w03a	2025-10-09T18:57:02.714181762	vanilla/Tags for minecraft:banner_pattern
 2fde436967c97bd28b21e6d604d3e3d0909aa5fa data/minecraft/tags/banner_pattern/pattern_item/globe.json
 fd8784340c4bcf8c4f20feea086ceebd965d20d7 data/minecraft/tags/banner_pattern/pattern_item/skull.json
-8a9a603a5ac941a149f07099fb0bcbb6320026c8 data/minecraft/tags/banner_pattern/pattern_item/flower.json
 fcf7bebab33ff2a152e0861b981a153d0a1e3af7 data/minecraft/tags/banner_pattern/pattern_item/piglin.json
+8a9a603a5ac941a149f07099fb0bcbb6320026c8 data/minecraft/tags/banner_pattern/pattern_item/flower.json
 da9ec5f7ed64a0d225e00ee60b8e6d6408b431fb data/minecraft/tags/banner_pattern/pattern_item/creeper.json
 cdfcfddb70869c41a037d2fa9d13cebce67d276b data/minecraft/tags/banner_pattern/pattern_item/mojang.json
 6ba9481de22a553378d51ce2d4b366ce404b2b17 data/minecraft/tags/banner_pattern/no_item_required.json

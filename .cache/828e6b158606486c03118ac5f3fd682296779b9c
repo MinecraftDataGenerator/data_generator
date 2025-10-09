@@ -1,4 +1,4 @@
-// 1.19.3	2025-10-09T18:57:03.918398419	vanilla/Loot Tables
+// 23w03a	2025-10-09T18:57:02.70891005	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -798,8 +798,8 @@ a5c6018a63a58e5d4bd20e3efcc8a8eb6f5a04c4 data/minecraft/loot_tables/blocks/purpl
 5b88028010db550a70167e6b03d9f7502bb6902f data/minecraft/loot_tables/entities/snow_golem.json
 208b00f98276a41196855eb24571400fc2e24068 data/minecraft/loot_tables/blocks/stripped_crimson_stem.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/frosted_ice.json
-01e8e8dae13967ff0471a258f95a27e874bf2332 data/minecraft/loot_tables/gameplay/hero_of_the_village/farmer_gift.json
 9369cbcbe61924894d2c8d1426e1e27a7a60222b data/minecraft/loot_tables/blocks/light_gray_shulker_box.json
+01e8e8dae13967ff0471a258f95a27e874bf2332 data/minecraft/loot_tables/gameplay/hero_of_the_village/farmer_gift.json
 44cccc4d4b9dedf5d5e101e45993a19bed4df884 data/minecraft/loot_tables/blocks/smooth_sandstone.json
 e517e03cab63b5085b9dd798af616a5da774a06b data/minecraft/loot_tables/blocks/deepslate_brick_stairs.json
 a336d36be6abbd25721f26f02d2b2217c892b2cd data/minecraft/loot_tables/blocks/zombie_head.json

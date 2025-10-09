@@ -1,5 +1,6 @@
-// 1.19.3	2025-10-09T18:57:03.92274975	update_1_20/Tags for minecraft:item
+// 23w03a	2025-10-09T18:57:02.714534272	update_1_20/Tags for minecraft:item
 b6bbcc7e53f8a8ebbb2562ff4e2891b413de4c1f data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/fence_gates.json
+a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/noteblock_top_instruments.json
 af2ac5aa6c660abc7f9e705790995467d7883b8a data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_fences.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/buttons.json
 3d837c46340b320b8d0d76fdf5382864fb7a10ce data/minecraft/datapacks/update_1_20/data/minecraft/tags/items/wooden_buttons.json
