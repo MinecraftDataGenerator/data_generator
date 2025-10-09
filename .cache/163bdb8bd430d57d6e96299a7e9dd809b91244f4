@@ -1,4 +1,4 @@
-// 25w17a	2025-10-09T18:41:59.159576374	vanilla/Tags for minecraft:entity_type
+// 25w18a	2025-10-09T18:42:10.295595155	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -25,7 +25,7 @@ f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_type/raiders
 9eecfbba6b4ef0184b1dd7345f88872f294b8bd3 data/minecraft/tags/entity_type/redirectable_projectile.json
 efb8543801555f1eaabd69b80205ea45d64cb29d data/minecraft/tags/entity_type/boat.json
 966d6c3a0c97a5ee98ddbb27e5e17002d9b87480 data/minecraft/tags/entity_type/skeletons.json
-a1f6cb315821569c92c5de516403d649b5830ac3 data/minecraft/tags/entity_type/followable_friendly_mobs.json
+40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/ignores_poison_and_regen.json
 938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/tags/entity_type/immune_to_infested.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflects_projectiles.json
@@ -36,5 +36,5 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflect
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_type/axolotl_always_hostiles.json
 de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_type/illager_friends.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/non_controlling_rider.json
-e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
+e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json

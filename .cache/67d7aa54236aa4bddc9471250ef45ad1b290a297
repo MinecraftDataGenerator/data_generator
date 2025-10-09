@@ -1,4 +1,4 @@
-// 25w17a	2025-10-09T18:41:59.154680955	vanilla/Tags for minecraft:damage_type
+// 25w18a	2025-10-09T18:42:10.290297136	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
