@@ -125,10 +125,18 @@ jobs:
                 curl -s -L "$SERVER_JAR_URL" -o "$JAR_PATH"
 
                 echo "Führe Data Generator aus..."
-                # ✅ FIX: Wechselt in den TEMP_FOLDER, damit 'generated' dort erstellt wird.
+                # FIX: Wechselt in den TEMP_FOLDER, damit 'generated' dort erstellt wird.
                 pushd "$TEMP_FOLDER" > /dev/null
                 java -DbundlerMainClass=net.minecraft.data.Main -jar ./minecraft_server.jar --all
                 popd > /dev/null
+                
+                # --- DEBUGGING START ---
+                echo "DEBUG: Inhalt von $TEMP_FOLDER nach Java-Ausführung:"
+                ls -l "$TEMP_FOLDER"
+                echo "DEBUG: Inhalt von $GENERATED_PATH vor Kopieren:"
+                # Verwende || true, um sicherzustellen, dass das Skript nicht abbricht, falls der Ordner nicht existiert.
+                ls -l "$GENERATED_PATH" || true
+                # --- DEBUGGING END ---
 
             else
                 echo "Daten existieren bereits in $GENERATED_PATH. Überspringe Download/Generierung."
@@ -147,6 +155,7 @@ jobs:
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
             # Fügt auch versteckte Dateien/Ordner hinzu, falls vorhanden
+            # Der Fehler tritt hier auf, wenn der Pfad leer ist.
             cp -r "$GENERATED_PATH/"* "$REPO_DIR"
             
             # D. Commit und Push
