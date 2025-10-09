@@ -5,17 +5,17 @@
         "OR": [
           {
             "west": "none",
+            "east": "none",
             "north": "none",
-            "south": "none",
-            "east": "none"
+            "south": "none"
           },
           {
-            "north": "side|up",
-            "east": "side|up"
+            "east": "side|up",
+            "north": "side|up"
           },
           {
-            "south": "side|up",
-            "east": "side|up"
+            "east": "side|up",
+            "south": "side|up"
           },
           {
             "west": "side|up",
@@ -39,9 +39,9 @@
           },
           {
             "west": "none",
+            "east": "none",
             "north": "none",
-            "south": "side|up",
-            "east": "none"
+            "south": "side|up"
           }
         ]
       },
@@ -57,9 +57,9 @@
           },
           {
             "west": "none",
+            "east": "none",
             "north": "side|up",
-            "south": "none",
-            "east": "none"
+            "south": "none"
           }
         ]
       },
@@ -75,15 +75,15 @@
           },
           {
             "west": "side|up",
+            "east": "none",
             "north": "none",
-            "south": "none",
-            "east": "none"
+            "south": "none"
           }
         ]
       },
       "apply": {
-        "y": 270,
-        "model": "minecraft:block/redstone_dust_side_alt1"
+        "model": "minecraft:block/redstone_dust_side_alt1",
+        "y": 270
       }
     },
     {
@@ -94,15 +94,15 @@
           },
           {
             "west": "none",
+            "east": "side|up",
             "north": "none",
-            "south": "none",
-            "east": "side|up"
+            "south": "none"
           }
         ]
       },
       "apply": {
-        "y": 270,
-        "model": "minecraft:block/redstone_dust_side1"
+        "model": "minecraft:block/redstone_dust_side1",
+        "y": 270
       }
     },
     {
@@ -118,8 +118,8 @@
         "east": "up"
       },
       "apply": {
-        "y": 90,
-        "model": "minecraft:block/redstone_dust_up"
+        "model": "minecraft:block/redstone_dust_up",
+        "y": 90
       }
     },
     {
@@ -127,8 +127,8 @@
         "south": "up"
       },
       "apply": {
-        "y": 180,
-        "model": "minecraft:block/redstone_dust_up"
+        "model": "minecraft:block/redstone_dust_up",
+        "y": 180
       }
     },
     {
@@ -136,8 +136,8 @@
         "west": "up"
       },
       "apply": {
-        "y": 270,
-        "model": "minecraft:block/redstone_dust_up"
+        "model": "minecraft:block/redstone_dust_up",
+        "y": 270
       }
     }
   ]
