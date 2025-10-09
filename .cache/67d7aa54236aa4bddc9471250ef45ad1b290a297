@@ -1,4 +1,4 @@
-// 25w14craftmine	2025-10-09T18:42:24.423758319	vanilla/Tags for minecraft:damage_type
+// 25w15a	2025-10-09T18:42:25.412088783	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -30,5 +30,5 @@ bb0b377e5176781815073123ed7c65af53295d70 data/minecraft/tags/damage_type/can_bre
 59e4d9b48c36b871448acba6a38fa7797b9371ad data/minecraft/tags/damage_type/witch_resistant_to.json
 8a1aa1a5f9a04a27056becf2e86a4cd87d774eef data/minecraft/tags/damage_type/burn_from_stepping.json
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
-44894297eb9629ec7c91985c30694d76e18b5896 data/minecraft/tags/damage_type/panic_causes.json
+489c47edfcfc99812acc8a92f08c0c9c5f6d5041 data/minecraft/tags/damage_type/panic_causes.json
 cb84df645671afc2fdb658810f8c98d63eab5114 data/minecraft/tags/damage_type/bypasses_armor.json
