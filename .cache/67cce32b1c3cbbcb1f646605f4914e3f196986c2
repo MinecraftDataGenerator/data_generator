@@ -1,4 +1,4 @@
-// 22w15a	2025-10-09T19:00:54.691918896	LootTables
+// 22w16a	2025-10-09T19:00:45.3467796	LootTables
 f0266b86d509baafb030ddb9915394ea06d372cd data/minecraft/loot_tables/entities/pillager.json
 b9e79fd1ed036ac69fc148465c1b7d78d5de9257 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 067dd6fdb7628c44312c982862382ecf07e5df19 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -509,7 +509,7 @@ f0266b86d509baafb030ddb9915394ea06d372cd data/minecraft/loot_tables/entities/fox
 3c06f9024d498bbe062004a15594d94069f01471 data/minecraft/loot_tables/blocks/hanging_roots.json
 3d4d5aea55b94991b4559d74cb6f927ae35e7a7a data/minecraft/loot_tables/blocks/cracked_polished_blackstone_bricks.json
 ae7cd2dfb4929e7168e1647702762cdf15233a5c data/minecraft/loot_tables/blocks/cyan_carpet.json
-d074f46291355e99682b65f7c0df83f5ec5923f3 data/minecraft/loot_tables/chests/ancient_city.json
+886ccbd439010dca78d961256b75850c412cec80 data/minecraft/loot_tables/chests/ancient_city.json
 52a1cba1a29d4fab36d5df9625850abf46a658a2 data/minecraft/loot_tables/blocks/cobbled_deepslate.json
 fbe4d3808a30c46b4e978bab1695103a7fa067d8 data/minecraft/loot_tables/blocks/brown_wool.json
 3b8f9f9f08eca3b97b81711c4271f807276b9f9b data/minecraft/loot_tables/blocks/light_blue_stained_glass_pane.json
@@ -823,7 +823,7 @@ be266bf4a1a39e931bdf24a9b6f81f9e5a33c875 data/minecraft/loot_tables/blocks/deeps
 bd094a38197d2402b45374aadf1efb794d73514c data/minecraft/loot_tables/blocks/red_stained_glass_pane.json
 a1673abf688ce47b8891ec126fde773ebd1ba851 data/minecraft/loot_tables/blocks/birch_planks.json
 42457073a6bfc4f7f0514aebf47aa71ac6d48f07 data/minecraft/loot_tables/blocks/deepslate_tiles.json
-0326fa43ffc2b00bdd87176a012dcb4f5777a421 data/minecraft/loot_tables/chests/shipwreck_supply.json
+56121d12bee2267b13129e5f02af2feb7bf82d84 data/minecraft/loot_tables/chests/shipwreck_supply.json
 13575c7b86fea605b8a8c1d9237428d1d31f3261 data/minecraft/loot_tables/blocks/pink_candle.json
 de57d671584aae70d7d9f66e2440a7800dc169a9 data/minecraft/loot_tables/blocks/acacia_door.json
 588db7475101e74473f2b6569b80f661b62ad78e data/minecraft/loot_tables/blocks/dead_tube_coral.json
@@ -1003,7 +1003,7 @@ a7d6fbd7e26c882cf9636289e3664fb89f63b82f data/minecraft/loot_tables/blocks/coppe
 f011d93428dee84330099a7e402f453d3f3fdd53 data/minecraft/loot_tables/blocks/smooth_quartz.json
 af6257918840897339a4998c8f1c2e4992529a2e data/minecraft/loot_tables/blocks/orange_concrete.json
 6377086a8174614b2c74975f2558e37407e9fded data/minecraft/loot_tables/blocks/weeping_vines.json
-efeefbd797c6c0120e55620edf4f7a5771feffa6 data/minecraft/loot_tables/chests/ancient_city_ice_box.json
+7b3f8296bbeefb9eb9e0ec89966e156845837f10 data/minecraft/loot_tables/chests/ancient_city_ice_box.json
 ee0f2908ae7d4036c8ed9ea9c378f1e2d9e185e1 data/minecraft/loot_tables/blocks/mangrove_stairs.json
 56586c473d384339848ee40f5deb912de2522c75 data/minecraft/loot_tables/blocks/acacia_fence.json
 d71ff560eb5a6e9ff8b54dd2e90613f0c416e4f1 data/minecraft/loot_tables/blocks/netherrack.json

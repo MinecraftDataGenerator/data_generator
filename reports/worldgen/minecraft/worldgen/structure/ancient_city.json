@@ -6,7 +6,15 @@
   "max_distance_from_center": 100,
   "biomes": "#minecraft:has_structure/ancient_city",
   "spawn_overrides": {
+    "misc": {
+      "bounding_box": "full",
+      "spawns": []
+    },
     "axolotls": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "creature": {
       "bounding_box": "full",
       "spawns": []
     },
@@ -18,15 +26,7 @@
       "bounding_box": "full",
       "spawns": []
     },
-    "monster": {
-      "bounding_box": "full",
-      "spawns": []
-    },
-    "creature": {
-      "bounding_box": "full",
-      "spawns": []
-    },
-    "misc": {
+    "ambient": {
       "bounding_box": "full",
       "spawns": []
     },
@@ -34,7 +34,7 @@
       "bounding_box": "full",
       "spawns": []
     },
-    "ambient": {
+    "monster": {
       "bounding_box": "full",
       "spawns": []
     }

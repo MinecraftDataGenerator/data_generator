@@ -1,4 +1,4 @@
-// 22w15a	2025-10-09T19:00:54.660909146	Tags for minecraft:worldgen/biome
+// 22w16a	2025-10-09T19:00:45.34650934	Tags for minecraft:worldgen/biome
 84edaf18396e1fcdf5292e895a3c4b3ba0729b5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 efd8783ac412603928438584bbb19672c557af31 data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
 42ce854b0a0b724f6a06878be61bc0874b667929 data/minecraft/tags/worldgen/biome/has_structure/shipwreck.json

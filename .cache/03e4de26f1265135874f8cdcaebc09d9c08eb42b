@@ -1,4 +1,4 @@
-// 22w15a	2025-10-09T19:00:54.694651357	Tags for minecraft:item
+// 22w16a	2025-10-09T19:00:45.348889981	Tags for minecraft:item
 2e8b25763b6c4383bb6a6a84bc19e2f12d8a8d47 data/minecraft/tags/items/slabs.json
 f26ca94468ebfc40099f3f2387a1a986403ffb36 data/minecraft/tags/items/jungle_logs.json
 f1b4b227216d478cbd5f340dd76b44aab269fa4d data/minecraft/tags/items/signs.json
@@ -36,7 +36,7 @@ e9086500162394a98cfe9221e2081b49a277cc0c data/minecraft/tags/items/small_flowers
 b004f3a3e1922a8b9a89b7b7cda7a7f2986d2f0a data/minecraft/tags/items/spruce_logs.json
 8f291eb61c0fb314c0ad9c0253bcabbf93675a93 data/minecraft/tags/items/fences.json
 9b9d3f63cf193545f63194080fd1fc66ba69e7ff data/minecraft/tags/items/tall_flowers.json
-9589ab07101f3a034aedbd85b8a3b0e4f63af914 data/minecraft/tags/items/music_discs.json
+074d09594b19638a079bceb714eb833d428c7c9e data/minecraft/tags/items/music_discs.json
 d35012ca4132eafef53e9ea68e84a7fc8fdd31f6 data/minecraft/tags/items/stone_bricks.json
 dde4bbce9c97894e1dd76efd8d2c9e749ec55627 data/minecraft/tags/items/wooden_slabs.json
 7a008115256dcd94702832a43131698335bdbed7 data/minecraft/tags/items/saplings.json
