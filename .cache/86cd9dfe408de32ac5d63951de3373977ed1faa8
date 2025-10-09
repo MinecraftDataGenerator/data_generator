@@ -1,4 +1,4 @@
-// 24w05a	2025-10-09T18:51:06.651782785	vanilla/Tags for minecraft:block
+// 24w05b	2025-10-09T18:50:55.264670433	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -114,9 +114,9 @@ afd862ebc333a8df53174530faee5f54c15a71a7 data/minecraft/tags/blocks/nether_carve
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/blocks/wool.json
 4b636e8a202b80de17ec8352bba191763ed63d3c data/minecraft/tags/blocks/wooden_doors.json
 d1460748ca1e7a947c8151d5f7b4a6e429241c23 data/minecraft/tags/blocks/overworld_carver_replaceables.json
+9cf89cc089a03f7415393823473c106253d62661 data/minecraft/tags/blocks/wall_corals.json
 274c899ecd90e93185a6b2d7bf84123a67af63db data/minecraft/tags/blocks/enderman_holdable.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/blocks/birch_logs.json
-9cf89cc089a03f7415393823473c106253d62661 data/minecraft/tags/blocks/wall_corals.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/blocks/bamboo_blocks.json
 da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/blocks/mineable/shovel.json
 fe67f656c64c8654f29be025478ff7af10c3cfac data/minecraft/tags/blocks/rabbits_spawnable_on.json
