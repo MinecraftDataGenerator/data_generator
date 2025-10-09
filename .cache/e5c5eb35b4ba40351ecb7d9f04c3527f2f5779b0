@@ -1,4 +1,4 @@
-// 22w19a	2025-10-09T19:00:25.074028035	Advancements
+// 1.19 Pre-release 1	2025-10-09T19:00:08.220811565	Advancements
 61e094f20c0a1ffded1d2afd56ed73b91f208acb data/minecraft/advancements/story/form_obsidian.json
 58a7425ba29da8fa13dac1ffa9ce97ea9f520f6a data/minecraft/advancements/nether/fast_travel.json
 05f92e856a7e927bef6cd6df4c6bc274dfb3b592 data/minecraft/advancements/story/enter_the_nether.json
@@ -32,7 +32,7 @@ ec2a7a0c4834162bd6e46122b6764e4fcc8c24a6 data/minecraft/advancements/adventure/s
 3ca3f206323842219446d3fe56b0c8f6ae2f4197 data/minecraft/advancements/husbandry/wax_on.json
 2383719583eda50c05e970ad15ecc24db3c4a93c data/minecraft/advancements/nether/ride_strider_in_overworld_lava.json
 34242da696e226511f6df53c176ac3abc819a7d3 data/minecraft/advancements/adventure/root.json
-c7cf848c1d34652ced7aba30188550c60f968e6a data/minecraft/advancements/husbandry/complete_catalogue.json
+163879c8d9eb4d5d420930f82d40c9269f99b5bb data/minecraft/advancements/husbandry/complete_catalogue.json
 8f08b04bb7e3ca7b10fae0a2df09958fa1237e0b data/minecraft/advancements/adventure/kill_all_mobs.json
 b3f990f993a908c6adde77d65403b80f2857c904 data/minecraft/advancements/husbandry/plant_seed.json
 b5948aa225bd4ef1b4e4b7a12de3c33f200823a3 data/minecraft/advancements/adventure/fall_from_world_height.json
@@ -100,4 +100,4 @@ c27cea1382265f439c4955a5ce0e654f8e70665f data/minecraft/advancements/end/find_en
 304619a9afc9a29ae9b19e828361b81c76fdc334 data/minecraft/advancements/nether/obtain_ancient_debris.json
 42d265fc924757e3657cb192f183df7fefcc4075 data/minecraft/advancements/adventure/spyglass_at_dragon.json
 0fa302e68b33d8a75017a8e70fa0a788206bb06e data/minecraft/advancements/husbandry/tame_an_animal.json
-cb55a487fa8ee463a56cd8ad84a45fc4c174d86f data/minecraft/advancements/adventure/kill_mob_near_sculk_catalyst.json
+75e703f4f8550421eb513a426f783f3c49e907c5 data/minecraft/advancements/adventure/kill_mob_near_sculk_catalyst.json
