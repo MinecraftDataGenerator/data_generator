@@ -1,4 +1,4 @@
-// 1.19.3 Pre-release 2	2025-10-09T18:57:29.50788745	vanilla/Loot Tables
+// 1.19.3 Pre-release 3	2025-10-09T18:57:27.20673206	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -88,8 +88,8 @@ bf3643909b4c22f2efe0d137d55e8fcdbf8d8049 data/minecraft/loot_tables/entities/she
 a75baf7491076f527463fa76afa82b7b7e7069d2 data/minecraft/loot_tables/blocks/prismarine_brick_slab.json
 a78f8171bda413f087c16e02463f95efa8d17267 data/minecraft/loot_tables/blocks/orange_candle.json
 7b7b957394140a2f84aedbd638e093a8936aff2d data/minecraft/loot_tables/blocks/magenta_candle_cake.json
-4d8155fbc4af4adb8e79c62e1bc0edfc60ef73e9 data/minecraft/loot_tables/chests/village/village_snowy_house.json
 2786fd968f09e509712616fc2bb6e542a4088c68 data/minecraft/loot_tables/blocks/oak_stairs.json
+4d8155fbc4af4adb8e79c62e1bc0edfc60ef73e9 data/minecraft/loot_tables/chests/village/village_snowy_house.json
 69b98969b1f478fb05727cc9355adc3353158be2 data/minecraft/loot_tables/blocks/black_wool.json
 50592e2a27672f3634530e754899fafef1a9ea10 data/minecraft/loot_tables/blocks/mud_brick_slab.json
 0a2da822781158275084bf91fa33408fa3788503 data/minecraft/loot_tables/chests/village/village_weaponsmith.json
@@ -266,7 +266,7 @@ e674767b947d4a213b46651215e2ab660774d3b3 data/minecraft/loot_tables/blocks/pink_
 48a5ffc1beb61c4c25658b802acf5a39397b56c4 data/minecraft/loot_tables/blocks/smooth_red_sandstone.json
 d73181116c831e209c5d290ff926fd3be34f00a0 data/minecraft/loot_tables/entities/spider.json
 5876e1d876a22f810b14e5920de55824d41bffa5 data/minecraft/loot_tables/blocks/pointed_dripstone.json
-2685a4de9a51f62acccb84b3d52fbbb8c8ee8c12 data/minecraft/loot_tables/blocks/player_head.json
+22d29c0df32850c0171d1d3baa600937b54cbfcd data/minecraft/loot_tables/blocks/player_head.json
 cabb80db34bffef29a2f95e33411d68820d83486 data/minecraft/loot_tables/blocks/brown_concrete.json
 8b038908c1a773c6eda3f3bd68019c64ddec390a data/minecraft/loot_tables/blocks/dead_horn_coral_fan.json
 84c12c3efa4cf4826bdfd805e9bce20091d210d7 data/minecraft/loot_tables/blocks/soul_torch.json
@@ -284,8 +284,8 @@ cfad7bbeebcc593fecbfb03fff301a1e572c9575 data/minecraft/loot_tables/blocks/stone
 e01132ba3ba50cc08d3fd904de24ebe56612b81f data/minecraft/loot_tables/blocks/green_wool.json
 073505198303a44ae5994e419cb41af51cb277b1 data/minecraft/loot_tables/blocks/acacia_button.json
 7f7549e452716326428b4c6eb8c40c3849525c59 data/minecraft/loot_tables/chests/simple_dungeon.json
-41ec6934241fd43c2376ee5394929ecc7c8198a8 data/minecraft/loot_tables/blocks/crimson_slab.json
 eddb543d70613e03fb5ae1bb90476907b4c7dc64 data/minecraft/loot_tables/blocks/polished_granite_slab.json
+41ec6934241fd43c2376ee5394929ecc7c8198a8 data/minecraft/loot_tables/blocks/crimson_slab.json
 ce10b93bbec28798096d3dd2eaf56984a4dac943 data/minecraft/loot_tables/blocks/peony.json
 d72999fa8981af8c20e75fbbee1bdd64c2d10904 data/minecraft/loot_tables/blocks/end_stone_bricks.json
 c500cde277ce373a3d3898f60c2b86209c9c1643 data/minecraft/loot_tables/blocks/chorus_plant.json
