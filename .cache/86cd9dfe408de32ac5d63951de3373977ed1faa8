@@ -1,5 +1,5 @@
-// 23w18a	2025-10-09T18:55:18.722934462	vanilla/Tags for minecraft:block
-69f20de402a1ee677f45ed7ac66d26648f7e07af data/minecraft/tags/blocks/maintains_farmland.json
+// 1.20 Pre-release 1	2025-10-09T18:54:59.953261026	vanilla/Tags for minecraft:block
+51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
