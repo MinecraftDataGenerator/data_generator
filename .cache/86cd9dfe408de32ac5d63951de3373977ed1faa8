@@ -1,4 +1,4 @@
-// 25w09a	2025-10-09T18:43:20.961027705	vanilla/Tags for minecraft:block
+// 25w09b	2025-10-09T18:43:14.378187423	vanilla/Tags for minecraft:block
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/block/bee_attractive.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 e58f5fa3c4fe3090b27304fa8f3c92e23594f085 data/minecraft/tags/block/flower_pots.json
@@ -37,8 +37,8 @@ fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/block/wool.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/block/bamboo_blocks.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/block/dark_oak_logs.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/block/redstone_ores.json
-5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/block/beds.json
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/block/iron_ores.json
+5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/block/beds.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/block/frog_prefer_jump_to.json
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/block/snaps_goat_horn.json
 43dad06c318b3bf718e0b3d167976e74d46c9f8a data/minecraft/tags/block/wooden_doors.json
@@ -86,8 +86,8 @@ e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.js
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 80ca0014239f0046a5e01ce25e5f173990cdb610 data/minecraft/tags/block/sculk_replaceable_world_gen.json
 882f7161808179f92ed953b9200fdaf74eec6c36 data/minecraft/tags/block/infiniburn_overworld.json
-ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
+ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/block/beacon_base_blocks.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 dd3a77b2229c67cb46f729e311d06ba0f1ed4525 data/minecraft/tags/block/replaceable.json

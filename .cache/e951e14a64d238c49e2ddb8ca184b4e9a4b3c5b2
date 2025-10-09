@@ -1,4 +1,4 @@
-// 25w09a	2025-10-09T18:43:20.937265228	vanilla/Advancements
+// 25w09b	2025-10-09T18:43:14.366893444	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 5dac44cd2822b1cd2c9508d9d89ca2f0f6deb065 data/minecraft/advancement/end/root.json
@@ -110,7 +110,7 @@ ccfb91bf9b2f4b0959bf0f81eed420eef24e4173 data/minecraft/advancement/end/dragon_e
 e564e46ac5684defb44f3b740c8c5ed931ad598c data/minecraft/advancement/husbandry/root.json
 f25234ce89a7c0bd3477b5cc521ce6180523efaa data/minecraft/advancement/end/elytra.json
 75fc47236efceabdc4828e64349af85eb7f42474 data/minecraft/advancement/husbandry/fishy_business.json
-b0ef8a6ed85189a81037cbed57ed2f0b4b46d2e5 data/minecraft/advancement/husbandry/leash_all_frog_variants.json
+6fbee6e3ef9204a612d4b4f80c8de770287b5008 data/minecraft/advancement/husbandry/leash_all_frog_variants.json
 e7749bff1fb78f813b06761b1744ffedc7d4ed3e data/minecraft/advancement/adventure/salvage_sherd.json
 cd1581a02fa2ec6598de8bb3232ce48af5d13028 data/minecraft/advancement/adventure/read_power_of_chiseled_bookshelf.json
 87c023ed4a6d33fe844679aafa6b139a7fde3763 data/minecraft/advancement/nether/return_to_sender.json

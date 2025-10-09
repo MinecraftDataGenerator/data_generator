@@ -1,12 +1,12 @@
-// 25w09a	2025-10-09T18:43:20.960584525	trade_rebalance/Tags for minecraft:enchantment
+// 25w09b	2025-10-09T18:43:14.377715523	trade_rebalance/Tags for minecraft:enchantment
 3be2c0209546c5fdaeb114bb56068703605144d0 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/desert_common.json
 0083357f0a23958902096468ad2b9a08bda9ffa1 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/jungle_common.json
 65ad1f58b1da6d5df863276c02bf7100148c9918 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_common.json
 b4123cdff1d2db995ceec27571819f0486bfce69 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/swamp_common.json
 937458e149cc7e4a6eed58eccc5caaf4cddfa446 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/snow_common.json
 ea07204701e693ceffbacca4360401acd16b2879 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/savanna_special.json
-65309b9f8caeeda9835de7c9232533f4c56b8444 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_special.json
 3c39c5be6d18cb8105adca1358412a4ecc8db634 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/swamp_special.json
+65309b9f8caeeda9835de7c9232533f4c56b8444 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_special.json
 42e31c9ab9bb9d18e3ce9a8963c155fdc4e7a038 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/savanna_common.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/snow_special.json
 da06beef7957bbe486da558903fd812c73bbb556 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/enchantment/trades/jungle_special.json
