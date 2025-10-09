@@ -146,9 +146,9 @@ jobs:
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $GENERATED_PATH nach $REPO_DIR"
             
-            # FIX: Kopiert den gesamten Inhalt (einschließlich versteckter Dateien/Ordner) des 
-            # generierten Ordners in das aktuelle Verzeichnis, ohne den cp-Globbing-Fehler auszulösen.
-            cp -r "$GENERATED_PATH/." "$REPO_DIR"
+            # FIX: Kopiert explizit die bekannten Unterordner, um Fehler beim Pfad-Globbing 
+            # zu vermeiden, da wir wissen, dass der Generator 'data' und 'reports' erstellt.
+            cp -r "$GENERATED_PATH/data" "$GENERATED_PATH/reports" "$REPO_DIR"
             
             # D. Commit und Push
             git add -A
