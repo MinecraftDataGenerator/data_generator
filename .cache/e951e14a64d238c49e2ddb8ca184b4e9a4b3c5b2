@@ -1,4 +1,4 @@
-// 1.20.4	2025-10-09T18:51:33.45570589	vanilla/Advancements
+// 23w51a	2025-10-09T18:51:24.684141728	vanilla/Advancements
 c9c251a48758d49199e40559a478c9fe2c5ae541 data/minecraft/advancements/story/form_obsidian.json
 b1d6768ce099930a7eb7db51639562b5e03b6396 data/minecraft/advancements/nether/fast_travel.json
 4accca6b160e11a074f800177a9c9066183cce6c data/minecraft/advancements/story/enter_the_nether.json
@@ -12,7 +12,7 @@ bf57b5041365d29f919542411dcc9d69e3fc957b data/minecraft/advancements/nether/find
 b5698437aa3e7daa0e535e1c6167263dab036991 data/minecraft/advancements/husbandry/froglights.json
 e82d2c305e2a2036af8a530154c43785ca83519c data/minecraft/advancements/husbandry/kill_axolotl_target.json
 6a610e92199f22a78d72e9a66e64a0127faf74f2 data/minecraft/advancements/nether/distract_piglin.json
-258b60beec69beab517416f49bfb1ef30105c77a data/minecraft/advancements/husbandry/bred_all_animals.json
+f1388249010025eab8fbe8d938b9ffa46051a19c data/minecraft/advancements/husbandry/bred_all_animals.json
 981f7535d8e1fb23e8e68b0d36e95f1248095f66 data/minecraft/advancements/nether/ride_strider.json
 4d6aacdb9f6228462e2837f162851212c8345c56 data/minecraft/advancements/husbandry/obtain_netherite_hoe.json
 a0070d666739cda6cb79793e73d5eda3568a9dfb data/minecraft/advancements/nether/return_to_sender.json

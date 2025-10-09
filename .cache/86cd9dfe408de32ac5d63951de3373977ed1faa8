@@ -1,4 +1,4 @@
-// 1.20.4	2025-10-09T18:51:33.480066897	vanilla/Tags for minecraft:block
+// 23w51a	2025-10-09T18:51:24.696991411	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -14,8 +14,8 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/blocks/redstone_ore
 1fa725459f51aa8496c329cc2ac5530c0dc5bb7d data/minecraft/tags/blocks/bee_growables.json
 9d786349359c04ae72a7f261654b6b4fa33d425e data/minecraft/tags/blocks/snow_layer_cannot_survive_on.json
 002a1f0e0b109cd883572ac23180e47312fdd8bb data/minecraft/tags/blocks/tall_flowers.json
-55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/blocks/impermeable.json
 d89ad094b9c42adca9e4e2addfcde9c9e6b76c08 data/minecraft/tags/blocks/bamboo_plantable_on.json
+55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/blocks/impermeable.json
 2e39009883eda5b51c79d998168c46eee59d92c1 data/minecraft/tags/blocks/signs.json
 9a761594fa3b7ad3870a162292e2d1e628ae033e data/minecraft/tags/blocks/wall_hanging_signs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/blocks/soul_speed_blocks.json
@@ -29,9 +29,9 @@ d772e288e7520c6974ec3238c6aa3ecd2b8e686b data/minecraft/tags/blocks/trail_ruins_
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/blocks/buttons.json
 837bf053d44a820743fe76f981febdde02bc78a2 data/minecraft/tags/blocks/underwater_bonemeals.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/blocks/copper_ores.json
+aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/blocks/guarded_by_piglins.json
 5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/blocks/deepslate_ore_replaceables.json
 ed346d15e3bcb5e92e5045b4c6da0d19ad0243b0 data/minecraft/tags/blocks/inside_step_sound_blocks.json
-aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/blocks/guarded_by_piglins.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/blocks/cherry_logs.json
 632e3c9b57c812cfb93f65d1ec8cb7afe2b4e733 data/minecraft/tags/blocks/geode_invalid_blocks.json
 24082f1b5e075495c4f6c4d1b68587d4a9cac869 data/minecraft/tags/blocks/wooden_slabs.json

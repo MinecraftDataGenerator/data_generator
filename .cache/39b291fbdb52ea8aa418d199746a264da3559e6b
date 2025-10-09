@@ -1,6 +1,6 @@
-// 1.20.4	2025-10-09T18:51:33.480542777	vanilla/Tags for minecraft:game_event
+// 23w51a	2025-10-09T18:51:24.697348851	vanilla/Tags for minecraft:game_event
 641d5946c42493fe7a161d4a3971814600234ffd data/minecraft/tags/game_events/shrieker_can_listen.json
-d946644ffcf512e7908094e52a1fa3192a08600d data/minecraft/tags/game_events/vibrations.json
 b13aa4b40cb68f9a610c6a3b56eb8d1b8da165f9 data/minecraft/tags/game_events/warden_can_listen.json
+d946644ffcf512e7908094e52a1fa3192a08600d data/minecraft/tags/game_events/vibrations.json
 2dd113837f785e075cf7d850d7430a24740b3365 data/minecraft/tags/game_events/ignore_vibrations_sneaking.json
 63d89aa5d8bf516444e2f3bbf763f637c72839b4 data/minecraft/tags/game_events/allay_can_listen.json

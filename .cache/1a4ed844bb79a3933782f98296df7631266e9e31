@@ -1,4 +1,6 @@
-// 1.20.4	2025-10-09T18:51:33.456616881	update_1_21/Tags for minecraft:item
+// 23w51a	2025-10-09T18:51:24.684766518	update_1_21/Tags for minecraft:item
 5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/stairs.json
+eead159568467477b62e9f2314af15d122a3f48f data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/doors.json
 e4e0677676c88b770fb2f198c8904b8e4899ab59 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/slabs.json
+759fae2e6c137458e65ac556666a27231832447e data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/trapdoors.json
 4566532194d000f068193f3b594b6cf17b268601 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/walls.json
