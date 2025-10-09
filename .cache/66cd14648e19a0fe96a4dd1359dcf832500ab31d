@@ -1,8 +1,9 @@
-// 1.21.5	2025-10-09T18:42:27.743059652	vanilla/Tags for minecraft:worldgen/structure
+// 25w14craftmine	2025-10-09T18:42:24.432807467	vanilla/Tags for minecraft:worldgen/structure
 6e9b88a9d7545d083cd0118cff815131cf329080 data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json
 a124e2034270a8639a98494959c2524661377ecc data/minecraft/tags/worldgen/structure/shipwreck.json
 f2401a25b1b014422c676d22732df78913b05497 data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json
 2e3ef883a0d81134c688c5a78b72dcc44dfa15be data/minecraft/tags/worldgen/structure/on_ocean_explorer_maps.json
+0540163c6f6a152c73f124d56dda29264ee3df61 data/minecraft/tags/worldgen/structure/mine_exit.json
 f2fcdb1c324a7e0da59584ee097fe514ea673fc4 data/minecraft/tags/worldgen/structure/mineshaft.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/on_swamp_explorer_maps.json
 ffb1ae5133cbbafa849ea42c6110ebadcda39dbe data/minecraft/tags/worldgen/structure/on_desert_village_maps.json
@@ -10,7 +11,7 @@ ffb1ae5133cbbafa849ea42c6110ebadcda39dbe data/minecraft/tags/worldgen/structure/
 660fa58aaa3b6fccf42dbabaf13d5dc3f49bc73d data/minecraft/tags/worldgen/structure/ocean_ruin.json
 c0f4e5bd52b666e1cbd106441f23f0eb83f8b77f data/minecraft/tags/worldgen/structure/on_taiga_village_maps.json
 f601732bcb221c84402a118279c904ef0f01d3a9 data/minecraft/tags/worldgen/structure/village.json
-bdbef1e5398bebdc50384225edce07692966829c data/minecraft/tags/worldgen/structure/eye_of_ender_located.json
+9072d91886815d7da9f2b89f781ea9d99736e40f data/minecraft/tags/worldgen/structure/eye_of_ender_located.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/cats_spawn_as_black.json
 6204d123f0f9c70cee00dce5624de584c60199c7 data/minecraft/tags/worldgen/structure/on_snowy_village_maps.json
 db7acc9f9e931ed7a41f2b2c96466edd7e528acc data/minecraft/tags/worldgen/structure/on_treasure_maps.json

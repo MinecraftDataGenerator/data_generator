@@ -1,4 +1,4 @@
-// 1.21.5	2025-10-09T18:42:27.742106641	vanilla/Tags for minecraft:entity_type
+// 25w14craftmine	2025-10-09T18:42:24.432119407	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -12,7 +12,7 @@ c2c355dcc367a1c94022723aee37d206d3a355b7 data/minecraft/tags/entity_type/aquatic
 fd03792012d037b2783775c9b14e51362fd43a4f data/minecraft/tags/entity_type/sensitive_to_impaling.json
 5e2d6dbd339cdc162f1bd13fa83d0ece1b6014d8 data/minecraft/tags/entity_type/immune_to_oozing.json
 a8c7becc7c5d6e4b65492a5736c8fd7e72f795d3 data/minecraft/tags/entity_type/zombies.json
-596128c63e932267b7e2f2b44ebe115e9fe45b5f data/minecraft/tags/entity_type/fall_damage_immune.json
+70c61f1b70d6bcb9e730a06f2523a031c57c26d2 data/minecraft/tags/entity_type/fall_damage_immune.json
 e1f5049789bea1f0a8097f1e43c87fded291f85d data/minecraft/tags/entity_type/impact_projectiles.json
 56d54516808d04961d3ab7b99cdf89920c7a1be0 data/minecraft/tags/entity_type/no_anger_from_wind_charge.json
 9aa54cd5ec37fff24dfc4f679df3862f04ce6340 data/minecraft/tags/entity_type/axolotl_hunt_targets.json
