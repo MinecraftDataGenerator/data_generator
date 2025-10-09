@@ -43,6 +43,10 @@ jobs:
           REPO_DIR="."
           OUTPUT_DIR="minecraft_versions"
           
+          # FIX: Konfiguriere Git-Identität, da der Runner keine Standard-Identität hat.
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Actions Bot"
+          
           # Embed the PAT into the Git URL for pushing new branches.
           AUTH_REPO_URL=$(echo "${REPO_URL}" | sed "s|https://|https://${GH_TOKEN}@|")
 
@@ -162,6 +166,7 @@ jobs:
             git add -A
             COMMIT_MSG="Update to $VERSION_ID"
             
+            # git commit wird jetzt erfolgreich sein, da user.name/user.email konfiguriert ist.
             if git commit -m "$COMMIT_MSG"; then
               echo "Pushe Branch $BRANCH_NAME zu Remote..."
               git push "$AUTH_REPO_URL" "$BRANCH_NAME"
