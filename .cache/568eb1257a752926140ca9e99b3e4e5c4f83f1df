@@ -1,4 +1,4 @@
-// 1.21.5 Release Candidate 2	2025-10-09T18:42:33.745742269	vanilla/Vanilla Recipes
+// 1.21.5	2025-10-09T18:42:27.702108296	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ab191fdde225331704efc69ad0cde47b421cff84 data/minecraft/recipe/dye_magenta_bed.json
@@ -2114,9 +2114,9 @@ c937b4aae37538655f83c6b5f2201252ee2d6ce3 data/minecraft/advancement/recipes/deco
 fdf88239cd5bb3ac2b615127ff5a9568bb0afeaf data/minecraft/recipe/cobblestone_wall_from_cobblestone_stonecutting.json
 d20b6424963bd8e879ec6c01d6c79ddb0cf8105e data/minecraft/recipe/prismarine_wall_from_prismarine_stonecutting.json
 ed79d21b5addad3309327ce4232a2ed248b03f91 data/minecraft/advancement/recipes/building_blocks/crimson_stairs.json
-363b1c9ce433e33e5c8f030616f47f314e77e804 data/minecraft/recipe/lime_candle.json
-46017e96348e4d43c62dd1f67580b41bd4bfdb6e data/minecraft/recipe/white_concrete_powder.json
 b55e3f992357dc4af6784d59fd9afaf7dd73c454 data/minecraft/advancement/recipes/decorations/white_bed.json
+46017e96348e4d43c62dd1f67580b41bd4bfdb6e data/minecraft/recipe/white_concrete_powder.json
+363b1c9ce433e33e5c8f030616f47f314e77e804 data/minecraft/recipe/lime_candle.json
 47e58d61f4411ce9cbe63f2040af1bc4ea81152c data/minecraft/recipe/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting.json
 1d4ff60be3ed42935c5b0959c79898ed109ed780 data/minecraft/advancement/recipes/decorations/brown_stained_glass_pane.json
 dc734535849a7863ae2634969abe36254190a519 data/minecraft/advancement/recipes/building_blocks/warped_planks.json

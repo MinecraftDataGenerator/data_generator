@@ -1,15 +1,15 @@
-// 1.21.5 Release Candidate 2	2025-10-09T18:42:33.752171439	vanilla/Tags for minecraft:damage_type
+// 1.21.5	2025-10-09T18:42:27.717258544	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
-fcafed271dc1cb0433d0273e880103fa82e16800 data/minecraft/tags/damage_type/mace_smash.json
 97bc06b51b83e660342256d2f473ef44b30ca235 data/minecraft/tags/damage_type/bypasses_resistance.json
+fcafed271dc1cb0433d0273e880103fa82e16800 data/minecraft/tags/damage_type/mace_smash.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/is_drowning.json
 d1ee7bd9dc6ab495ba73da1f280cf19c3e54586f data/minecraft/tags/damage_type/always_most_significant_fall.json
 21d1d8c6c9d191148549fec95848f0c6cb1d14bc data/minecraft/tags/damage_type/ignites_armor_stands.json
 353ee9f6dda2c75cd53e70497a8b3a799102951a data/minecraft/tags/damage_type/no_knockback.json
-bc03d5732e700f055089390e08de0be5d37237f4 data/minecraft/tags/damage_type/always_triggers_silverfish.json
 d40167b429b06075f9ed36ff1658ef78a7c2246e data/minecraft/tags/damage_type/is_fire.json
+bc03d5732e700f055089390e08de0be5d37237f4 data/minecraft/tags/damage_type/always_triggers_silverfish.json
 97bc06b51b83e660342256d2f473ef44b30ca235 data/minecraft/tags/damage_type/bypasses_invulnerability.json
 6101124bc5627eaec936e8be0b47f8e60b4f9afe data/minecraft/tags/damage_type/bypasses_effects.json
 d6ce6b37848d6058447a0943865a6d87f1e228eb data/minecraft/tags/damage_type/is_player_attack.json
@@ -21,8 +21,8 @@ c92ac0b7f9a0bcc2522fb816a726020416583be8 data/minecraft/tags/damage_type/bypasse
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/wither_immune_to.json
 ed55ab9d4f19e20aebacbdb89ee5e7c2984921d4 data/minecraft/tags/damage_type/avoids_guardian_thorns.json
 30fe47513222085b4b02b7acf6efb697bba32e59 data/minecraft/tags/damage_type/no_anger.json
-eb21f6254358f8c9a1c7f12e527baabc4b8af426 data/minecraft/tags/damage_type/is_fall.json
 5b4bea9cf71bdea9db4f9ed2fc3221bdc2137bfa data/minecraft/tags/damage_type/always_hurts_ender_dragons.json
+eb21f6254358f8c9a1c7f12e527baabc4b8af426 data/minecraft/tags/damage_type/is_fall.json
 624159080da2a0c36e3ffe8b5fa8308e4b3dae06 data/minecraft/tags/damage_type/is_projectile.json
 ee96bf77a69cb45c51e21f96302d79917ccbe7e6 data/minecraft/tags/damage_type/bypasses_shield.json
 b9db1487dd4ab90332c05a2e0602ff3f6a3b6c39 data/minecraft/tags/damage_type/is_explosion.json
