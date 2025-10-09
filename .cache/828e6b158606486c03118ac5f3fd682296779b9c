@@ -1,4 +1,4 @@
-// 23w41a	2025-10-09T18:52:46.781310386	vanilla/Loot Tables
+// 23w42a	2025-10-09T18:52:49.922042167	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -77,6 +77,7 @@ f84a84b212b49d9d0b8b066e58120d1b96431877 data/minecraft/loot_tables/blocks/stone
 89cda5e8592d70dc05dc836226e2e86c006818ac data/minecraft/loot_tables/chests/bastion_bridge.json
 972f94f4d065585d460cc0666231ee3eef71705f data/minecraft/loot_tables/blocks/seagrass.json
 9e195d964a21a83a1ee6a368e18d438a0e2abf15 data/minecraft/loot_tables/blocks/dispenser.json
+9404146f2b8324415174db8b17c42bf8667e7807 data/minecraft/loot_tables/blocks/crafter.json
 d5768e26dc50623696cad0dd70d2000f04438d48 data/minecraft/loot_tables/blocks/dark_prismarine_stairs.json
 0260fe2ad955c9995424596285f1fd81b32dc841 data/minecraft/loot_tables/blocks/twisting_vines_plant.json
 286133d6f6887bac55cdf07dab34ca4f98635e60 data/minecraft/loot_tables/blocks/sugar_cane.json
@@ -1052,8 +1053,8 @@ ea677d0a2798844a319089fce850c21e06733a34 data/minecraft/loot_tables/blocks/waxed
 206a5e07ea875fa95b36fe18098d9c7b68130e89 data/minecraft/loot_tables/blocks/cave_vines_plant.json
 3702b8e1f73f43be7dd722d0f013e76a0ea121ac data/minecraft/loot_tables/blocks/waxed_oxidized_cut_copper.json
 87c1be3dc8e7eb5f4397c268efcf81470f629f63 data/minecraft/loot_tables/entities/silverfish.json
-52f08265fbe5842952d7ebdf29d07bd889fe3081 data/minecraft/loot_tables/blocks/light_gray_carpet.json
 a1907666d67586f32ac3689feaf47500d022ae1c data/minecraft/loot_tables/blocks/mangrove_sign.json
+52f08265fbe5842952d7ebdf29d07bd889fe3081 data/minecraft/loot_tables/blocks/light_gray_carpet.json
 ee9e7f3f636d04492cc8dfd33d047c5c94f24bb3 data/minecraft/loot_tables/blocks/white_terracotta.json
 3bcf4ca5237f63bfbb2cd3213a57bd9b3c1b268a data/minecraft/loot_tables/blocks/purple_concrete_powder.json
 255b95ec5c1888d40631a100ab2c3684ad187750 data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json
