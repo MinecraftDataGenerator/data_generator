@@ -1,8 +1,8 @@
-// 22w18a	2025-10-09T19:00:23.453191978	Tags for minecraft:banner_pattern
-eba941bb77654e1498a456aa06c8eb71151316b8 data/minecraft/tags/banner_pattern/pattern_item/globe.json
-632527dff65a35e698b9250eded8370f28a55a02 data/minecraft/tags/banner_pattern/pattern_item/skull.json
-f9e3ac044830e41d2ed9ea594de7520b038b9435 data/minecraft/tags/banner_pattern/pattern_item/flower.json
-f33579f20a838e4f1b37c2e6a00856c686309a93 data/minecraft/tags/banner_pattern/pattern_item/piglin.json
-a104d9e73a1ccd89eca8971ce21eefbbb7d82c54 data/minecraft/tags/banner_pattern/pattern_item/creeper.json
-9fdb0968f042934ac29b3839021442529d5056d3 data/minecraft/tags/banner_pattern/pattern_item/mojang.json
-b801aa786a00bb13fb64d8fa648398ff2f5d3d6d data/minecraft/tags/banner_pattern/no_item_required.json
+// 22w19a	2025-10-09T19:00:25.077392466	Tags for minecraft:banner_pattern
+2fde436967c97bd28b21e6d604d3e3d0909aa5fa data/minecraft/tags/banner_pattern/pattern_item/globe.json
+fd8784340c4bcf8c4f20feea086ceebd965d20d7 data/minecraft/tags/banner_pattern/pattern_item/skull.json
+8a9a603a5ac941a149f07099fb0bcbb6320026c8 data/minecraft/tags/banner_pattern/pattern_item/flower.json
+fcf7bebab33ff2a152e0861b981a153d0a1e3af7 data/minecraft/tags/banner_pattern/pattern_item/piglin.json
+da9ec5f7ed64a0d225e00ee60b8e6d6408b431fb data/minecraft/tags/banner_pattern/pattern_item/creeper.json
+cdfcfddb70869c41a037d2fa9d13cebce67d276b data/minecraft/tags/banner_pattern/pattern_item/mojang.json
+6ba9481de22a553378d51ce2d4b366ce404b2b17 data/minecraft/tags/banner_pattern/no_item_required.json
