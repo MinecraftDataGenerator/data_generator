@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 1	2025-10-09T18:41:28.226852766	vanilla/Tags for minecraft:item
+// 1.21.6 Pre-Release 2	2025-10-09T18:41:28.493885809	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -153,8 +153,8 @@ ec1e5e186c92959fded287ecc70517d940073a3d data/minecraft/tags/item/wooden_trapdoo
 f8fefc25b1df4fbf75b2f1db5237ce04d2d50cc1 data/minecraft/tags/item/chicken_food.json
 ddddcd9ef8cd706876a4c5b9fb1bb011516a430c data/minecraft/tags/item/enchantable/sharp_weapon.json
 456b7e0327f1c0582d9d4d6aba733b810b8a8eea data/minecraft/tags/item/wooden_buttons.json
-734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/item/logs.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/item/banners.json
+734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/item/logs.json
 78d52a15257f82784b70913a5e08d27f0ef58f42 data/minecraft/tags/item/happy_ghast_tempt_items.json
 9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/sheep_food.json
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json

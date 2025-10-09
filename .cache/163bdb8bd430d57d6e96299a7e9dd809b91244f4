@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 1	2025-10-09T18:41:28.235187605	vanilla/Tags for minecraft:entity_type
+// 1.21.6 Pre-Release 2	2025-10-09T18:41:28.501711928	vanilla/Tags for minecraft:entity_type
 813a5e82a124f244206efa3c974874c17f57957d data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json

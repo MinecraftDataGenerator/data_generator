@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 1	2025-10-09T18:41:28.232904035	vanilla/Tags for minecraft:worldgen/biome
+// 1.21.6 Pre-Release 2	2025-10-09T18:41:28.499749418	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -18,8 +18,8 @@ a053eff4bd26b67c251ccf59a66ab8a98bbe5f6b data/minecraft/tags/worldgen/biome/is_b
 eac36e45c24e9f2ff3c1f50ad2ea4fc921892916 data/minecraft/tags/worldgen/biome/has_structure/village_taiga.json
 92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/reduce_water_ambient_spawns.json
 ff13fafcc6c847d2ce8a4262842bf1316dc580ea data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json
-a4f9d612ca290c91115ea42a33929c3a19d25442 data/minecraft/tags/worldgen/biome/is_overworld.json
 afd9da16b8e57511d3b12c69ccd4555d71ebb29f data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_ocean.json
+a4f9d612ca290c91115ea42a33929c3a19d25442 data/minecraft/tags/worldgen/biome/is_overworld.json
 66e7b7e8a1eeff59655dd708585483f40385eab1 data/minecraft/tags/worldgen/biome/water_on_map_outlines.json
 378840c455ad2277df61b86384bba36f3ec8b253 data/minecraft/tags/worldgen/biome/without_wandering_trader_spawns.json
 65aef629239b5fa923be6767bb43c837ebb35e8a data/minecraft/tags/worldgen/biome/required_ocean_monument_surrounding.json
@@ -56,8 +56,8 @@ a24545b58f3f91c6c033586e2b2ae12f1e8131b1 data/minecraft/tags/worldgen/biome/has_
 a24545b58f3f91c6c033586e2b2ae12f1e8131b1 data/minecraft/tags/worldgen/biome/has_structure/nether_fortress.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_structure/desert_pyramid.json
 7ab168754d6e78ecef39a6d1baa046622304b683 data/minecraft/tags/worldgen/biome/polar_bears_spawn_on_alternate_blocks.json
-068e9616fd14b1280352ffc9d66cc3846c00a5e4 data/minecraft/tags/worldgen/biome/is_ocean.json
 080d246ec6009090db8d9470d55c3ec78f26eced data/minecraft/tags/worldgen/biome/has_structure/igloo.json
+068e9616fd14b1280352ffc9d66cc3846c00a5e4 data/minecraft/tags/worldgen/biome/is_ocean.json
 79254fb0a47fe9e246a8658d0bc9c5d50191d7f2 data/minecraft/tags/worldgen/biome/has_structure/woodland_mansion.json
 ec7bbb0c9b5fc5378f8716f54862806404f04360 data/minecraft/tags/worldgen/biome/has_structure/ocean_monument.json
 65aef629239b5fa923be6767bb43c837ebb35e8a data/minecraft/tags/worldgen/biome/plays_underwater_music.json
