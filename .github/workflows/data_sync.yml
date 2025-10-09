@@ -84,6 +84,14 @@ jobs:
           
           echo "Verarbeite Versionen ab $START_VERSION, von der ältesten zur neuesten..."
           PROCESSED_COUNT=0
+          
+          # NEU: Speichere den Branch, der als Basis für den nächsten Branch dient.
+          # Wir starten immer von 'main' (oder 'master') als Basis.
+          LAST_BRANCH_NAME="main"
+          if ! git show-ref --verify --quiet refs/heads/main; then
+              LAST_BRANCH_NAME="master"
+          fi
+          echo "Start-Basis-Branch: $LAST_BRANCH_NAME"
 
           for VERSION_OBJECT in $VERSIONS_JSON; do
             VERSION_ID=$(echo "$VERSION_OBJECT" | jq -r '.id')
@@ -106,6 +114,8 @@ jobs:
             # --- 3. Prüfen, ob Branch existiert ---
             if git ls-remote --exit-code origin "$BRANCH_NAME" > /dev/null 2>&1; then
               echo "Branch $BRANCH_NAME existiert bereits remote. Überspringe Generierung."
+              # Wenn der Branch existiert, muss er als Basis für den nächsten dienen.
+              LAST_BRANCH_NAME="$BRANCH_NAME"
               continue
             fi
             
@@ -143,6 +153,10 @@ jobs:
             
             # --- 5. Git-Operationen (Branch erstellen, Kopieren, Commit) ---
             
+            # FIX: Checke den LAST_BRANCH_NAME aus, um die Historie zu erben.
+            echo "Wechsle zur Basis $LAST_BRANCH_NAME"
+            git checkout "$LAST_BRANCH_NAME"
+
             # Neuen Branch erstellen und darauf wechseln
             git branch "$BRANCH_NAME" || true
             git checkout "$BRANCH_NAME"
@@ -150,7 +164,7 @@ jobs:
             # B. Verzeichnis säubern (alles außer .git und .github)
             echo "Bereinige Arbeitsverzeichnis..."
             # Nur data/ und reports/ löschen, um das Repository für neue Daten vorzubereiten
-            rm -rf "$REPO_DIR/data" "$REPO_DIR/reports"
+            # rm -rf "$REPO_DIR/data" "$REPO_DIR/reports" wird nicht mehr benötigt, da der Branch sauber ausgecheckt wurde.
 
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $ABSOLUTE_GENERATED_PATH nach $REPO_DIR"
@@ -171,12 +185,15 @@ jobs:
               echo "Pushe Branch $BRANCH_NAME zu Remote..."
               git push "$AUTH_REPO_URL" "$BRANCH_NAME"
               PROCESSED_COUNT=$((PROCESSED_COUNT + 1))
+              # NEU: Aktualisiere den Basis-Branch für die nächste Iteration.
+              LAST_BRANCH_NAME="$BRANCH_NAME"
             else
               echo "Keine Änderungen für $VERSION_ID gefunden (kein Commit/Push)."
             fi
             
-            # WICHTIG: Zurückwechseln zum main-Branch für den nächsten Schleifendurchlauf
-            git checkout main || git checkout master || echo "Could not switch back to main/master branch."
+            # WICHTIG: Kein Zurückwechseln zum main-Branch hier, da die Schleife den Basis-Branch wechselt.
+            # Nur zum letzten Branch wechseln, falls der Push fehlschlägt (was hier nicht nötig ist).
+            # Wir verwenden den LAST_BRANCH_NAME.
 
           done # Ende der Versionsschleife
           
