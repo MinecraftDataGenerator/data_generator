@@ -2386,6 +2386,9 @@
       },
       "minecraft:entity.zombie_villager.step": {
         "protocol_id": 794
+      },
+      "minecraft:awesome_intro": {
+        "protocol_id": 795
       }
     }
   },
@@ -7607,6 +7610,18 @@
       },
       "minecraft:campfire": {
         "protocol_id": 876
+      },
+      "minecraft:red_key": {
+        "protocol_id": 877
+      },
+      "minecraft:blue_key": {
+        "protocol_id": 878
+      },
+      "minecraft:yellow_key": {
+        "protocol_id": 879
+      },
+      "minecraft:3d": {
+        "protocol_id": 880
       }
     }
   },
@@ -8081,6 +8096,9 @@
       },
       "minecraft:bonus_chest": {
         "protocol_id": 90
+      },
+      "minecraft:barrel": {
+        "protocol_id": 91
       }
     }
   },

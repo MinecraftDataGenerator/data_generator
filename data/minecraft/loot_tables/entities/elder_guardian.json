@@ -109,6 +109,15 @@
           "looting_multiplier": 0.01
         }
       ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_key"
+        }
+      ]
     }
   ]
 }

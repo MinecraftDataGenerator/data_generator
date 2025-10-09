@@ -15,6 +15,15 @@
           "name": "minecraft:saddle"
         }
       ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:yellow_key"
+        }
+      ]
     }
   ]
 }
