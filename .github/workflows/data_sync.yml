@@ -47,6 +47,13 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "GitHub Actions Bot"
           
+          # NEU: DMCA/EULA-Schutz: Füge den temporären Ordner zur .gitignore hinzu, 
+          # um sicherzustellen, dass die Minecraft Server JAR niemals committed wird.
+          echo "" >> .gitignore
+          echo "# Temporäres Verzeichnis für den Download und die Generierung der JAR-Dateien (DMCA/EULA-Schutz)" >> .gitignore
+          echo "$OUTPUT_DIR/" >> .gitignore
+          git add .gitignore
+          
           # Embed the PAT into the Git URL for pushing new branches.
           AUTH_REPO_URL=$(echo "${REPO_URL}" | sed "s|https://|https://${GH_TOKEN}@|")
 
@@ -85,7 +92,7 @@ jobs:
           echo "Verarbeite Versionen ab $START_VERSION, von der ältesten zur neuesten..."
           PROCESSED_COUNT=0
           
-          # NEU: Speichere den Branch, der als Basis für den nächsten Branch dient.
+          # Speichere den Branch, der als Basis für den nächsten Branch dient.
           # Wir starten immer von 'main' (oder 'master') als Basis.
           LAST_BRANCH_NAME="main"
           if ! git show-ref --verify --quiet refs/heads/main; then
@@ -163,8 +170,10 @@ jobs:
             
             # B. Verzeichnis säubern (alles außer .git und .github)
             echo "Bereinige Arbeitsverzeichnis..."
-            # Nur data/ und reports/ löschen, um das Repository für neue Daten vorzubereiten
-            # rm -rf "$REPO_DIR/data" "$REPO_DIR/reports" wird nicht mehr benötigt, da der Branch sauber ausgecheckt wurde.
+            # LÖSCHE NUR DIE VOM GENERATOR ERZEUGTEN DATEN-VERZEICHNISSE (data/ und reports/),
+            # um sicherzustellen, dass keine alten Dateien aus dem vorherigen Branch übrig bleiben, 
+            # die in der neuen Version gelöscht wurden.
+            rm -rf "$REPO_DIR/data" "$REPO_DIR/reports"
 
             # C. Inhalt von "generated" in das Repo-Wurzelverzeichnis kopieren
             echo "Kopiere Daten von $ABSOLUTE_GENERATED_PATH nach $REPO_DIR"
