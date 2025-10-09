@@ -1,4 +1,4 @@
-// 1.20.2 Pre-Release 3	2025-10-09T18:53:26.207992534	vanilla/Loot Tables
+// 1.20.2 Pre-Release 4	2025-10-09T18:53:23.315696224	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -10,8 +10,8 @@ ec9ac0bfef5a11d51f657d5fdbad2405400f7bbd data/minecraft/loot_tables/blocks/brown
 14ecdd79e6fbd7572b6823a343bc94bd42d30fde data/minecraft/loot_tables/blocks/acacia_sapling.json
 ea35c1452864695d4bbafb0e9ecdaed20b260112 data/minecraft/loot_tables/blocks/potted_allium.json
 ec3c0239cf6b671ab4c6e30fe2d1153c5c70e62a data/minecraft/loot_tables/blocks/smooth_quartz_stairs.json
-b3176e53fafb1a794ea2a906abc78c091e5bebdf data/minecraft/loot_tables/blocks/red_mushroom.json
 e5d818833e9ab464f0bfbaf9fe02ff4df1ac6f7a data/minecraft/loot_tables/blocks/mossy_stone_brick_slab.json
+b3176e53fafb1a794ea2a906abc78c091e5bebdf data/minecraft/loot_tables/blocks/red_mushroom.json
 7bd9e39c761c144ef4199670ab2e9a97ede6ee48 data/minecraft/loot_tables/entities/sheep.json
 c6fad0baaf242fafd7ab4af04de502fc21b9aa24 data/minecraft/loot_tables/blocks/purple_banner.json
 50652c82741a171e48fcae4707565504f480b662 data/minecraft/loot_tables/chests/stronghold_corridor.json
@@ -745,8 +745,8 @@ db483f89bd6a6f71e2ece42350814d82b3b8559a data/minecraft/loot_tables/blocks/smoot
 16627d78901fd7f72f23ebcc81e717877a2d5c67 data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 a57f92be2f30f6a5d42f66c8905a8add833bd8d2 data/minecraft/loot_tables/blocks/birch_trapdoor.json
 097a4f5a4df50e3e2aff94f0e2abb1deaf8e01b6 data/minecraft/loot_tables/blocks/potted_pink_tulip.json
-52052327b9ae772843164c701dc9be40ac6df431 data/minecraft/loot_tables/blocks/light_blue_bed.json
 7d77593e1ee18f049579f24302bfcb5e3b6f1f3b data/minecraft/loot_tables/blocks/spruce_fence_gate.json
+52052327b9ae772843164c701dc9be40ac6df431 data/minecraft/loot_tables/blocks/light_blue_bed.json
 63e9ecb03a641d1e7ca63a3453f4225d7510f061 data/minecraft/loot_tables/blocks/bamboo_pressure_plate.json
 1f8833138e14bec637c25208b1b9af7ac20461fa data/minecraft/loot_tables/blocks/oak_pressure_plate.json
 07b1e0c609d98491f48446188878d3049ec9be6f data/minecraft/loot_tables/blocks/green_stained_glass.json
@@ -1052,8 +1052,8 @@ ea677d0a2798844a319089fce850c21e06733a34 data/minecraft/loot_tables/blocks/waxed
 206a5e07ea875fa95b36fe18098d9c7b68130e89 data/minecraft/loot_tables/blocks/cave_vines_plant.json
 3702b8e1f73f43be7dd722d0f013e76a0ea121ac data/minecraft/loot_tables/blocks/waxed_oxidized_cut_copper.json
 87c1be3dc8e7eb5f4397c268efcf81470f629f63 data/minecraft/loot_tables/entities/silverfish.json
-52f08265fbe5842952d7ebdf29d07bd889fe3081 data/minecraft/loot_tables/blocks/light_gray_carpet.json
 a1907666d67586f32ac3689feaf47500d022ae1c data/minecraft/loot_tables/blocks/mangrove_sign.json
+52f08265fbe5842952d7ebdf29d07bd889fe3081 data/minecraft/loot_tables/blocks/light_gray_carpet.json
 ee9e7f3f636d04492cc8dfd33d047c5c94f24bb3 data/minecraft/loot_tables/blocks/white_terracotta.json
 3bcf4ca5237f63bfbb2cd3213a57bd9b3c1b268a data/minecraft/loot_tables/blocks/purple_concrete_powder.json
 255b95ec5c1888d40631a100ab2c3684ad187750 data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json
