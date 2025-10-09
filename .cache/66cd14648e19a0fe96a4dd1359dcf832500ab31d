@@ -1,10 +1,10 @@
-// 25w08a	2025-10-09T18:43:30.088405504	vanilla/Tags for minecraft:worldgen/structure
+// 25w09a	2025-10-09T18:43:20.962858866	vanilla/Tags for minecraft:worldgen/structure
 6e9b88a9d7545d083cd0118cff815131cf329080 data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json
 a124e2034270a8639a98494959c2524661377ecc data/minecraft/tags/worldgen/structure/shipwreck.json
 f2401a25b1b014422c676d22732df78913b05497 data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json
 2e3ef883a0d81134c688c5a78b72dcc44dfa15be data/minecraft/tags/worldgen/structure/on_ocean_explorer_maps.json
-f2fcdb1c324a7e0da59584ee097fe514ea673fc4 data/minecraft/tags/worldgen/structure/mineshaft.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/on_swamp_explorer_maps.json
+f2fcdb1c324a7e0da59584ee097fe514ea673fc4 data/minecraft/tags/worldgen/structure/mineshaft.json
 ffb1ae5133cbbafa849ea42c6110ebadcda39dbe data/minecraft/tags/worldgen/structure/on_desert_village_maps.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/cats_spawn_in.json
 660fa58aaa3b6fccf42dbabaf13d5dc3f49bc73d data/minecraft/tags/worldgen/structure/ocean_ruin.json
