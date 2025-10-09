@@ -1197,10 +1197,7 @@
                           "children": {
                             "range": {
                               "type": "argument",
-                              "parser": "minecraft:range",
-                              "properties": {
-                                "decimals": false
-                              },
+                              "parser": "minecraft:int_range",
                               "executable": true,
                               "redirect": [
                                 "execute"
@@ -1970,10 +1967,7 @@
                           "children": {
                             "range": {
                               "type": "argument",
-                              "parser": "minecraft:range",
-                              "properties": {
-                                "decimals": false
-                              },
+                              "parser": "minecraft:int_range",
                               "executable": true,
                               "redirect": [
                                 "execute"
@@ -3511,6 +3505,30 @@
               "type": "literal",
               "executable": true
             },
+            "modify": {
+              "type": "literal",
+              "children": {
+                "objective": {
+                  "type": "argument",
+                  "parser": "minecraft:objective",
+                  "children": {
+                    "displayname": {
+                      "type": "literal",
+                      "children": {
+                        "displayName": {
+                          "type": "argument",
+                          "parser": "brigadier:string",
+                          "properties": {
+                            "type": "greedy"
+                          },
+                          "executable": true
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
             "remove": {
               "type": "literal",
               "children": {
@@ -4009,7 +4027,7 @@
       "children": {
         "entity": {
           "type": "argument",
-          "parser": "minecraft:resource_location",
+          "parser": "minecraft:entity_summon",
           "children": {
             "pos": {
               "type": "argument",
