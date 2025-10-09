@@ -1,4 +1,4 @@
-// 25w19a	2025-10-09T18:41:52.525347461	vanilla/Tags for minecraft:item
+// 25w20a	2025-10-09T18:41:57.981544975	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -108,13 +108,13 @@ f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/item/terracotta.jso
 7aa8364ccbe0b84a1f9cb4892878783cc6f72d48 data/minecraft/tags/item/chest_boats.json
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_tool_materials.json
 555cdf03117de10eb8274ffe28d2304a4d7bfb9f data/minecraft/tags/item/shovels.json
-736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_iron_armor.json
 960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
+736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_iron_armor.json
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/item/buttons.json
 b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/item/trapdoors.json
-f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
 533400376c7ce584616f3af5acf77d2b925e82b1 data/minecraft/tags/item/harnesses.json
+f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
 02dfdb41688ccea8169a8d046943461f0aa3c361 data/minecraft/tags/item/fox_food.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.json
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/item/bee_food.json
@@ -153,8 +153,8 @@ ec1e5e186c92959fded287ecc70517d940073a3d data/minecraft/tags/item/wooden_trapdoo
 f8fefc25b1df4fbf75b2f1db5237ce04d2d50cc1 data/minecraft/tags/item/chicken_food.json
 ddddcd9ef8cd706876a4c5b9fb1bb011516a430c data/minecraft/tags/item/enchantable/sharp_weapon.json
 456b7e0327f1c0582d9d4d6aba733b810b8a8eea data/minecraft/tags/item/wooden_buttons.json
-53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/item/banners.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/item/logs.json
+53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/item/banners.json
 78d52a15257f82784b70913a5e08d27f0ef58f42 data/minecraft/tags/item/happy_ghast_tempt_items.json
 9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/sheep_food.json
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json
