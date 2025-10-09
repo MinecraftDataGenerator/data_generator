@@ -1,0 +1,6 @@
+// 1.20.2 Pre-release 1	2025-10-09T18:53:35.65280797	trade_rebalance/Loot Tables
+a453bc2ad806ea89ff78338670a4edc75dd17a2e data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/ancient_city.json
+db41c78c3d8db6c026c96d60c313f18e652671e8 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/desert_pyramid.json
+11836ed6bb20ccbdee729fbcb05ffa2f60bebdc4 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/abandoned_mineshaft.json
+d5f21b822f4cfd83ca0148efb1a5325143e9fbd5 data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/jungle_temple.json
+e90acada22191e5ec36410acf837a490743b109e data/minecraft/datapacks/trade_rebalance/data/minecraft/loot_tables/chests/pillager_outpost.json
