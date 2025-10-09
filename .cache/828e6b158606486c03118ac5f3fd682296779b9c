@@ -1,4 +1,4 @@
-// 1.20.2 Pre-release 2	2025-10-09T18:53:29.355137393	vanilla/Loot Tables
+// 1.20.2 Pre-Release 3	2025-10-09T18:53:26.207992534	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -10,8 +10,8 @@ ec9ac0bfef5a11d51f657d5fdbad2405400f7bbd data/minecraft/loot_tables/blocks/brown
 14ecdd79e6fbd7572b6823a343bc94bd42d30fde data/minecraft/loot_tables/blocks/acacia_sapling.json
 ea35c1452864695d4bbafb0e9ecdaed20b260112 data/minecraft/loot_tables/blocks/potted_allium.json
 ec3c0239cf6b671ab4c6e30fe2d1153c5c70e62a data/minecraft/loot_tables/blocks/smooth_quartz_stairs.json
-e5d818833e9ab464f0bfbaf9fe02ff4df1ac6f7a data/minecraft/loot_tables/blocks/mossy_stone_brick_slab.json
 b3176e53fafb1a794ea2a906abc78c091e5bebdf data/minecraft/loot_tables/blocks/red_mushroom.json
+e5d818833e9ab464f0bfbaf9fe02ff4df1ac6f7a data/minecraft/loot_tables/blocks/mossy_stone_brick_slab.json
 7bd9e39c761c144ef4199670ab2e9a97ede6ee48 data/minecraft/loot_tables/entities/sheep.json
 c6fad0baaf242fafd7ab4af04de502fc21b9aa24 data/minecraft/loot_tables/blocks/purple_banner.json
 50652c82741a171e48fcae4707565504f480b662 data/minecraft/loot_tables/chests/stronghold_corridor.json
