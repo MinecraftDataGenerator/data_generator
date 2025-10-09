@@ -1,6 +1,6 @@
-// 1.19 Pre-release 1	2025-10-09T19:00:08.220521075	Tags for minecraft:game_event
+// 1.19 Pre-release 2	2025-10-09T18:59:59.319275244	Tags for minecraft:game_event
 641d5946c42493fe7a161d4a3971814600234ffd data/minecraft/tags/game_events/shrieker_can_listen.json
-7fdedab3e7d8d17cb1c10e40a526e9f493f2d170 data/minecraft/tags/game_events/vibrations.json
-699864c3a72701a5aa1b54b2e8201cd6c7b9f738 data/minecraft/tags/game_events/warden_can_listen.json
+0a24698059927f6b029ce990bab004088e0d3eb1 data/minecraft/tags/game_events/vibrations.json
+47a4587523b4a7c1f08064451d00415a40192edc data/minecraft/tags/game_events/warden_can_listen.json
 2dd113837f785e075cf7d850d7430a24740b3365 data/minecraft/tags/game_events/ignore_vibrations_sneaking.json
 63d89aa5d8bf516444e2f3bbf763f637c72839b4 data/minecraft/tags/game_events/allay_can_listen.json

@@ -1,4 +1,4 @@
-// 1.19 Pre-release 1	2025-10-09T19:00:08.216164054	Tags for minecraft:block
+// 1.19 Pre-release 2	2025-10-09T18:59:59.319812155	Tags for minecraft:block
 ef2ed83fe72b5c16cac02e43a1425ccac6576d05 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -120,7 +120,7 @@ cba49c35a530041b3da1cb5d68a0a7ebcc1361cb data/minecraft/tags/blocks/mineable/hoe
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/blocks/stone_bricks.json
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/blocks/foxes_spawnable_on.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/blocks/gold_ores.json
-41c56fe58f954e164a3fc525996d427c5c3e0aaf data/minecraft/tags/blocks/snaps_goat_horn.json
+c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/blocks/snaps_goat_horn.json
 6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/blocks/campfires.json
 619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/blocks/polar_bears_spawnable_on_alternate.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/blocks/standing_signs.json
