@@ -10,8 +10,8 @@
         "north": "true"
       },
       "apply": {
-        "model": "minecraft:block/birch_fence_side",
-        "uvlock": true
+        "uvlock": true,
+        "model": "minecraft:block/birch_fence_side"
       }
     },
     {
@@ -19,9 +19,9 @@
         "east": "true"
       },
       "apply": {
-        "model": "minecraft:block/birch_fence_side",
         "uvlock": true,
-        "y": 90
+        "y": 90,
+        "model": "minecraft:block/birch_fence_side"
       }
     },
     {
@@ -29,9 +29,9 @@
         "south": "true"
       },
       "apply": {
-        "model": "minecraft:block/birch_fence_side",
         "uvlock": true,
-        "y": 180
+        "y": 180,
+        "model": "minecraft:block/birch_fence_side"
       }
     },
     {
@@ -39,9 +39,9 @@
         "west": "true"
       },
       "apply": {
-        "model": "minecraft:block/birch_fence_side",
         "uvlock": true,
-        "y": 270
+        "y": 270,
+        "model": "minecraft:block/birch_fence_side"
       }
     }
   ]

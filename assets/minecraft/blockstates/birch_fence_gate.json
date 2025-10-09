@@ -1,80 +1,80 @@
 {
   "variants": {
     "facing=east,in_wall=false,open=false": {
-      "uvlock": true,
       "y": 270,
-      "model": "minecraft:block/birch_fence_gate"
+      "model": "minecraft:block/birch_fence_gate",
+      "uvlock": true
     },
     "facing=east,in_wall=false,open=true": {
-      "uvlock": true,
       "y": 270,
-      "model": "minecraft:block/birch_fence_gate_open"
+      "model": "minecraft:block/birch_fence_gate_open",
+      "uvlock": true
     },
     "facing=east,in_wall=true,open=false": {
-      "uvlock": true,
       "y": 270,
-      "model": "minecraft:block/birch_fence_gate_wall"
+      "model": "minecraft:block/birch_fence_gate_wall",
+      "uvlock": true
     },
     "facing=east,in_wall=true,open=true": {
-      "uvlock": true,
       "y": 270,
-      "model": "minecraft:block/birch_fence_gate_wall_open"
+      "model": "minecraft:block/birch_fence_gate_wall_open",
+      "uvlock": true
     },
     "facing=north,in_wall=false,open=false": {
-      "uvlock": true,
       "y": 180,
-      "model": "minecraft:block/birch_fence_gate"
+      "model": "minecraft:block/birch_fence_gate",
+      "uvlock": true
     },
     "facing=north,in_wall=false,open=true": {
-      "uvlock": true,
       "y": 180,
-      "model": "minecraft:block/birch_fence_gate_open"
+      "model": "minecraft:block/birch_fence_gate_open",
+      "uvlock": true
     },
     "facing=north,in_wall=true,open=false": {
-      "uvlock": true,
       "y": 180,
-      "model": "minecraft:block/birch_fence_gate_wall"
+      "model": "minecraft:block/birch_fence_gate_wall",
+      "uvlock": true
     },
     "facing=north,in_wall=true,open=true": {
-      "uvlock": true,
       "y": 180,
-      "model": "minecraft:block/birch_fence_gate_wall_open"
+      "model": "minecraft:block/birch_fence_gate_wall_open",
+      "uvlock": true
     },
     "facing=south,in_wall=false,open=false": {
-      "uvlock": true,
-      "model": "minecraft:block/birch_fence_gate"
+      "model": "minecraft:block/birch_fence_gate",
+      "uvlock": true
     },
     "facing=south,in_wall=false,open=true": {
-      "uvlock": true,
-      "model": "minecraft:block/birch_fence_gate_open"
+      "model": "minecraft:block/birch_fence_gate_open",
+      "uvlock": true
     },
     "facing=south,in_wall=true,open=false": {
-      "uvlock": true,
-      "model": "minecraft:block/birch_fence_gate_wall"
+      "model": "minecraft:block/birch_fence_gate_wall",
+      "uvlock": true
     },
     "facing=south,in_wall=true,open=true": {
-      "uvlock": true,
-      "model": "minecraft:block/birch_fence_gate_wall_open"
+      "model": "minecraft:block/birch_fence_gate_wall_open",
+      "uvlock": true
     },
     "facing=west,in_wall=false,open=false": {
-      "uvlock": true,
       "y": 90,
-      "model": "minecraft:block/birch_fence_gate"
+      "model": "minecraft:block/birch_fence_gate",
+      "uvlock": true
     },
     "facing=west,in_wall=false,open=true": {
-      "uvlock": true,
       "y": 90,
-      "model": "minecraft:block/birch_fence_gate_open"
+      "model": "minecraft:block/birch_fence_gate_open",
+      "uvlock": true
     },
     "facing=west,in_wall=true,open=false": {
-      "uvlock": true,
       "y": 90,
-      "model": "minecraft:block/birch_fence_gate_wall"
+      "model": "minecraft:block/birch_fence_gate_wall",
+      "uvlock": true
     },
     "facing=west,in_wall=true,open=true": {
-      "uvlock": true,
       "y": 90,
-      "model": "minecraft:block/birch_fence_gate_wall_open"
+      "model": "minecraft:block/birch_fence_gate_wall_open",
+      "uvlock": true
     }
   }
 }

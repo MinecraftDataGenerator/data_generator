@@ -82,13 +82,13 @@
     },
     "face=wall,facing=north,powered=false": {
       "x": 90,
-      "uvlock": true,
-      "model": "minecraft:block/stone_button"
+      "model": "minecraft:block/stone_button",
+      "uvlock": true
     },
     "face=wall,facing=north,powered=true": {
       "x": 90,
-      "uvlock": true,
-      "model": "minecraft:block/stone_button_pressed"
+      "model": "minecraft:block/stone_button_pressed",
+      "uvlock": true
     },
     "face=wall,facing=south,powered=false": {
       "x": 90,
