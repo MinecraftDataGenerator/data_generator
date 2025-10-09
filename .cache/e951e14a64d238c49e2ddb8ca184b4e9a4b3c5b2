@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 2	2025-10-09T18:41:28.477135882	vanilla/Advancements
+// 1.21.6 Pre-Release 3	2025-10-09T18:41:27.53823868	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 5dac44cd2822b1cd2c9508d9d89ca2f0f6deb065 data/minecraft/advancement/end/root.json
@@ -80,7 +80,7 @@ b26d2c4970ea033e9d8f1bd42fdada7e6e267fbc data/minecraft/advancement/adventure/cr
 a394b9febbcdd8d19e5fe64a9ba4442abbe3cb84 data/minecraft/advancement/story/obtain_armor.json
 deb3facc69c2ef2bedab20ac071b3795fa884809 data/minecraft/advancement/husbandry/whole_pack.json
 a9723fd8faf7b7fecbf34d01e153cecc14d3e1ae data/minecraft/advancement/story/mine_stone.json
-3190cb5bc518c2589baa537f21bed67c0c1c7bd4 data/minecraft/advancement/husbandry/remove_wolf_armor.json
+c4b52015342248012d122e751ab2d6c1510606ec data/minecraft/advancement/husbandry/remove_wolf_armor.json
 d0ab0381d38485433a35f3e14542528f47238b7c data/minecraft/advancement/story/mine_diamond.json
 10075cbff45f493040a3587718ccc104d1369018 data/minecraft/advancement/end/levitate.json
 d4979b351ff1e46b83ac01502441c88221d7384b data/minecraft/advancement/nether/fast_travel.json

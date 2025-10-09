@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 2	2025-10-09T18:41:28.500058178	vanilla/Tags for minecraft:block
+// 1.21.6 Pre-Release 3	2025-10-09T18:41:27.576543523	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -125,8 +125,8 @@ cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_s
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/block/lapis_ores.json
 23f8b225b40273aa217361a5f80d59c954a3da1f data/minecraft/tags/block/mineable/hoe.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/block/wool_carpets.json
-74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
+74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 142370368e43b7d4da321528401df987a6ce35d4 data/minecraft/tags/block/crystal_sound_blocks.json
 b11fa6e29929f2e7106b38b86b6fa23fffae3894 data/minecraft/tags/block/goats_spawnable_on.json
@@ -145,8 +145,8 @@ dd3a77b2229c67cb46f729e311d06ba0f1ed4525 data/minecraft/tags/block/replaceable.j
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
 45bb9869c8765a149d367b37f30de3aa7b649c59 data/minecraft/tags/block/dirt.json
-f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.json
 c8409b7c9e49c5f3cb29b632d93a85d8325b3490 data/minecraft/tags/block/happy_ghast_avoids.json
+f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.json
 92861bbfc33718f65a6c66f4468675fa09ac162f data/minecraft/tags/block/animals_spawnable_on.json
 445ffbabd7c2f65b4778c62104d7ecffde797cbc data/minecraft/tags/block/fence_gates.json
 72c48bb2bb0c020c522578894e993b200e9e5efd data/minecraft/tags/block/wall_hanging_signs.json
