@@ -1,4 +1,4 @@
-// 25w35a	2025-10-09T18:39:20.979137437	vanilla/Tags for minecraft:item
+// 25w36a	2025-10-09T18:39:16.035739249	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -55,8 +55,8 @@ f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/item/pale_oak_logs.
 d9902302dcd6c7d67acfc5bb641cbae30cf3d03c data/minecraft/tags/item/enchantable/weapon.json
 0d7a4c11ebf0aae0af19bacbd70cea4cdca1a342 data/minecraft/tags/item/enchantable/bow.json
 7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/item/sand.json
-d11104fa740f8cba15f2b53b2528bec1cfc67db1 data/minecraft/tags/item/wooden_pressure_plates.json
 43dad06c318b3bf718e0b3d167976e74d46c9f8a data/minecraft/tags/item/wooden_doors.json
+d11104fa740f8cba15f2b53b2528bec1cfc67db1 data/minecraft/tags/item/wooden_pressure_plates.json
 e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 5d407768566931624382de0b64078a58503568c0 data/minecraft/tags/item/pickaxes.json
@@ -118,8 +118,8 @@ f8b33bdbdce4a74f9b09d6755c47411a750a0d4e data/minecraft/tags/item/lanterns.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_iron_armor.json
 960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/item/buttons.json
-b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 6222fd0d7d2ce08ee1f70be68a61f4e167dda650 data/minecraft/tags/item/copper_tool_materials.json
+b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/item/trapdoors.json
 f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
 533400376c7ce584616f3af5acf77d2b925e82b1 data/minecraft/tags/item/harnesses.json
