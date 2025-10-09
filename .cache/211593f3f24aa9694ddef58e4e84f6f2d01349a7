@@ -1,4 +1,4 @@
-// 24w39a	2025-10-09T18:46:15.184214315	vanilla/Tags for minecraft:worldgen/biome
+// 24w40a	2025-10-09T18:47:42.338678916	vanilla/Tags for minecraft:worldgen/biome
 cfdcb319da5d14a39f3b32e5f0e83e496eee9e43 data/minecraft/tags/worldgen/biome/snow_golem_melts.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -13,8 +13,8 @@ f618bcdd46ef4a345def4ad2181ac31502864c9a data/minecraft/tags/worldgen/biome/has_
 7b579e8660b80a30df3693ab8b42a9cb43915aef data/minecraft/tags/worldgen/biome/increased_fire_burnout.json
 c3d4e55bd4ed5d178abb10df76626eccdab7c209 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_jungle.json
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/produces_corals_from_bonemeal.json
-a053eff4bd26b67c251ccf59a66ab8a98bbe5f6b data/minecraft/tags/worldgen/biome/is_badlands.json
 70978571ac75b9d8954293882c95413c8505d39f data/minecraft/tags/worldgen/biome/spawns_snow_foxes.json
+a053eff4bd26b67c251ccf59a66ab8a98bbe5f6b data/minecraft/tags/worldgen/biome/is_badlands.json
 eac36e45c24e9f2ff3c1f50ad2ea4fc921892916 data/minecraft/tags/worldgen/biome/has_structure/village_taiga.json
 92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/reduce_water_ambient_spawns.json
 ff13fafcc6c847d2ce8a4262842bf1316dc580ea data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json
@@ -33,8 +33,8 @@ f85bfa0d4b462706e486bac541e720ebc630330c data/minecraft/tags/worldgen/biome/is_j
 f435c629c4e64303cb04329925903bda3d917ba9 data/minecraft/tags/worldgen/biome/is_hill.json
 f3dc9f00fb98a763e374de9b2aa55e6707d3a6f3 data/minecraft/tags/worldgen/biome/is_taiga.json
 3d220c49d07585dca965d162e0f6e1e6b51d2ee2 data/minecraft/tags/worldgen/biome/spawns_cold_variant_frogs.json
-c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json
 325e601b9c75d59207dfffc1a0149d9e965bd45e data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json
+c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_structure/village_desert.json
 b020f6cdcd2d955793278b2f89a178a1d31e599a data/minecraft/tags/worldgen/biome/has_structure/stronghold.json
 0394cc29b21ea80f88b2f36ea3f7dfb6c99192ff data/minecraft/tags/worldgen/biome/is_beach.json
