@@ -1,3 +1,10 @@
-// 24w09a	2025-10-09T18:50:34.980854113	update_1_21/Advancements
-d9b3369c102f3b5a9315ebe5edf543ae59dcce6c data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/kill_a_mob.json
-23b4494bc1f4d505b07e86c6e8eaf53bb0b36422 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/kill_all_mobs.json
+// 24w12a	2025-10-09T18:50:20.284849276	update_1_21/Advancements
+4b89a4fd1d227db404b10912eff319abfc0dd196 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/overoverkill.json
+c350aae1e8d243aac818c6c0b2216798533ab764 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/lighten_up.json
+129894a6961f7ec5f1098b08dd1ba5488edb1630 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/under_lock_and_key.json
+9615220500bb57ead431c62037591349f5d9b962 data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/who_needs_rockets.json
+02977617bdc6ec7afe9008f920620f7f3b08371b data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/kill_a_mob.json
+47faa1a87807abb3fab465219fd142944cce7e3e data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/minecraft_trials_edition.json
+b26d2c4970ea033e9d8f1bd42fdada7e6e267fbc data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/crafters_crafting_crafters.json
+d5aff20646bfad59278790628fa547ca98dc232b data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/kill_all_mobs.json
+8db552d2bdc26da58c56d03993bcd5e2073a19aa data/minecraft/datapacks/update_1_21/data/minecraft/advancements/adventure/blowback.json

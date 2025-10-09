@@ -5,14 +5,16 @@
       "conditions": {
         "block": "minecraft:bee_nest",
         "item": {
-          "enchantments": [
-            {
-              "enchantment": "minecraft:silk_touch",
-              "levels": {
-                "min": 1
+          "predicates": {
+            "minecraft:enchantments": [
+              {
+                "enchantment": "minecraft:silk_touch",
+                "levels": {
+                  "min": 1
+                }
               }
-            }
-          ]
+            ]
+          }
         },
         "num_bees_inside": 3
       },
@@ -24,6 +26,7 @@
       "translate": "advancements.husbandry.silk_touch_nest.description"
     },
     "icon": {
+      "count": 1,
       "id": "minecraft:bee_nest"
     },
     "title": {

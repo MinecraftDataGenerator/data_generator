@@ -1,6 +1,9 @@
-// 24w09a	2025-10-09T18:50:34.963531928	update_1_21/Tags for minecraft:item
+// 24w12a	2025-10-09T18:50:20.268475021	update_1_21/Tags for minecraft:item
+894534871bdc1917481c684dc1ec0dc9c065560f data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/trim_templates.json
+76540fce3dd0270e850ff04054055c73c8ba462c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/decorated_pot_sherds.json
 5e7030f5aec0cfe272652f20c67807d98bc94854 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/stairs.json
 eead159568467477b62e9f2314af15d122a3f48f data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/doors.json
+76540fce3dd0270e850ff04054055c73c8ba462c data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/decorated_pot_ingredients.json
 e4e0677676c88b770fb2f198c8904b8e4899ab59 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/slabs.json
 759fae2e6c137458e65ac556666a27231832447e data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/trapdoors.json
 4566532194d000f068193f3b594b6cf17b268601 data/minecraft/datapacks/update_1_21/data/minecraft/tags/items/walls.json
