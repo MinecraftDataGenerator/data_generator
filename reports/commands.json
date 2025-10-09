@@ -4685,7 +4685,7 @@
           "type": "argument",
           "parser": "minecraft:resource_or_tag",
           "properties": {
-            "registry": "minecraft:worldgen/configured_structure_feature"
+            "registry": "minecraft:worldgen/structure"
           },
           "executable": true
         }
@@ -7730,20 +7730,6 @@
           "properties": {
             "min": 0,
             "max": 65535
-          },
-          "children": {
-            "allowCommands": {
-              "type": "argument",
-              "parser": "brigadier:bool",
-              "children": {
-                "gamemode": {
-                  "type": "argument",
-                  "parser": "minecraft:gamemode",
-                  "executable": true
-                }
-              },
-              "executable": true
-            }
           },
           "executable": true
         }
