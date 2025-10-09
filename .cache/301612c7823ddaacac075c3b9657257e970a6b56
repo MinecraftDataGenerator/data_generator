@@ -1,4 +1,4 @@
-// 1.21 Pre-Release 3	2025-10-09T18:47:27.081320107	vanilla/Model Definitions
+// 1.21 Pre-Release 4	2025-10-09T18:47:24.243066219	vanilla/Model Definitions
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/minecraft/models/item/husk_spawn_egg.json
 032d5086adbdc64098925cfc465a7030434bf9cd assets/minecraft/models/block/stripped_bamboo_block.json
 1992ec8533ec64e4e699df945406934594b00abc assets/minecraft/models/item/stripped_spruce_log.json
@@ -595,8 +595,8 @@ e8ce5303ddc72a9ac41c19f29e478e8296b933e4 assets/minecraft/models/block/red_stain
 c858f41037879a5e0dd0d28d3f0cef8d3e915331 assets/minecraft/models/block/oak_door_top_right.json
 3dff9e1ec59415779195d2abfa9f07bc17b428a1 assets/minecraft/blockstates/void_air.json
 635d2a086fa955a1635a40031984e4d4a1e1afad assets/minecraft/models/item/creeper_banner_pattern.json
-a48f943d45059cdd0ea72b24aa892301b6139e3f assets/minecraft/models/block/granite_slab.json
 ec55e374b5e70818db85773612873f51f92e7d69 assets/minecraft/models/item/black_shulker_box.json
+a48f943d45059cdd0ea72b24aa892301b6139e3f assets/minecraft/models/block/granite_slab.json
 2af470b6f3845c30915965c3b3844b9d2f60ab4a assets/minecraft/models/item/writable_book.json
 1b3030c4b306402373ffd5310788812f58107668 assets/minecraft/models/block/warped_door_top_left_open.json
 d687197e859de3f6c9ca38cd41adb04100ea52a0 assets/minecraft/models/item/magenta_terracotta.json
@@ -1744,8 +1744,8 @@ d7244fa40067661f47e551cc2af6d68a78324a06 assets/minecraft/models/item/white_conc
 256789c23d1d61cc8b8dc06534f8c0fd9e00f1f5 assets/minecraft/blockstates/trial_spawner.json
 bff214b1cb0188805595132dd1aa704ef3d8fb36 assets/minecraft/models/block/red_sand.json
 1789a12e5e0068329dcc399cfead00af98d2201b assets/minecraft/models/item/tnt.json
-a85877e680f5b3e095eb6161bd2af1ff2ebe2b01 assets/minecraft/models/block/mud_brick_wall_side_tall.json
 2e3041f018d4f66ccd8a40d454ef4bda38c79318 assets/minecraft/models/item/waxed_weathered_copper_bulb.json
+a85877e680f5b3e095eb6161bd2af1ff2ebe2b01 assets/minecraft/models/block/mud_brick_wall_side_tall.json
 47eaac246c20e790a8eed48069fb640e3c9a673f assets/minecraft/models/item/pink_petals.json
 76891d4a3eb5fec0a8f93aefba7d346f83121220 assets/minecraft/models/item/light_07.json
 a7ebcd4297d6d22f828d48e543949bad1147cb0a assets/minecraft/models/block/light_03.json
@@ -1965,8 +1965,8 @@ a0ef86d87b7ab46e9d705d26819b68e84ee50aad assets/minecraft/models/item/honey_bloc
 22111cfa0994c273f6dc63cfdf63ca0892b04147 assets/minecraft/models/item/bamboo_stairs.json
 313406db02de3b0e1c5d120e62b07d46569464aa assets/minecraft/blockstates/red_tulip.json
 3e435a4b5f95cbb41d2d33cfcd21f6d534c2aa30 assets/minecraft/models/item/nautilus_shell.json
-561484327a6852277b0463d28b1f1e55274f4dfc assets/minecraft/models/item/egg.json
 c27db79b62c35025c090275600b851b8c5170302 assets/minecraft/models/block/loom.json
+561484327a6852277b0463d28b1f1e55274f4dfc assets/minecraft/models/item/egg.json
 642410cf4247507caed8b0104e58feff62b29b58 assets/minecraft/models/block/granite_wall_side_tall.json
 2f897ba102908cb1626fc7aab6f38d2530379348 assets/minecraft/blockstates/redstone_wire.json
 f514b417cde859b5c669ff3973fae517a5db3ce1 assets/minecraft/models/block/end_stone_brick_wall_side_tall.json
@@ -3591,8 +3591,8 @@ c1c7aee03efde2a42f242c3568b82b52d3b44e17 assets/minecraft/blockstates/petrified_
 78c5218cf6f7b1211701a0a13ba0a25d59156c71 assets/minecraft/blockstates/potted_dandelion.json
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/minecraft/models/item/magma_cube_spawn_egg.json
 0e170769010ef055352c65d28be2a5bcd5e4e0ad assets/minecraft/blockstates/cave_vines.json
-68a0bbeb0819746de8715688db3a2c9ff56c155e assets/minecraft/blockstates/glow_lichen.json
 6809c2b0cc2f3e91561aae887cb86703932dd813 assets/minecraft/blockstates/waxed_exposed_copper_trapdoor.json
+68a0bbeb0819746de8715688db3a2c9ff56c155e assets/minecraft/blockstates/glow_lichen.json
 c0a072493d3a36e6ec19185d6d3bd33c76e1d5e9 assets/minecraft/models/block/cut_red_sandstone_slab.json
 eb8b6600107d2776315b7cf9d45e9a53dab13d7f assets/minecraft/models/block/glass_pane_side_alt.json
 51c4a8a646cce8db9a2c7b062f26351ae67dbe65 assets/minecraft/models/item/stripped_spruce_wood.json

@@ -1,4 +1,4 @@
-// 1.21 Pre-Release 3	2025-10-09T18:47:27.096244539	vanilla/Recipes
+// 1.21 Pre-Release 4	2025-10-09T18:47:24.260728962	vanilla/Recipes
 6bfca1504a486901fc06d6d1e38a64458c36a3d8 data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 ee8b6458601fff7f67b745741b57b390a2320cc3 data/minecraft/recipe/spruce_planks.json
 d394d82650eafc27d893ab038ee7b419b920c597 data/minecraft/recipe/dye_magenta_bed.json
@@ -2366,8 +2366,8 @@ fa3e5ab914ae5cd81003d702dbddaa77562274ca data/minecraft/recipe/silence_armor_tri
 2c6dfbfe06386e5ccb993f12ccdbb8c26ae497de data/minecraft/advancement/recipes/decorations/orange_banner.json
 4d15e8c2bb79dc73a53a5514c97e7db67a43ce8a data/minecraft/recipe/bamboo_raft.json
 6747baf2112567cbe5f4d441b6e4b26eb9811ddd data/minecraft/recipe/gray_glazed_terracotta.json
-2e25f131658934998f87941c719ed3fd43d8e7c4 data/minecraft/advancement/recipes/decorations/birch_fence.json
 1cf516ea3d9c09da3088987c9feb8eb8a59d1610 data/minecraft/recipe/waxed_oxidized_cut_copper_stairs.json
+2e25f131658934998f87941c719ed3fd43d8e7c4 data/minecraft/advancement/recipes/decorations/birch_fence.json
 08edd0441428c68be7995fad901be9c0f824dbb5 data/minecraft/advancement/recipes/decorations/deepslate_brick_wall.json
 5441099a90024da6db53e21db90727c77d146ad2 data/minecraft/recipe/light_gray_concrete_powder.json
 147d3dd4ab521ff3892ed6963d86352701647ad4 data/minecraft/advancement/recipes/redstone/crimson_door.json
