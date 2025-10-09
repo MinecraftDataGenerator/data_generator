@@ -1,4 +1,4 @@
-// 24w37a	2025-10-09T18:46:22.124153372	vanilla/Tags for minecraft:block
+// 24w38a	2025-10-09T18:46:14.657835937	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -58,11 +58,11 @@ f7a73e2bb61eb03dfdfa33cddc872856d40eadf5 data/minecraft/tags/block/combination_s
 1fa725459f51aa8496c329cc2ac5530c0dc5bb7d data/minecraft/tags/block/bee_growables.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/block/wool_carpets.json
 c998cf5cbc50fe6ebff96350e415e3db67a94c6b data/minecraft/tags/block/wooden_pressure_plates.json
-a7909c7163d85f8e0b928c566fc0f89cc89e9b04 data/minecraft/tags/block/prevent_mob_spawning_inside.json
 db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/tags/block/all_hanging_signs.json
+a7909c7163d85f8e0b928c566fc0f89cc89e9b04 data/minecraft/tags/block/prevent_mob_spawning_inside.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
-0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/block/foxes_spawnable_on.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
+0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/block/foxes_spawnable_on.json
 84ec8be9cdb0097dbc6e35113fbd00d2157a310c data/minecraft/tags/block/mangrove_logs_can_grow_through.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 8764a27533bd7e677a24f1061965a780b6b3e274 data/minecraft/tags/block/lava_pool_stone_cannot_replace.json
@@ -99,9 +99,9 @@ f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.
 504b82b5cf5555c70a8dea493720a2a5139f1e55 data/minecraft/tags/block/fence_gates.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/block/unstable_bottom_center.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
+2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
 2d97a7b26d2a65b8dab30789033841371c7361d4 data/minecraft/tags/block/enchantment_power_transmitter.json
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/block/maintains_farmland.json
-2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
 f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_end.json
 0f244217291b57180a2e4cd1c2385dcab32dead4 data/minecraft/tags/block/banners.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json
@@ -134,8 +134,8 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 4161727d1e5d26faf957fabebe6b6c8cc6e884f2 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
+b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 158a4877fad0ee79d00e8c9f641ad661e822cdb5 data/minecraft/tags/block/sniffer_egg_hatch_boost.json

@@ -1,3 +1,35 @@
-// 24w37a	2025-10-09T18:46:22.125872073	bundle/Bundle Recipes
+// 24w38a	2025-10-09T18:46:14.660100337	bundle/Bundle Recipes
+243c4f17233b1b61799f12c5b1bc3887859277ba data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/pink_bundle.json
+847e5334e32329f4b8575f7771385ec3cd0fb08f data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/black_bundle.json
 0d249995d8c44b00ff4c3b732d158a210dbcf010 data/minecraft/datapacks/bundle/data/minecraft/recipe/bundle.json
+23d8092455e0f374b59fcd019f056570ae10261c data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/magenta_bundle.json
+e5383d17539623ece2a1744f8ac1ada3786889f9 data/minecraft/datapacks/bundle/data/minecraft/recipe/white_bundle.json
+1ca1eb58c6e2c08f9e4c5f7df6fa410de771aee8 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/purple_bundle.json
+c489fd9301d582d524d6dc8c4337cf90e3bba21e data/minecraft/datapacks/bundle/data/minecraft/recipe/magenta_bundle.json
+c2c30e0d2fca2f4b16f568157bfc048594f9fab3 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/blue_bundle.json
+ad901d4b91761b7e7e04a7a17d47574bcd93f8d5 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/light_blue_bundle.json
+01858de8b8edf4f14674313e151ba80094fb2cd2 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/lime_bundle.json
+196c7e1d3484fd2c5eed9453037060ea2ffa8fe5 data/minecraft/datapacks/bundle/data/minecraft/recipe/lime_bundle.json
+cccc3c2b242c78a0d45bd66c7a7e126479d0e337 data/minecraft/datapacks/bundle/data/minecraft/recipe/gray_bundle.json
+f52990e6fa1de980c098fbd13ec430c30f4ebb40 data/minecraft/datapacks/bundle/data/minecraft/recipe/orange_bundle.json
+d011a71d415d98efcd845ddd550c10d32b5f7ee4 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/yellow_bundle.json
+146f42727eb484091160a46ea90fd59be782e0ca data/minecraft/datapacks/bundle/data/minecraft/recipe/red_bundle.json
+5e8b44431350dcd87bc07ccd932bf07e8803d068 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/orange_bundle.json
+e963da0fa5d8ef2ae9681c67fc4033bf23a58a3a data/minecraft/datapacks/bundle/data/minecraft/recipe/black_bundle.json
+fd95a768b11ee5f17ea00d7b15950b7a9f65c55f data/minecraft/datapacks/bundle/data/minecraft/recipe/brown_bundle.json
+a85606f5c33f65e93e1bb4a5c9c9ce85b9654e5f data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/white_bundle.json
+c15fe1332435c044dbc8520923cde643108c255c data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/gray_bundle.json
+a6d2c9cd9aed2626e29bca55fa895040e59d4ec3 data/minecraft/datapacks/bundle/data/minecraft/recipe/pink_bundle.json
+7773903fb1c974041b4f81b25d5d3cf4c309b4b3 data/minecraft/datapacks/bundle/data/minecraft/recipe/light_gray_bundle.json
+b5d6cf7c59184ae486406ec6eb88c19e719aad49 data/minecraft/datapacks/bundle/data/minecraft/recipe/yellow_bundle.json
+63e168163c7f087786449485358a9ed61d4ee5f5 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/red_bundle.json
+83f92f1f1986fec0d5799c8381fcc20785437724 data/minecraft/datapacks/bundle/data/minecraft/recipe/green_bundle.json
+9b70354f0efdfe7cd54c713cf53b1e4e43d3549d data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/brown_bundle.json
+5761f5aed7cec785375fd7e6d8239883cbd5714d data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/light_gray_bundle.json
+8b24260a110630cb2525e765b1f8301b20a95e97 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/cyan_bundle.json
+72d04c0ea79f1f78147142dffe2a35be5eca71af data/minecraft/datapacks/bundle/data/minecraft/recipe/blue_bundle.json
 377867bf900697950e6747b4d543f12fd21994c3 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/bundle.json
+f2bd58406d7a8cb2f4822dc144edd10e68d5fad8 data/minecraft/datapacks/bundle/data/minecraft/recipe/light_blue_bundle.json
+b81b19082835f32ad5360dfeb1fdaefd3f805155 data/minecraft/datapacks/bundle/data/minecraft/recipe/cyan_bundle.json
+450f783cd928f80d0b4409622915b97b6d5d1a24 data/minecraft/datapacks/bundle/data/minecraft/recipe/purple_bundle.json
+d9baedc8c57bb6fb3f14aa90730e8a2fec608c53 data/minecraft/datapacks/bundle/data/minecraft/advancement/recipes/tools/green_bundle.json
