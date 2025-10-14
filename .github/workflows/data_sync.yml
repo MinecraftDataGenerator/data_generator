@@ -3,7 +3,7 @@ name: 'Minecraft Data Generator & Git Sync'
 on:
   # Schedule the job to run daily at 03:00 UTC to check for new versions
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 18 * * *'
   # Allow manual execution via the GitHub Actions interface
   workflow_dispatch:
 
