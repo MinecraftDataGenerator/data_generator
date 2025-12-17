@@ -16,11 +16,11 @@ jobs:
       contents: write 
 
     steps:
-      - name: 1. Setup Java 21 (Required for the Minecraft Data Generator JAR)
+      - name: 1. Setup Java 25 (Required for the Minecraft Data Generator JAR)
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          java-version: '21'
+          java-version: '25'
 
       - name: 2. Checkout Repository (using PAT for push access)
         # Use the PAT token from secrets for authentication on future pushes.
