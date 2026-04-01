@@ -60851,6 +60851,19 @@
       }
     ]
   },
+  "minecraft:copper_trap": {
+    "definition": {
+      "type": "minecraft:weathering_copper_full",
+      "properties": {},
+      "weathering_state": "unaffected"
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29874
+      }
+    ]
+  },
   "minecraft:copper_trapdoor": {
     "definition": {
       "type": "minecraft:weathering_copper_trap_door",
@@ -97479,6 +97492,19 @@
       }
     ]
   },
+  "minecraft:exposed_copper_trap": {
+    "definition": {
+      "type": "minecraft:weathering_copper_full",
+      "properties": {},
+      "weathering_state": "exposed"
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29875
+      }
+    ]
+  },
   "minecraft:exposed_copper_trapdoor": {
     "definition": {
       "type": "minecraft:weathering_copper_trap_door",
@@ -115900,6 +115926,18 @@
       {
         "default": true,
         "id": 131
+      }
+    ]
+  },
+  "minecraft:iron_trap": {
+    "definition": {
+      "type": "minecraft:block",
+      "properties": {}
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29873
       }
     ]
   },
@@ -171358,6 +171396,19 @@
           "hanging": "false",
           "waterlogged": "false"
         }
+      }
+    ]
+  },
+  "minecraft:oxidized_copper_trap": {
+    "definition": {
+      "type": "minecraft:weathering_copper_full",
+      "properties": {},
+      "weathering_state": "oxidized"
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29877
       }
     ]
   },
@@ -285035,6 +285086,18 @@
       }
     ]
   },
+  "minecraft:waxed_copper_trap": {
+    "definition": {
+      "type": "minecraft:block",
+      "properties": {}
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29878
+      }
+    ]
+  },
   "minecraft:waxed_copper_trapdoor": {
     "definition": {
       "type": "minecraft:trapdoor",
@@ -288272,6 +288335,18 @@
           "hanging": "false",
           "waterlogged": "false"
         }
+      }
+    ]
+  },
+  "minecraft:waxed_exposed_copper_trap": {
+    "definition": {
+      "type": "minecraft:block",
+      "properties": {}
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29879
       }
     ]
   },
@@ -291953,6 +292028,18 @@
       }
     ]
   },
+  "minecraft:waxed_oxidized_copper_trap": {
+    "definition": {
+      "type": "minecraft:block",
+      "properties": {}
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29881
+      }
+    ]
+  },
   "minecraft:waxed_oxidized_copper_trapdoor": {
     "definition": {
       "type": "minecraft:trapdoor",
@@ -295409,6 +295496,18 @@
           "hanging": "false",
           "waterlogged": "false"
         }
+      }
+    ]
+  },
+  "minecraft:waxed_weathered_copper_trap": {
+    "definition": {
+      "type": "minecraft:block",
+      "properties": {}
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29880
       }
     ]
   },
@@ -298876,6 +298975,19 @@
           "hanging": "false",
           "waterlogged": "false"
         }
+      }
+    ]
+  },
+  "minecraft:weathered_copper_trap": {
+    "definition": {
+      "type": "minecraft:weathering_copper_full",
+      "properties": {},
+      "weathering_state": "weathered"
+    },
+    "states": [
+      {
+        "default": true,
+        "id": 29876
       }
     ]
   },
