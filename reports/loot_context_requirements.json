@@ -1,0 +1,390 @@
+{
+  "minecraft:advancement_entity": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:advancement_location": {
+    "allowed": [
+      "minecraft:tool",
+      "minecraft:origin",
+      "minecraft:block_state",
+      "minecraft:block_entity",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:block_state",
+      "minecraft:tool",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:advancement_reward": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:archaeology": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:tool"
+    ],
+    "required": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:tool"
+    ]
+  },
+  "minecraft:barter": {
+    "allowed": [
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:block": {
+    "allowed": [
+      "minecraft:tool",
+      "minecraft:block_state",
+      "minecraft:explosion_radius",
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:block_entity"
+    ],
+    "required": [
+      "minecraft:tool",
+      "minecraft:origin",
+      "minecraft:block_state"
+    ]
+  },
+  "minecraft:block_interact": {
+    "allowed": [
+      "minecraft:tool",
+      "minecraft:origin",
+      "minecraft:block_state",
+      "minecraft:block_entity",
+      "minecraft:interacting_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:block_state"
+    ]
+  },
+  "minecraft:block_use": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:block_state"
+    ],
+    "required": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:block_state"
+    ]
+  },
+  "minecraft:chest": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:command_compute_default": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:command_compute_entity": {
+    "allowed": [
+      "minecraft:target_entity",
+      "minecraft:this_entity",
+      "minecraft:origin"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:target_entity"
+    ]
+  },
+  "minecraft:command_compute_position": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:block_state",
+      "minecraft:this_entity",
+      "minecraft:block_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:block_state"
+    ]
+  },
+  "minecraft:command_modifier": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:command_predicate": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:command_slot_source": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:container"
+    ],
+    "required": [
+      "minecraft:container",
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:container_process": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:block_state",
+      "minecraft:container",
+      "minecraft:block_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:block_state",
+      "minecraft:container",
+      "minecraft:block_entity"
+    ]
+  },
+  "minecraft:empty": {
+    "allowed": [],
+    "required": []
+  },
+  "minecraft:enchanted_damage": {
+    "allowed": [
+      "minecraft:damage_source",
+      "minecraft:direct_attacking_entity",
+      "minecraft:attacking_entity",
+      "minecraft:enchantment_level",
+      "minecraft:this_entity",
+      "minecraft:origin"
+    ],
+    "required": [
+      "minecraft:enchantment_level",
+      "minecraft:origin",
+      "minecraft:this_entity",
+      "minecraft:damage_source"
+    ]
+  },
+  "minecraft:enchanted_entity": {
+    "allowed": [
+      "minecraft:enchantment_level",
+      "minecraft:this_entity",
+      "minecraft:origin"
+    ],
+    "required": [
+      "minecraft:enchantment_level",
+      "minecraft:this_entity",
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:enchanted_item": {
+    "allowed": [
+      "minecraft:tool",
+      "minecraft:enchantment_level"
+    ],
+    "required": [
+      "minecraft:tool",
+      "minecraft:enchantment_level"
+    ]
+  },
+  "minecraft:enchanted_location": {
+    "allowed": [
+      "minecraft:enchantment_level",
+      "minecraft:enchantment_active",
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:enchantment_level",
+      "minecraft:enchantment_active",
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:entity": {
+    "allowed": [
+      "minecraft:damage_source",
+      "minecraft:direct_attacking_entity",
+      "minecraft:attacking_entity",
+      "minecraft:last_damage_player",
+      "minecraft:this_entity",
+      "minecraft:origin"
+    ],
+    "required": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:damage_source"
+    ]
+  },
+  "minecraft:entity_interact": {
+    "allowed": [
+      "minecraft:interacting_entity",
+      "minecraft:target_entity",
+      "minecraft:tool"
+    ],
+    "required": [
+      "minecraft:tool",
+      "minecraft:target_entity"
+    ]
+  },
+  "minecraft:equipment": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:fishing": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:tool"
+    ],
+    "required": [
+      "minecraft:tool",
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:generic": {
+    "allowed": [
+      "minecraft:tool",
+      "minecraft:this_entity",
+      "minecraft:enchantment_active",
+      "minecraft:direct_attacking_entity",
+      "minecraft:block_state",
+      "minecraft:additional_cost_component_allowed",
+      "minecraft:interacting_entity",
+      "minecraft:last_damage_player",
+      "minecraft:origin",
+      "minecraft:container",
+      "minecraft:damage_source",
+      "minecraft:block_entity",
+      "minecraft:explosion_radius",
+      "minecraft:enchantment_level",
+      "minecraft:target_entity",
+      "minecraft:attacking_entity"
+    ],
+    "required": [
+      "minecraft:tool",
+      "minecraft:this_entity",
+      "minecraft:enchantment_active",
+      "minecraft:direct_attacking_entity",
+      "minecraft:block_state",
+      "minecraft:additional_cost_component_allowed",
+      "minecraft:interacting_entity",
+      "minecraft:last_damage_player",
+      "minecraft:origin",
+      "minecraft:container",
+      "minecraft:damage_source",
+      "minecraft:block_entity",
+      "minecraft:explosion_radius",
+      "minecraft:enchantment_level",
+      "minecraft:target_entity",
+      "minecraft:attacking_entity"
+    ]
+  },
+  "minecraft:gift": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:hit_block": {
+    "allowed": [
+      "minecraft:enchantment_level",
+      "minecraft:block_state",
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:enchantment_level",
+      "minecraft:block_state",
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:selector": {
+    "allowed": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ],
+    "required": [
+      "minecraft:origin",
+      "minecraft:this_entity"
+    ]
+  },
+  "minecraft:shearing": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:tool"
+    ],
+    "required": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:tool"
+    ]
+  },
+  "minecraft:vault": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:origin",
+      "minecraft:tool"
+    ],
+    "required": [
+      "minecraft:origin"
+    ]
+  },
+  "minecraft:villager_trade": {
+    "allowed": [
+      "minecraft:this_entity",
+      "minecraft:additional_cost_component_allowed",
+      "minecraft:origin"
+    ],
+    "required": [
+      "minecraft:this_entity",
+      "minecraft:additional_cost_component_allowed",
+      "minecraft:origin"
+    ]
+  }
+}
